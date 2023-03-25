@@ -1186,3 +1186,118 @@ the George Gorton Machine Company originated this apparently.
 
     Champaign-Urbana Mass Transit District #401, formerly TARC #401.
 
+2021-02-21
+
+-   The phenomenon of chills or goosebumps that come from a piece of
+    music (or from any other aesthetic experience) is called frisson,
+    and it's been one of the big mysteries of human nature since it
+    was first described.
+    
+    FRISSON /free-sawn/
+    
+    aka "aesthetic chills" or "musical chills"
+    
+-   If the music so good it is sublime you might be experiencing
+    "numinous".
+    
+    This word is for when something is so good that you can't help but
+    detect a hint of divinity or spirituality in it. This is also good
+    for when you have deep seated connection to your fellow humans,
+    perhaps after some great work of good you all share in numinous
+    solidarity.
+
+-   Regarding frisson/numinous:
+
+    -   also Stendhal Syndrome
+        <https://interlude.hk/moved-tears/>
+
+    -   <https://ell.stackexchange.com/questions/140087/is-there-a-word-for-the-unutterable-feeling-when-listening-to-a-beautiful-song>
+    
+    -   <https://www.independent.co.uk/life-style/music-give-chills-spine-brain-special-research-university-southern-california-a8043416.html>
+
+        -   <https://www.youtube.com/watch?v=oUfW0Tex1G0>
+
+            Research assistant Alissa Der Sarkissian believes that her
+            body completely changes when she listens to the song
+            “Nude” by Radiohead, reports USC News.
+
+        -   <https://www.youtube.com/watch?v=cgqOSCgc8xc>
+
+            A "sad" song.  "9 Crimes" by Damien Rice, from his album
+            "9".
+
+    -   <https://en.wikipedia.org/wiki/Frisson>
+    
+    -   <https://www.discovery.com/science/Getting-Chills-from-Music>
+    
+    -   <https://www.nbcnews.com/better/health/why-do-certain-songs-make-us-cry-ncna784801>
+    
+    -   <https://digest.bps.org.uk/2017/05/02/psychologists-have-studied-whats-happening-when-music-gives-us-chills-or-makes-us-cry/>
+
+    Songs that for some reason induce feelings in me
+    
+    -   "Brahms' Lullaby" in C sharp on a music box.
+
+-   <https://en.wikipedia.org/wiki/Appoggiatura>
+
+2021-02-18
+
+-   <https://free-for.dev/>
+
+    Developers and Open Source authors now have a massive amount of
+    services offering free tiers, but it can be hard to find them all
+    to make informed decisions.
+    
+    This is a list of software (SaaS, PaaS, IaaS, etc.) and other
+    offerings that have free tiers for developers.
+    
+    The scope of this particular list is limited to things that
+    infrastructure developers (System Administrator, DevOps
+    Practitioners, etc.) are likely to find useful. We love all the
+    free services out there, but it would be good to keep it on
+    topic. It's a bit of a grey line at times so this is a bit
+    opinionated; do not be offended if I do not accept your
+    contribution.
+    
+    This list is the result of Pull Requests, reviews, ideas and work
+    done by 500+ people. You too can help by sending Pull Requests to
+    add more services or by remove ones whose offerings have changed
+    or been retired.
+    
+    NOTE: This list is only for as-a-Service offerings, not for
+    self-hosted software. For a service to be eligible it has to offer
+    a free tier and not just a free trial. If the free tier is
+    time-bucketed it has to be for at least a year. We also consider
+    the free tier from a security perspective, so SSO is fine but I
+    will not accept services that restrict TLS to paid-only tiers.
+
+-   <https://martinheinz.dev/blog/43>
+
+    Advanced Git Features You Didn’t Know You Needed
+    
+    git is very powerful tool which almost every developer needs to
+    use on daily basis, but for most us it's usage is reduced to just
+    a few commands such as pull, commit and push. To be efficient,
+    productive and wield the full power of git however, one needs to
+    know a few more commands and tricks. So, in this article we will
+    explore some of the easy to use, remember and configure features
+    of git, that might make your time dealing with version control so
+    much more enjoyable.
+
+2021-01-21
+
+-   xterm does graphics (sort of)
+
+    <https://jirkasnotes.wordpress.com/2019/07/17/xterm-does-graphics-sort-of/>
+
+-   coping with unix, a survival guide
+
+    <http://sites.science.oregonstate.edu/~landaur/nacphy/coping-with-unix/book.html>
+
+-   build your own text editor, with source code
+
+    <https://viewsourcecode.org/snaptoken/kilo/index.html>
+
+-   dumbdown, a dumb alternative to markdown
+
+    <https://github.com/treenotation/dumbdown>
