@@ -1483,153 +1483,161 @@ Name one thing in this photo.
 
 2018-10-13
 
-<https://tonic.vice.com/en_us/article/kzxe83/this-breathing-exercise-can-calm-you-down-in-a-few-minutes?utm_campaign=sharebutton>
+-   <https://tonic.vice.com/en_us/article/kzxe83/this-breathing-exercise-can-calm-you-down-in-a-few-minutes?utm_campaign=sharebutton>
 
-Resonant breathing, also known by the trademarked term Coherent
-Breathing.
+    Resonant breathing, also known by the trademarked term Coherent
+    Breathing.
 
-Take regular breaths in and out of the nose, at a pace of five breaths
-per minute.  Six seconds in, six seconds out.
+    Take regular breaths in and out of the nose, at a pace of five breaths
+    per minute.  Six seconds in, six seconds out.
 
-Sesssions should be 15 to 20 minutes, perhaps even longer.
+    Sesssions should be 15 to 20 minutes, perhaps even longer.
 
 2018-08-01
 
-<https://www.youtube.com/watch?v=uldt6Y-CE3s>
+-   <https://www.youtube.com/watch?v=uldt6Y-CE3s>
 
-Redd Foxx sez Wash your ass.
-Stop wearing white shorts.
+    Redd Foxx sez Wash your ass.
+    Stop wearing white shorts.
 
 2018-07-07
 
-<http://buildyourownlisp.com/>
+-   <http://buildyourownlisp.com/>
 
-Learn how to program in C.
-Then learn about the concepts involved in designing programming language.
-Then build your own implementation of LISP.
+    Learn how to program in C.
+
+    Then learn about the concepts involved in designing programming language.
+
+    Then build your own implementation of LISP.
 
 2018-07-04
 
-<https://www.ranker.com/list/the-untold-truth-about-juggalos/eric-vega>
+-   <https://www.ranker.com/list/the-untold-truth-about-juggalos/eric-vega>
 
-The Untold Truths About Juggalos: What It Really Means To Be “Down
-With The Clown”
+    The Untold Truths About Juggalos: What It Really Means To Be “Down
+    With The Clown”
 
     keywords: insane clown posse; icp; juggalos; juggalettes
 
-<http://www.bookofjoe.com/2018/06/behindthemedspeak-how-to-find-a-doctor.html>
+-   <http://www.bookofjoe.com/2018/06/behindthemedspeak-how-to-find-a-doctor.html>
 
-How to find a doctor.
+    How to find a doctor.
 
-<https://www.xrite.com/hue-test>
-<http://www.bookofjoe.com/2018/06/hows-your-color-vision.html>
+-   <https://www.xrite.com/hue-test>
 
-How color blind are you?  My score is 10.  I don't know what that
-means.
+    <http://www.bookofjoe.com/2018/06/hows-your-color-vision.html>
+
+    How color blind are you?  My score is 10.  I don't know what that
+    means.
 
 2018-06-20
 
-<https://twitter.com/torahhorse/status/1008896014634242048>
+-   <https://twitter.com/torahhorse/status/1008896014634242048>
 
-"imagine naming something ogg vorbis"
+    "imagine naming something ogg vorbis"
 
-<https://twitter.com/drewtoothpaste/status/525044698071957505>
+-   <https://twitter.com/drewtoothpaste/status/525044698071957505>
 
-"Come to VLC Media Player in next 15 mins if u want an ass kicking"
+    "Come to VLC Media Player in next 15 mins if u want an ass kicking"
 
 2018-06-17
 
-<http://www.serenitystreetnews.com>
-<https://www.lingscars.com/>
+-   <http://www.serenitystreetnews.com>
 
-The most amazing sites
+-   <https://www.lingscars.com/>
+
+    The most amazing sites
 
 2018-06-15
 
-<http://www.classicshell.net/>
+-   <http://www.classicshell.net/>
 
-It's some kind of classic start menu thing for Windows 10.
+    It's some kind of classic start menu thing for Windows 10.
 
 2018-06-14
 
-<https://medium.com/@wilw/my-name-is-wil-wheaton-i-live-with-chronic-depression-and-generalized-anxiety-i-am-not-ashamed-8f693f9c0af1>
+-   <https://medium.com/@wilw/my-name-is-wil-wheaton-i-live-with-chronic-depression-and-generalized-anxiety-i-am-not-ashamed-8f693f9c0af1>
 
-My name is Wil Wheaton. I Live With Chronic Depression and Generalized
-Anxiety. I Am Not Ashamed.
+    My name is Wil Wheaton. I Live With Chronic Depression and Generalized
+    Anxiety. I Am Not Ashamed.
 
 2018-06-09
 
-<https://thegracefulpatient.wordpress.com/2017/12/15/a-simple-mental-health-pain-scale/>
+-   <https://thegracefulpatient.wordpress.com/2017/12/15/a-simple-mental-health-pain-scale/>
 
-An Australian blogger who goes by the nom de plume The Graceful
-Patient created a pain scale for mental health.
+    An Australian blogger who goes by the nom de plume The Graceful
+    Patient created a pain scale for mental health.
 
-If you've ever visited a psychiatrist or therapist, chances are you
-might have filled out something more complicated, like a K10 (Kessler
-Psychological Distress Scale) questionnaire, for example. You can look
-it up but it's one of those 10-question forms where your answers are
-on a scale from 1 to 5 ("none of the time" to "all of the time", that
-sort of thing).
+    If you've ever visited a psychiatrist or therapist, chances are you
+    might have filled out something more complicated, like a K10 (Kessler
+    Psychological Distress Scale) questionnaire, for example. You can look
+    it up but it's one of those 10-question forms where your answers are
+    on a scale from 1 to 5 ("none of the time" to "all of the time", that
+    sort of thing).
 
-While those have been proven to work and will still remain useful, the
-blogger (who is not a mental health professional) perceived a need for
-a simpler overall scale not unlike That 0–10 Pain Scale With The
-Smiley Faces but for mental illness instead of other forms of physical
-pain.
+    While those have been proven to work and will still remain useful, the
+    blogger (who is not a mental health professional) perceived a need for
+    a simpler overall scale not unlike That 0–10 Pain Scale With The
+    Smiley Faces but for mental illness instead of other forms of physical
+    pain.
 
-I'm not certain whether mental health care teams will find this useful
-as a starting point but it seems like a *really* simple way to
-communicate with loved ones, at least in summary form.
+    I'm not certain whether mental health care teams will find this useful
+    as a starting point but it seems like a *really* simple way to
+    communicate with loved ones, at least in summary form.
 
 2018-06-05
 
-<https://www.facebook.com/Vox/videos/891621461025457/>
+-   <https://www.facebook.com/Vox/videos/891621461025457/>
 
-A Fairlight CM1 synthesizer
+    A Fairlight CM1 synthesizer
 
 2018-06-03
 
-Tattooed pastor Nadia Bolz-Weber, founder of the Church for All
-Sinners and Saints in Denver, CO.
+-   Tattooed pastor Nadia Bolz-Weber, founder of the Church for All
+    Sinners and Saints in Denver, CO.
 
-<https://www.facebook.com/makerswomen/videos/1547123348729317/>
-"Blessed are the agnostics."
+    <https://www.facebook.com/makerswomen/videos/1547123348729317/>
 
-<https://www.facebook.com/makerswomen/videos/1546122852162700/>
-The video that exposed me to her.
-It's the one about the apocalypse.
+    "Blessed are the agnostics."
+
+    <https://www.facebook.com/makerswomen/videos/1546122852162700/>
+
+    The video that exposed me to her.
+    It's the one about the apocalypse.
 
 2018-05-31
 
-<https://www.youtube.com/watch?v=5uiroWBkdFY>
+-   <https://www.youtube.com/watch?v=5uiroWBkdFY>
 
-soldering
+    soldering
 
-<https://www.youtube.com/watch?v=AqvHogekDI4>
+-   <https://www.youtube.com/watch?v=AqvHogekDI4>
 
-soldering
+    soldering
 
 2018-05-30
 
-<http://www.bookofjoe.com/2018/05/life-and-work-liana-finck.html>
+-   <http://www.bookofjoe.com/2018/05/life-and-work-liana-finck.html>
 
-Live and Work - Liana Finck
+    Live and Work - Liana Finck
 
-NEAT
+    NEAT
 
 2018-05-29
 
-<https://imgur.com/a/4A5lGVi>
+-   <https://imgur.com/a/4A5lGVi>
 
-> Get your shit together.
-> Get it all together and put it in a backpack.
-> All your shit, so it's together, and if you have to take it somewhere, take it somewhere, you know?
-> Take it to the shit store and sell it, or put it in a shit museum.
-> I don't care what you do, you just have to get it together.
-> Get your shit together.
+    > Get your shit together.
+    > Get it all together and put it in a backpack.
+    > All your shit, so it's together, and if you have to take it somewhere, take it somewhere, you know?
+    > Take it to the shit store and sell it, or put it in a shit museum.
+    > I don't care what you do, you just have to get it together.
+    > Get your shit together.
 
-via:
-<https://www.reddit.com/r/rickandmorty/comments/8lur0c/i_work_in_an_office_mostly_occupied_by_moms_with/>
+    via:
+    <https://www.reddit.com/r/rickandmorty/comments/8lur0c/i_work_in_an_office_mostly_occupied_by_moms_with/>
+
+Older
 
 -   <http://www.html5pcode.com/>
 
