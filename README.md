@@ -1609,3 +1609,71 @@ soldering
 
 soldering
 
+2018-05-30
+
+<http://www.bookofjoe.com/2018/05/life-and-work-liana-finck.html>
+
+Live and Work - Liana Finck
+
+NEAT
+
+2018-05-29
+
+<https://imgur.com/a/4A5lGVi>
+
+> Get your shit together.
+> Get it all together and put it in a backpack.
+> All your shit, so it's together, and if you have to take it somewhere, take it somewhere, you know?
+> Take it to the shit store and sell it, or put it in a shit museum.
+> I don't care what you do, you just have to get it together.
+> Get your shit together.
+
+via:
+<https://www.reddit.com/r/rickandmorty/comments/8lur0c/i_work_in_an_office_mostly_occupied_by_moms_with/>
+
+-   <http://www.html5pcode.com/>
+
+    The best programming environment ever.
+
+-   <http://peach-melpa.org/>
+
+    emacs theme gallery
+
+-   <http://peach-melpa.org/themes/134>
+
+    green-phosphor-theme
+
+-   <https://i.imgur.com/LL4faRE.gifv>
+
+    a quality video
+
+    stock video of woman typing gibberish
+
+-   <https://imgur.com/IsfQBTO>
+
+    another quality video
+
+    bird steals your key
+
+-   <https://www.thrillist.com/lifestyle/chicago/the-wiener-circle-chicago-hot-dog-stand>
+
+    The Wiener's Circle, a Chicago hot dog stand where employees
+    and customers exchange foul language.
+
+-   <http://www.nyan.cat/>
+
+-   <http://pickle.cat/> =&gt; <https://dn.ht/picklecat/>
+
+-   <http://www.youtube.com/watch?v=Z_hYH1z3kyw>
+
+    Some guy named Chuck sings Mark Morrison's smash hit single
+    "Return Of The Mack" at karaoke, Jillian's Billiards in 1996
+
+-   <https://www.youtube.com/watch?v=D7wmMZmMinM>
+
+    UNITED STATES PATENT NUMBER 3,699,296<br>
+    CATASTROPHICALLY BUCKLING COMPRESSION COLUMN SWITCH AND ACTUATOR<br>
+    GRANTED OCTOBER 17, 1972
+
+    The Model M is a membrane keyboard, not technically a mechanical keyboard.
+
