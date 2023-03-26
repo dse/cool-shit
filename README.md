@@ -1670,7 +1670,7 @@ Older
 
 -   <http://www.nyan.cat/>
 
--   <http://pickle.cat/> =&gt; <https://dn.ht/picklecat/>
+    <http://pickle.cat/> =&gt; <https://dn.ht/picklecat/>
 
 -   <http://www.youtube.com/watch?v=Z_hYH1z3kyw>
 
@@ -1684,4 +1684,1939 @@ Older
     GRANTED OCTOBER 17, 1972
 
     The Model M is a membrane keyboard, not technically a mechanical keyboard.
+
+-   <https://media1.tenor.co/images/6d650ab31ed8953bdb411e7824c3cc44/tenor.gif?itemid=4764797>
+
+    me pissing irl
+
+-   <https://www.youtube.com/watch?v=fQ9nQNx0KEs&feature=youtu.be>
+
+    If you like SMOOTH BY SANTANA FEATURING ROB THOMAS OF MATCHBOX TWENTY
+    then you will love INTO THE NIGHT BY SANTANA FEATURING CHAD KROEGER OF NICKELBACK
+
+-   <https://twitter.com/GaurivanGulik/status/981277992130416640>
+
+    a duck and her babies jump into the river
+
+-   <http://yager.io/programming/go.html>
+
+    <https://github.com/ksimka/go-is-not-good>
+
+    why golang is bad apparently
+
+-   <https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/>
+
+    why go channels are bad
+
+-   <https://www.youtube.com/watch?v=gEJHrmliVQw>
+
+    farming simulator mad skill no plow
+
+-   <https://forums.somethingawful.com/showthread.php?threadid=3617481&userid=0&perpage=40&pagenumber=496#post481961156>
+
+    > IDK I personally would expect GlobAllocations.h and
+    > GlobalLocations.h to be distinct files.
+
+    > Time to quietly write this quirk of luck into all major
+    > repos at my current workplace.
+
+    AnalBumCover AnAlbumCover
+
+-   <https://www.youtube.com/watch?v=tO5sxLapAts>
+
+    the source of the "step 3 profit" meme is a south park
+    episode where gnomes who steal underpants explain their
+    business model.
+
+-   <https://www.youtube.com/watch?v=9EfI-PPBwzU>
+
+    life of a junior developer
+
+-   <https://www.youtube.com/watch?v=6g4dkBF5anU>
+
+    <https://www.youtube.com/watch?v=w-SIManm_Qo>
+
+    Cisco CallManager default hold music
+    "Opus Number One"
+
+-   <https://www.youtube.com/watch?v=OzOh9cTbX60>
+
+    79 Instrumental songs everyone knows, but no one knows the name of
+
+-   <https://www.youtube.com/watch?v=8XPtM873qWw>
+
+    iMovie stock music
+
+-   <https://www.youtube.com/watch?v=c5CeM2Drooc>
+
+    If I Had A Chicken by Kevin Macleod
+
+-   <https://www.youtube.com/watch?v=F9SNSPUWnTs>
+
+    I've got a computer!
+    #covax #corvax #muzzyInGondoland
+
+-   <https://www.youtube.com/watch?v=Bgosh-nqzro>
+
+    the club depot
+    a home depot dj
+
+-   <https://www.youtube.com/watch?v=b2F-DItXtZs>
+
+    mongodb is a web scale database and doesn't use sql or joins,
+    so it's high performance.
+
+-   <https://www.youtube.com/watch?v=FwXR-gey9XE>
+
+    I WANT TO FUCK MORE [FUCK-BOT 5000]
+
+-   <https://www.youtube.com/watch?v=Wg7tOQO-aGM>
+
+    Steamed Hams but it's sung by Wesley Willis: Our Lord and Savior
+
+-   <https://www.youtube.com/watch?v=Hy8kmNEo1i8&hd=1>
+
+    scatman!
+
+-   <https://www.youtube.com/watch?v=5hfYJsQAhl0>
+
+    "What you've just said is one of the most insanely idiotic
+    things I have ever heard. At no point in your rambling,
+    incoherent response were you even close to anything that could
+    be considered a rational thought. Everyone in this room is now
+    dumber for having listened to it. I award you no points, and
+    may God have mercy on your soul."
+
+-   <https://dasearch.zone/>
+
+    da search z0ne
+    search a bunch of da share z0ne memes
+
+-   <https://www.youtube.com/watch?v=LyICn9KhOV4>
+
+    uncensored Judge Morty
+
+-   <https://www.youtube.com/watch?v=CgxcYz5cLN8>
+
+    Appliance Direct
+    Wasting all your laundry money is WAKKIE NU NU!
+
+-   <https://www.youtube.com/watch?v=UoPmEOWyc1o>
+
+    The Cake Eater!
+
+-   <https://www.youtube.com/watch?v=WNTX6Jpc3Mg>
+
+    Front Load Washers! No Smell!
+    Get out of the Front Load Funk!
+
+-   <https://www.youtube.com/watch?v=oCvLsrnQ6Z4>
+
+    White Porcelain!
+
+-   <https://www.youtube.com/watch?v=34bVPx2_Vj4>
+
+    I'm Jake Jabs! (American Furniture Warehouse)
+
+-   <https://www.youtube.com/watch?v=VNEhu7eqyVQ>
+
+    black friday is dumb
+
+-   <https://www.youtube.com/watch?v=Ifleu0VVAc0>
+
+    fuck off paperclip
+
+-   <http://www.righto.com/2015/05/bitcoin-mining-on-55-year-old-ibm-1401.html>
+
+    Bitcoin mining on a 55 year old IBM 1401 mainframe: 80 seconds per hash
+
+-   <https://i.imgur.com/4lpVkTS.gif>
+
+    chrome pacman eats memory
+
+-   <https://www.youtube.com/watch?v=Q32oL0HN8zk>
+
+    blast off into cybersex joe biden (mbmbam)
+
+-   <https://www.youtube.com/watch?v=1AuQRjx13Gk>
+
+    Dennis Miller auditions to get back on Monday Night Football
+
+-   <https://www.youtube.com/watch?v=pPaEdvCs1C8>
+
+    man screaming at yellow paint
+
+-   <https://www.youtube.com/watch?v=JbnjusltDHk>
+
+    gob's program
+
+-   <https://www.youtube.com/watch?v=mSHUIEDBbl4&feature=youtu.be>
+
+    300 MEGABYTES
+    (Neil Cicierega)
+
+-   <https://www.youtube.com/watch?v=YD0evP6dCJg>
+
+    a russian band on a motorcycle
+
+-   <https://noisey.vice.com/en_us/article/kznkxy/rise-and-shine-heres-big-narstie-doing-the-morning-weather?utm_source=nt>
+
+    big narstie doing the weather
+
+-   <http://www.cryptomuseum.com/crypto/motorola/mdt9100/index.htm>
+
+    motorola data terminals
+    commonly used by police
+
+-   <https://www.youtube.com/watch?v=3c66w6fVqOI>
+
+    the worst has come to pass
+
+-   <https://www.vice.com/en_ca/article/paqwzv/montrealer-makes-snow-car-fools-cops>
+
+    montrealer makes a car out of snow and fools the cops
+
+-   <https://twitter.com/annakathh/status/953064748739948544?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fforums.somethingawful.com%2Fshowthread.php%3Fthreadid%3D3843677%26userid%3D0%26perpage%3D40%26pagenumber%3D64>
+
+    <https://gfycat.com/DarlingVibrantEquine>
+
+    people trying to vape things that aren't vapes
+
+-   <http://www.telegraph.co.uk/travel/travel-truths/oldest-passenger-plane-still-in-service/>
+
+    The oldest passenger airplanes still in service.
+    Airfast Indonesia still operates PK-OCG, a Boeing 737 delivered 1970-05-25.
+    Britian's oldest is G-CELH, a Boeing 737 delivered 1986-10-02 and operated by Jet2.
+    Among the big players:
+    Delta Airlines has a 30yo Boeing 757 and a few 30yo McDonnell Douglass MD-80s.
+    British Airways' oldest aircraft is G-BNLK, a 747 delivered 1990-05-04.
+    American Airlines' oldest is N424AA, an MD-80 delivered 1986-11-05.
+
+-   <https://www.youtube.com/watch?v=o_XaJdDqQA0>
+
+    Peter's Computer - Desktop Cleanup (big play films)
+    some old guy drags My Computer to the Trash and his
+    monitor disappears
+
+-   <https://www.justinobeirne.com/google-maps-moat/>
+
+    google vs apple maps
+
+-   <https://www.youtube.com/watch?v=Ms_MUY4cXqc>
+
+    japanese kids show death metal drummer
+
+-   <https://www.youtube.com/watch?v=ZP7K9SycELA>
+
+    Carl Sagan's Cosmos: The Meat Planet
+
+-   <https://www.youtube.com/watch?v=wcPv_NAM0aU>
+
+    SUPREME VICTORY
+
+-   <https://www.youtube.com/watch?v=FqHaK_dxs88>
+
+    cyclist launches bottle rockets at road rage scooter motorist
+    that cut him off intentionally
+
+-   <https://i.imgur.com/rCZkEdx.png>
+
+    fake soft drink labels: pepo boy, sproot, ep pepepe, fat
+
+-   <https://i.imgur.com/Kgt0WI9.jpg>
+
+    rit cracker - you get one
+
+-   <https://i.imgur.com/xeplIkG.jpg>
+
+    <https://i.imgur.com/FOQKlne.png>
+
+    <https://i.imgur.com/hy6YZgr.png>
+
+    <https://i.imgur.com/WAnsVBq.png>
+
+    moar fake brands
+
+-   <https://i.imgur.com/z5410nj.jpg>
+
+    <https://i.imgur.com/mWqq7dy.jpg>
+
+    <https://i.imgur.com/lukpUHP.jpg>
+
+    <https://i.imgur.com/35EmKgo.jpg>
+
+    <https://i.imgur.com/Y0mrfqd.jpg>
+
+    moar fake brands in bricks and mortar
+
+-   <https://i.imgur.com/SxJyOlA.gif>
+
+    haterz gonna hate (golf carts)
+
+-   <http://jpegfantasy.tumblr.com/>
+
+    a good tumblr, with a classic windows 95/98/2000 theme
+
+-   <https://www.youtube.com/watch?v=YUhtV9mCsrA>
+
+    super cringy IBM TV ad: PS/2 it!
+
+-   <https://loopvideos.com/WnItIQSwfSw?from=2&to=14>
+
+    The computer is available.
+
+-   <https://twitter.com/j_christo/status/887847312558616576>
+
+    a hot dog is not a sandwich says the courier-journal
+
+-   <https://www.youtube.com/watch?v=ojjFODlnlYw>
+
+    censored porn edit campaign for diesel xxx clothing line
+
+-   <https://www.youtube.com/watch?v=NBfi8OEz0rA>
+
+    house hippo [concerned childrens' advertisers ad]
+
+-   <https://itunes.apple.com/us/album/a-a-a-a-a-very-good-song-silent-track/1268932999?i=1268933000>
+
+    <http://www.independent.co.uk/life-style/gadgets-and-tech/news/itunes-download-chart-a-very-good-song-samir-mezrahi-iphone-apple-music-a7892286.html>
+
+    <https://www.stereogum.com/1957739/that-silent-a-a-a-a-a-very-good-song-track-is-still-climbing-the-itunes-chart/news/>
+
+    Add this to your iTunes collection to avoid alphabetical playlist syndrome
+    "A a a a a Very Good Song (Silent Track)"
+
+-   <https://www.youtube.com/watch?v=Br_5aDNaF8c#t=144s>
+
+    We're from AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1 Plumbing.
+    (Duckman & Cornfed)
+
+-   <https://en.wikipedia.org/wiki/Military_Grid_Reference_System>
+
+    <https://what3words.com/>
+
+-   <https://www.etsy.com/listing/465790100/tether-for-apple-lightning-to-headphone $3 + $3 shipping>
+
+    <https://www.etsy.com/listing/556265632/tether-for-apple-lightning-to-headphone (same as first)>
+
+    <https://smile.amazon.com/CableTethers-Universal-Cable-Tether-Pack/dp/B01EGYH5US?sa-no-redirect=1 4/$19 way long>
+
+    dongle/headphone tethering solutions
+
+-   <https://www.scosche.com/iphone-7-headphone-adapter>
+
+    lightning/old analog adapter w/charge and controls $40
+
+-   <http://www.scosche.com/strikelinetm-adapter>
+
+    lightning/old analog adapter w/controls $30
+
+-   <https://www.apple.com/shop/product/HLJV2ZM/A/belkin-35mm-audio-charge-rockstar>
+
+    belkin rockstar lightning to 2 lightnings $35
+
+-   <https://www.apple.com/shop/product/HKKP2ZM/A/belkin-lightning-audio-charge-rockstar>
+
+    belkin rockstar lightning to 3.5mm + lightning $40
+
+-   <https://godbolt.org/>
+
+    Compiler Explorer!
+
+-   <https://www.codewithjason.com/variable-name-anti-patterns/>
+
+    variable name anti-patterns
+
+-   <https://www.youtube.com/watch?v=edLD0sF2c0c>
+
+    fake dollar lol
+
+-   <https://www.youtube.com/watch?v=zZKp_jFxQJc>
+
+    "here in my garage" lamborghini knowledge video
+    it's by this chucklefuck <http://www.tailopez.com/>
+    make money fast!
+
+-   <https://en.wikipedia.org/wiki/Victor_Lustig>
+
+    a scammer active from 1925 to 1935
+    - i have an eiffel tower to sell you
+    - here's a money printing machine for $30,000
+    - scammed al capone
+    - partner in a counterfeiting ring
+
+-   <https://medium.com/@MateoAcebedo/how-to-not-lose-your-iphone-7-headphone-adapter-hack-f9448c26999f>
+
+    neato solution to keep your dongle attached to your headphones
+    now that you have a dongle, mr. dongle phone.
+
+-   <https://www.youtube.com/watch?v=caXeAMseve0>
+
+    everything is now fine now lol
+
+-   <https://www.reddit.com/r/videos/comments/64yqvu/guy_makes_his_own_iphone_from_individual_parts/>
+
+    See /u/pardonmelady's posts in this thread regarding
+    iPhone/etc. replacement batteries and other parts and their
+    reliability and why you should just do iFixit instead of eBay
+    or Amazon.
+
+-   <http://www.omniglot.com/>
+
+    OMG language and writing system rabbit hole
+
+-   <https://www.youtube.com/watch?v=mUoPWnlnvLQ>
+
+    Welcome to thunderdome, bitch!
+
+-   <https://www.youtube.com/watch?v=0V_E_Jnyhks>
+
+    If I don't see it, it's not illegal.
+
+-   <https://www.youtube.com/watch?v=Yi0uX2sZuFg>
+
+    You're screwed, thank you, bye.
+
+-   <https://www.youtube.com/watch?v=ub6LGfFTnmc>
+
+    gabbo is coming
+
+-   <https://forums.somethingawful.com/showthread.php?threadid=3843677&userid=0&perpage=40&pagenumber=44#post480055793>
+
+    Sagebrush's post about how hippies evolved into the
+    "anti-GMO" strain of anti-intellectualism.
+
+-   <https://www.youtube.com/watch?v=dvuxYxmlfrc>
+
+    Goldie Lookin Chain - Fresh Prince of Cwmbran
+
+-   <http://archive.is/RVYsf>
+
+    join the illuminati!
+
+-   <https://www.youtube.com/watch?v=FIRT7lf8byw>
+
+    guy punches kangaroo to save dog
+
+-   <https://twitter.com/qntm/status/949070111083778050>
+
+    epic thread from @qntm about "raw code"
+
+-   <https://www.youtube.com/watch?v=CwLx4L5NRU0>
+
+    Buran - the Soviet space shuttle, in many ways better than the
+    American space shuttle.  Its first and only launch on
+    1988-11-15 was a success.  However, the USSR collapsed soon
+    after.  The Soviet Union abandoned the costly and inefficient
+    project after it became clear to them the American space
+    shuttle program had no military uses despite their paranoia.
+
+-   <https://www.youtube.com/watch?v=G4ApQrbhQp8>
+
+    Robot Chicken - Star Trek: The Next Generation's Night Crew
+    of course Patrick Stewart played Captain Picard.
+
+-   <https://archive.org/details/BrascoTheLibertyBearMakingFirearmsSafteyFun>
+
+    Brasco, The Liberty Bear: Making Firearms Saftey Fun
+    a fucking coloring book about guns lol
+
+-   <https://smile.amazon.com/Libertarian-Party-Coloring-Activity-Book/dp/1619530945?sa-no-redirect=1>
+
+    <http://www.coloringbookpublishers.com/libertarian-party-coloring-book.aspx>
+
+    The Libertarian Party coloring activity book
+
+-   <https://www.youtube.com/watch?v=A9HZH_P_5qM>
+
+    MMM-Bop in a minor key
+
+-   <https://www.youtube.com/watch?v=dVehv_LDWaE>
+
+    Smells Like Teen Spirit in a major key with a pop chord progression
+
+-   <https://www.youtube.com/watch?v=8TnWIICkBeE>
+
+    KITH: Mac & Cheese
+
+-   <https://www.youtube.com/watch?v=HfE1Ip2wot4>
+
+    "Mother of God."
+
+-   <https://c1.staticflickr.com/5/4467/37942274646_eeb1bbf6e5_k.jpg>
+
+    World's shortest international borders.
+    Including plenty of enclaves.
+
+-   <https://vimeo.com/90127834>
+
+    SNL: Taco Town
+
+-   <http://www.thoughtsandprayersthegame.com/>
+
+    THOUGHTS AND PRAYERS: THE GAME
+
+-   <https://twitter.com/BAKKOOONN/status/812168944773636096>
+
+    bakkoon's gorilla mind tweet
+
+-   <https://forums.somethingawful.com/showthread.php?threadid=3807005&pagenumber=3346&perpage=40#post479978941>
+
+    Q: Why was it so plausible that Trump watches gorillas fight 17 hours a day?
+
+    A: Because he's really into pissed apes.
+
+-   <https://www.youtube.com/watch?v=FSvNhxKJJyU>
+
+    SNL: Dunkin Donuts
+
+-   <https://twitter.com/pixelatedboat/status/949100087350710272>
+
+    the gorilla channel tweet
+
+-   <http://kalecoauto.com/>
+
+    a totally real and not fake and not parody auto parts maker
+
+-   <https://camelcamelcamel.com/>
+
+    <https://www.fakespot.com/>
+
+    before you buy on amazon i guess
+
+-   <https://www.youtube.com/watch?v=GlKL_EpnSp8>
+
+    read a book! read a book! read a mothafuckin' book!
+    r-e-a-d a b-o-o-k!
+    not a sports page, not a magazine, but a book nigga! a fuckin book nigga!
+    raise yo kids! raise yo kids! raise yo goddamn kids!
+    yo body needs water, so drink dat shit!
+    buy some land! buy some land! fuck spinnin' rims!
+    brush yo teeth! brush yo teeth! brush yo goddamn teeth!
+    wear deodorant nigga!
+    it's called speed stick, it's not expensive!
+    -- by Bomani Amrah (notarapper.com)
+
+-   <https://www.youtube.com/watch?v=j5y3NQi_RAY>
+
+    TLO roll call!
+    a rap about anime nerds
+    "Glomp me!"
+
+-   <https://www.youtube.com/watch?v=ZctZRm0_chQ>
+
+    England is confusing lol.
+
+-   <https://www.youtube.com/watch?v=BC4wr02mUVo>
+
+    Hot Guacamole (MF DOOM, MC Paul Barman)
+
+-   <https://imgur.com/Mot96Jp>
+
+    A very content rat receiving brushes.
+
+-   <http://blogs.windward.net/davidt/2012/05/06/lies-damn-lies-and-survey-results/>
+
+    Apparently that 55 hours/week CEO time spending chart is bad.
+
+-   <http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/>
+
+    mongodb is a shitshow
+
+-   <https://rtyley.github.io/bfg-repo-cleaner/>
+
+    the easy way to remove sensitive data from a git repository
+
+-   <https://git-scm.com/docs/git-filter-branch>
+
+    the native, powerful, complicated way to remove sensitive data
+    from a git repository
+
+-   <http://stevelosh.com/blog/2013/04/git-koans/>
+
+    git koans
+
+-   <https://www.youtube.com/watch?v=iOOc4sVA_vc>
+
+    restoration of a late 1920s roulette table --- they discovered
+    it was rigged; they used newspapers used to cushion its
+    batteries to determine that the table was used c. 1929--1931.
+
+-   <https://www.bloomberg.com/businessweek/sdlfasdlfjasdlf/>
+
+    nice 404
+
+-   <http://thehill.com/homenews/administration/367538-trump-ordered-wh-lawyer-to-stop-sessions-from-recusing-himself-in>
+
+    <https://www.nytimes.com/2018/01/04/us/politics/trump-sessions-russia-mcgahn.html?smid=fb-share>
+
+    Donald Trump ordered his White House lawyer to stop Attorney
+    General Jefferson Beauregard Sesssions from recusing himself
+    from the Russia investigation.  Don McGahn gave up on that
+    after career officials at the Justice Department told him they
+    advised Mr. Sessions to recuse himself.  Sessions did so, and
+    Deputy Attorney General Rod Rosenstein appointed former FBI
+    director Robert Mueller as special counsel on the Russia
+    matter.
+
+-   <http://www.motoringbox.com/cars/entertainment/top-gear/why-jeremy-clarkson-hates-piers-morgan/>
+
+    Piers Morgan is a shitty human being.
+
+    Piers was forced to apologize on international television in
+    1996 after an infamous Daily Mirror story about the Euro Cup.
+
+    In 2000, Piers Morgan invested UKP 67,000 under his wife's
+    name in a company called Viglin that he was about to release a
+    story about.  After an investigation revealed his conduct
+    violation, two financial columnists at the paper lost their
+    jobs but he kept his.
+
+    Piers was fired from the Mirror in 2004 for publishing fake
+    photos of British troops abusing and mistreating Iraqi
+    prisoners of war.  The paper apologized profusely for about a
+    week in its front page headlines.
+
+    In the early 2000's, Piers relentlessly stalked Sun journalist
+    Jeremy Clarkson until he found photos of him hitting on his
+    BBC producer.  Jeremy later punched Piers at a British
+    journalism awards show.
+
+    He also illeglly obtained peoples' voicemails.  (The News Of
+    The World was shut down in 2011 because of another voicemail
+    hacking scandal.)
+
+-   <https://www.gao.gov/assets/690/688535.pdf>
+
+    via <https://forums.somethingawful.com/showthread.php?noseen=0&threadid=3741325&perpage=40&pagenumber=1257#post479909191>
+
+            Regarding buying guns on the darknet
+
+            the GAO tried to buy some guns (PDF) on the "surface web" and
+            the dark web. on public gun sites, they made 72 attempts to
+            buy guns after clearly saying "HELLO SIR I AM A <PROHIBITED>
+            WHO WANTS TO BUY A GUN" and in almost every case the seller
+            noped out. in the 11 cases where they didn't nope out the
+            seller seemed to be attempted to scam them and in two cases
+            they were successful in scamming the GAO. they were unable to
+            sting a single seller.
+
+            on the dark web, two of their seven attempts to purchase
+            firearms were successful and resulted in an AR-15 with the
+            serial number filed off and a fully automatic uzi. "In the
+            five attempts where we did not ultimately purchase a firearm,
+            the prospective seller stopped responding to our inquiries,
+            stated the firearm was no longer for sale, refused to use an
+            escrow account for payment, or experienced technical problems
+            using the Dark Web marketplace.
+
+            so there is at least one legit dnm supplier of fully automatic
+            weapons.
+
+-   <https://danluu.com/branch-prediction/>
+
+    a pro-click on cpu branch prediction
+
+-   <https://www.youtube.com/watch?v=ITKTA2quDv8>
+
+    Sharpening a pencil sharpener.
+    2000; 6000; 8000; 12000; 30000
+
+-   <https://www.youtube.com/watch?v=0P6klz6BTek>
+
+    Sharpening a $1 knife with a $300 whetstone
+    120; 220; 1000; 2000; 6000; 8000; 12000; 30000;
+
+-   <https://www.youtube.com/watch?v=LECSVlc6O1g>
+
+    We're Not Candy
+
+-   <https://www.youtube.com/watch?v=R4rMy1iA268>
+
+    Michael Bay walked off stage at a Samsung press conference lol
+
+-   <https://www.youtube.com/watch?v=HeCZwi-VnOw>
+
+    Live Jam - DJ Kentaro ft. Kinoshita Shinichi
+
+-   <https://www.youtube.com/watch?v=V9gkYw35Vws>
+
+    Ikea Heights
+    #lol
+
+-   <https://github.com/danielmiessler/SecLists/pull/155>
+
+    best github pull request ever
+
+-   <https://mostsecure.pw/>
+
+    This is the most secure password ever.
+
+-   <https://www.youtube.com/watch?v=bn4jd_Pc0T4>
+
+    G. G. Allin was the most violent man in rock 'n' roll.
+    A few days after this interview of him on Jane Whitney's
+    TV talk show, he died of a suspected drug overdose.
+
+-   <https://www.youtube.com/watch?v=UWEjxkkB8Xs>
+
+    Buster Keaton was a genius.
+
+-   <https://www.youtube.com/watch?v=nQDcDZ6rmGE>
+
+    the greatest drone flying video ever
+    involves a train
+
+-   <https://i.imgur.com/H7BJy0M.gif>
+
+    death is inevitable all of life is pain gif lol
+
+-   <https://twitter.com/Bmangall20/status/941075338708140032>
+
+    "My coworker told me he got banned from a bar when he lived in
+    North Dakota back in 1973 and didn’t try going back to it for
+    30 years but he finally did and the moment he stepped in
+    someone yelled “Get the hell out of here Dennis” And that’s
+    probably my favorite story ever"
+
+-   <https://www.youtube.com/watch?v=4vBEMGTdDYc>
+
+    The oldest surviving color videotape is of a program where
+    President Dwight Eisenhower dedicates WRC-TV's new color
+    television studios on May 22, 1958.
+
+-   <https://www.youtube.com/watch?v=Ze0Az9tdkHg>
+
+    The oldest surviving videotape is a recording of The Edsel
+    Show, produced at CBS Television City Studios on October 13,
+    1957.
+
+-   <https://www.youtube.com/watch?v=_M4K5wk9DCM>
+
+    rural Japanese folk music
+    林英哲　Eitetsu Hayashi & 木下伸市　Shinichi Kinoshita "-SHI-BU-KI-"
+    和太鼓と三味線の達人同士の共演
+    Collaboration between the master of taiko and shamisen
+
+-   <https://www.youtube.com/watch?v=f7s-wXZWT5o>
+
+    bamboo flute and more shamisen
+
+-   <https://www.youtube.com/watch?v=09vfa4vuHFY>
+
+    more japanese shamizen/taiko music
+    on taiko: Hiroshi Motofuji（浩司  茂戸藤）
+    on shamizen: Shin-ichi Kinoshita（伸市  木下）（真市  木乃下）
+
+-   <https://www.reddit.com/r/IAmA/comments/7liww8/im_mike_cernovich_journalist_author_and_filmmaker/>
+
+    The Mike Cernovich AMA became the trainwreck it was meant to be.
+
+    Mike Cernovich:
+
+    - promoted the false conspiracy theory known as Pizzagate
+
+    - misinterpreted a tweet from 2009 in order to get Sam Seder
+      fired from MSNBC.  MSNBC later re-hired Mr. Seder.
+
+    - Collaborated with Chuck Johnson to spread forged documents
+      accusing Senator Chuck Schumer of sexual harassment.
+
+    Chuck Johnson:
+
+    - Chuck Johnson misidentified a college student as a woman
+      that falsely accused University of Virginia students of
+      rape.
+
+    - Chuck Johnson falsely accused Cory Booker of lying about his
+      address.
+
+    - Chuck Johnson falsely accused a New York Times reporter of
+      posing for Playgirl.
+
+-   <http://www.motherjones.com/politics/2014/12/charles-chuck-johnson-gotnews-rolling-stone/>
+
+    <http://gawker.com/what-is-chuck-johnson-and-why-the-web-s-worst-journal-1666834902>
+
+-   <https://cernovichleaks.com/>
+
+    Deleted Mike Cernovich tweets, videos, and articles.
+
+-   <https://www.poynter.org/news/text-only-news-sites-are-slowly-making-comeback-heres-why>
+
+    <http://lite.cnn.io/en>
+
+    <http://thin.npr.org/>
+
+    <http://www.theage.com.au/text>
+
+    text only news sites
+
+-   <https://eggerapps.at/postico/>
+
+    A modern PostgreSQL GUI client for macOS.
+
+-   <https://www.pgcli.com/>
+
+    Alternative PostgreSQL CLI
+
+-   <https://github.com/okbob/pspg>
+
+    Postgres (PostgreSQL) Pager
+
+-   <https://www.youtube.com/watch?v=u8qgehH3kEQ>
+
+    accurate hacking scene
+
+-   <https://www.youtube.com/watch?v=0tdyU_gW6WE>
+
+    Bustin'
+
+-   <https://www.youtube.com/watch?v=vUz9xCTOPRw>
+
+    <https://www.youtube.com/playlist?list=PLp_EMTxbn84jC0uThaFdJd7OlGe94-Cjm>
+
+    <https://www.youtube.com/playlist?list=PLVtrysKTud_HdcNAow67TVx6cabhO2UuP>
+
+    holy shit piss
+
+-   <https://www.youtube.com/watch?v=ErRHJlE4PGI>
+
+    "Is the chicken local?"
+
+-   <https://i.imgur.com/EniMAFn.jpg>
+
+    an older Computer Hardware Chart
+
+-   <https://git-man-page-generator.lokaltog.net/>
+
+    lol
+
+-   <http://www.ginandtacos.com/2013/06/14/feel-the-sound-the-sound-of-real-america/>
+
+    <http://www.ginandtacos.com/2013/04/17/sounds-of-real-america/>
+
+    The Sound(s) of Real America lol
+
+-   <https://zlib.net/pigz/>
+
+    a parallel implementation of gzip
+
+-   <https://brettcsmith.org/2007/dtrx/>
+
+    an intelligent unarchiver
+
+-   <https://www.youtube.com/watch?v=ovpinhjHYaA>
+
+    a funny video about cleaning a drain
+
+-   <https://www.youtube.com/watch?v=deVjt7KS88M>
+
+    Kayla Moore gets a do-over re "one of our attorneys is a jew"
+
+-   <https://ifconfig.co/>
+
+    <http://ipchicken.com/>
+
+    <https://ipinfo.io/>
+
+    <http://ifconfig.me/>
+
+    <https://www.whatismyip.com/>
+
+    <https://whatismyipaddress.com/>
+
+-   <http://gitless.com/>
+
+    gl is a revision control system built on top of git.
+
+-   <http://git.or.cz/cogito/>
+
+    an old human-friendly frontend to git
+
+-   <https://github.com/nvie/gitflow>
+
+    a utility to use a particular workflow
+
+-   <http://longcon.kycir.org/>
+
+    The Pope's Long Con --- The story of Dan Johnson, a racist,
+    lying, scandalous preacher at the Heart of Fire Church in
+    southeast Louisville, turned Kentucky state representative.
+    Dan Johnson committed suicide shortly after this story was
+    published and aired.
+
+-   <https://insiderlouisville.com/business/former-pastor-behind-drone-and-roofing-controversies-sued-by-courier-journal-for-unpaid-advertising-bill/>
+
+    David Boggs, former pastor of New Vision Ministry in
+    Louisville.
+
+-   <https://matt.sh/anatomy-of-a-fraud>
+
+    mongodb sucks
+    cloudfoundry also sucks
+
+-   <http://arstechnica.com/security/2017/01/more-than-10000-online-databases-taken-hostage-by-ransomware-attackers/>
+
+    <http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/>
+
+    why you should never use mongodb
+
+-   <https://www.youtube.com/watch?v=CJP8J84vzTA>
+
+    hey hey hee hee
+    i make poo poos and pee pees
+
+-   <https://www.youtube.com/watch?v=oOYrCHi7yjM>
+
+    a racist psychotic rant
+
+-   <https://www.youtube.com/watch?v=FB18DV1SQmI>
+
+    against this beat
+
+-   <http://tvtropes.org/pmwiki/pmwiki.php/Creator/FrancisEDec>
+
+    the rant is a recording of Francis E. Dec.
+
+-   <https://www.youtube.com/watch?v=-p6WWRarjNs>
+
+    <https://www.vox.com/videos/2017/10/4/16414808/open-offices-history>
+
+    open offices are overrated - vox
+
+-   <https://www.youtube.com/watch?v=6YaxqD7E-HE>
+
+    funny fedex ad about a conspiracy bookstore
+    DID 1971 HAPPEN?
+    WHAT'S REALLY PULLING THE LEVERS
+    THE SECRET CITY OF GLORB
+    HOW DINOSAURS BUILT THE PYRAMIDS
+    THEY CONTROL ALL: FROM SHAKING CEILING FANS TO UNANSWERED TEXT MESSAGES
+
+-   <https://www.youtube.com/watch?v=D04wb7P_v-4>
+
+    autistic reporter enchanted by prison's rigid routine
+
+-   <https://github.com/hrs/dotfiles>
+
+    harry schwartz gave a talk about org-mode.
+    this is his emacs config.
+
+-   <https://www.youtube.com/watch?v=SzA2YODtgK4>
+
+    <https://www.youtube.com/watch?v=FtieBc3KptU>
+
+    two good tutorials on org-mode #emacs
+
+-   <https://www.reddit.com/r/emacs/comments/7hyzc6/recommended_dropin_replacements_for_standard/>
+
+    emacs - recommended drop-in replacements for standard packages
+
+-   <https://dmitryfrank.com/articles/indent_with_tabs_align_with_spaces>
+
+    another post about indenting with tabs, aligning with spaces
+
+-   <https://www.youtube.com/watch?v=3uoM5kfZIQ0>
+
+    zoom! enhance!
+
+-   <https://www.youtube.com/watch?v=KGcNS5g9ygg>
+
+    how to work around warranty seals
+    "warranty void if removed/broken/etc."
+
+-   <https://www.reddit.com/r/DNMSuperlist/wiki/wallofshame>
+
+    darknet market wall of shame
+
+-   <https://redditfavorites.com/books/programming/>
+
+    reddit's favorite programming books
+
+-   <https://threadreaderapp.com/thread/936615043126370306>
+
+    Your idea is not valuable, at all. All value is in the execution.
+    And other things too obvious to bring up.
+
+-   <https://www.youtube.com/watch?v=mRntutn8udw>
+
+    mayostard!
+
+-   <https://imgur.com/ZSQBPXQ>
+
+    mayochup!
+
+-   <https://support.apple.com/en-us/HT204012>
+
+    macos root user disabled by default
+
+-   <https://twitter.com/foxfrie/status/935595435749646337>
+
+    classic windows hole gif about printing from the login screen
+
+-   <https://mathias.gaunard.com/unicode/doc/html/unicode/introduction_to_unicode.html>
+
+    Introduction to Unicode
+
+-   <https://creativepool.com/magazine/inspiration/logos-redesigned-using-comic-sans.2312>
+
+    <http://comicsansproject.tumblr.com/>
+
+    Logos in Comic Sans
+
+-   <https://www.instagram.com/cover_sans/>
+
+    Album covers in Comic Sans
+
+-   <https://www.mcsweeneys.net/articles/im-comic-sans-asshole>
+
+    I'm Comic Sans, Asshole
+
+-   <http://redsymbol.net/articles/unofficial-bash-strict-mode/>
+
+    bash strict mode
+
+-   <https://www.youtube.com/watch?v=rStL7niR7gs>
+
+    Rules for Rulers
+
+-   <https://www.youtube.com/watch?v=w7OlBdFIxbk>
+
+    Doug Stanhope - America is Great (Charlie Brooker's Weekly Wipe)
+
+-   <https://www.youtube.com/watch?v=08mGwpDUxTQ>
+
+    when a bong hit crashes windows 2000
+
+-   <https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks>
+
+    How to draw buttocks in Mathematica.
+
+-   <https://sites.google.com/site/forgottenemployee/>
+
+    The Forgotten Employee, a goon story
+
+-   <http://weatherdaddy.us/weatherdaddy/>
+
+    <http://currentcondition.org/>
+
+    weather sites with a vintage Weather Channel ａｅｓｔｈｅｔｉｃ
+
+-   <https://www.youtube.com/watch?v=K0Gx8hYi0hQ>
+
+    potion overdose lol
+
+-   <https://what.thedailywtf.com/topic/15001/enlightened>
+
+    Enlightenment Foundation Libraries (EFL) is hot garbage.
+    It powers Tizen.
+    It has error messages like:
+            You bitch!
+            *** NAUGHTY PROGRAMMER!!!
+            *** SPANK SPANK SPANK!!!
+            *** Now go fix your code. Tut tut tut!
+    <https://developer.tizen.org/dev-guide/2.4/org.tizen.gettingstarted/html/native/process/debugging_app_n.htm>
+
+-   <https://www.youtube.com/watch?v=75WFTHpOw8Y>
+
+    Bjork wants to see how a television set operates.
+    It looks like a little model of a city, with houses and streets.
+    It's millions of little screens.
+    You shouldn't let poets lie to you.
+
+-   <https://www.youtube.com/watch?v=7zxeJX-7tyg>
+
+    "Good morning, nigga!"
+    (Tokyo breakfast)
+
+-   <https://www.youtube.com/watch?v=XQ4pldh_pOA>
+
+    Fuck you!
+
+-   <https://www.overleaf.com/>
+
+    online collaboration in LaTeX.
+    $ but has a free tier.
+
+-   <http://kunststube.net/encoding/>
+
+    What Every Programmer Absolutely, Positively Needs To Know
+    About Encodings And Character Sets To Work With Text
+    #unicode
+
+-   <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/>
+
+    The Absolute Minimum Every Software Developer Absolutely,
+    Positively Must Know About Unicode and Character Sets (No
+    Excuses!)
+    by Joel "On Software" Spolsky, CEO and co-founder of Stack Overflow
+
+-   <https://www.youtube.com/watch?v=KxGRhd_iWuE>
+
+    Never give up!
+    (Matsuoka Shuzo)
+
+-   <https://www.youtube.com/watch?v=bavZbQHbuOk>
+
+    Matsuoka Shuzo
+    Ganbare!
+    Sky blue!
+
+-   <https://tenor.com/view/yuge-ego-donald-trump-gif-7791480>
+
+    yuge
+
+-   <https://forums.somethingawful.com/showthread.php?noseen=0&threadid=3664222&perpage=40&pagenumber=814#post477985870>
+
+    iphone camera improvements since the 6+
+
+-   <https://forums.somethingawful.com/showthread.php?noseen=0&threadid=3664222&perpage=40&pagenumber=814#post477990252>
+
+    the Verizon/Sprint iPhone 8/X models (as well as the rest sold
+    worldwide) have better cell modems than the AT&T/T-Mobile
+    ones.
+
+-   <https://thewirecutter.com/reviews/best-bluetooth-headphone-adapter/>
+
+    bluetooth headphone adapters exist and these are the best ones
+
+-   <https://devhints.io/>
+
+    o cool more cheatsheets
+
+-   <http://plasmasturm.org/code/rename/>
+
+    a current version of larry wall's original rename script
+
+-   <https://www.vox.com/policy-and-politics/2017/10/16/16357790/health-care-prices-problem>
+
+    Health care costs in the USA are high af.
+
+-   <https://www.oo-software.com/en/shutup10>
+
+    Windows 10
+    Free software that manages hidden settings
+    Edit: not free software
+
+-   <https://www.nytimes.com/2017/10/17/nyregion/nxivm-women-branded-albany.html?smid=tw-nytimes&smtyp=cur>
+
+    nxivm is a cult and is bad
+
+-   <https://www.nytimes.com/2017/10/16/opinion/cy-vance-progressive-prosecutor.html?smid=tw-nytopinion&smtyp=cur>
+
+    prosecutors are bad
+
+-   <https://github.com/herrbischoff/awesome-osx-command-line>
+
+    how to do things in the CLI in OSX/macOS
+
+-   <https://www.equifaxfraudprevention.com/>
+
+-   <http://toastytech.com/guis/index.html>
+
+    old guis
+
+-   <https://www.youtube.com/watch?v=l7u9hP4r1S8>
+
+    Sports!
+
+-   <https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product>
+
+    facebook => depression
+
+-   <https://www.newyorker.com/magazine/2017/04/24/vanlife-the-bohemian-social-media-movement>
+
+    living the life posts on social media => fake news
+
+-   <https://regex101.com/>
+
+    <https://regexr.com/>
+
+    Regular expression testing thingies.
+
+-   <https://www.youtube.com/watch?v=_oZqSaba34o>
+
+    Satan.
+
+more command-line shell awesomeness
+
+-   <https://github.com/ericfreese/rat>
+
+    tig-style framework for CLI apps
+
+-   <https://github.com/jonas/tig>
+
+    ncurses git
+
+-   <https://mtlynch.io/human-code-reviews-1/>
+
+    Code review?  Keep in mind we're human beings.
+
+-   <https://google.github.io/styleguide/>
+
+    Style guides for various programming languages
+
+-   <https://github.com/airbnb/javascript/tree/es5-deprecated/es5>
+
+    One for JavaScript.
+
+-   <https://www.scientificamerican.com/article/how-wealth-reduces-compassion/>
+
+    <https://www.theatlantic.com/magazine/archive/2017/07/power-causes-brain-damage/528711/>
+
+-   <https://www.thebalance.com/law-enforcement-vs-policing-974604>
+
+    law enforcement vs policing
+
+-   <https://www.youtube.com/watch?v=6NPKuyDWt4k>
+
+    hoof hearted in the winner's circle
+
+-   <https://www.youtube.com/watch?v=nf0wQzq9Yzg>
+
+    Those two times a horse called Arrrrr won a race and it was
+    Tom Durkin calling the race.  There's also a horse called
+    Mmmmmh.
+
+-   <https://thewirecutter.com/>
+
+    good electronics review site
+
+-   <https://emacsformacosx.com/>
+
+    the good emacs build for macOS
+
+-   <https://www.facebook.com/lcdfans/>
+
+    modern motherboards for older Thinkpad laptops
+
+-   <https://www.51nb.com/>
+
+    chinese site
+
+-   <https://www.facebook.com/DankMemeology/photos/a.678514658955293.1073741828.678499438956815/974985105974912/?type=3>
+
+    Oh just a health poster in a children's hospital.
+    No big deal.  Just Destroy All Bacteria.  DAB for short.
+    Yeah it's real.
+    <https://www.facebook.com/NiswongerChildrensHospital/photos/a.220472938152414.1073741828.220452618154446/680884112111292/?type=3&theater>
+
+-   <https://thebaffler.com/salvos/the-long-con>
+
+    Conservative lies in 2012 and the long history of lies
+    by Rick Perlstein, a Nixon/Reagan historian
+
+-   <https://developer.microsoft.com/en-us/microsoft-edge/platform/status/adownloadattribute/>
+
+    Features the Microsoft Edge team is working on, and their support in other browsers.
+
+-   <https://www.pissjar.com/>
+
+            here's a font.
+            it's made of piss.
+            it's called pissjar.
+
+-   <https://www.newyorker.com/magazine/2017/10/09/how-the-elderly-lose-their-rights?mbid=social_facebook>
+
+    the guardianship industry is a clusterfuck of capitalism
+
+-   <https://www.youtube.com/watch?v=PezlFNTGWv4>
+
+    the media is doing everything criminal psychologists
+    say not to do when reporting on mass shootings
+
+-   <https://www.youtube.com/watch?v=oqvaVpZzc7Q>
+
+    IDENTIFY THIS SONG
+    what is the weird song in this video
+    it's a video of a dog being lifted up by balloons
+-   <https://www.youtube.com/watch?v=KF32DRg9opA>
+
+    it's the duck tales moon theme
+
+-   <http://steve-lovelace.com/famous-logos-in-papyrus-font/>
+
+-   <https://www.theguardian.com/us-news/commentisfree/2017/apr/03/the-destruction-of-hillary-clinton-sexism-sanders-and-the-millennial-feminists>
+
+-   <http://www.newsweek.com/myths-cost-democrats-presidential-election-521044>
+
+-   <http://www.businessinsider.com/best-cheap-beer-to-buy-2017-9/>
+
+    taste test for cheap beers
+    1. pbr
+    2. yuengling
+    3. coors light
+    4. bud light
+    5. keystone
+    6. miller lite
+    7. rolling rock
+
+-   <https://itunes.apple.com/us/app/workflow/id915249334?mt=8>
+
+    Workflow app by Apple
+    not as powerful as Tasker on Android
+
+-   <https://itunes.apple.com/us/app/narwhal-for-reddit/id845422455?mt=8>
+
+    <https://itunes.apple.com/us/app/monochrome-for-reddit/id1128991367?mt=8>
+
+    <https://itunes.apple.com/us/app/baconreader-for-reddit/id725730936?mt=8>
+
+    alternative reddit apps for iOS
+
+-   <https://itunes.apple.com/us/app/downcast/id393858566?mt=8>
+
+    <https://itunes.apple.com/us/app/overcast/id888422857?mt=8>
+
+    alternative podcast apps for iOS
+
+-   <https://www.youtube.com/watch?v=9G2Pk2JZP-E>
+
+    Arkansas is unique among the States in that:
+    - if your rent is late by ONE day
+    - your landlord gets to kick you out
+    - and you get TEN days to move out
+    - and failure to vacate is a CRIMINAL offense
+
+-   <https://www.youtube.com/watch?v=4ab2ZeZ-krY>
+
+    video about jargon and how people deliberately use it to obfuscate
+    flesch readability score
+
+-   <https://www.youtube.com/watch?v=nfHuZ5qrYX4>
+
+    bing it
+
+-   <https://www.amazon.com/660-Curries-Raghavan-Iyer/dp/0761137874>
+
+    a good indian curry cookbook
+
+-   <https://forums.somethingawful.com/showthread.php?threadid=3796995>
+
+    the negrotown thread
+    a good primer on how to treat black people
+
+-   <https://resistracism.wordpress.com/racism-101/>
+
+    <http://www.theroot.com/how-not-to-derail-the-dialogue-on-race-1790897431>
+
+-   <https://media3.giphy.com/media/LL8HyZsekvdjG/giphy.gif>
+
+    trump
+
+-   <https://www.youtube.com/watch?v=7GM4Lt5k24s>
+
+    bing up your ass
+
+-   <http://www.bookofjoe.com/2017/08/my-entry.html>
+
+    cia style guide
+    including a bunch of words you shouldn't use
+
+-   <https://github.com/aftertheflood/spark>
+
+    Spark, a font for creating sparkline charts.
+    Also an illustrative example of how to create a font
+    using Unified Font Objects (.ufo).
+
+-   <http://unifiedfontobject.org/>
+
+-   <https://www.reddit.com/r/AskReddit/comments/24vo34/whats_the_happiest_5word_sentence_you_could_hear/chb38xf/>
+
+    what to do if you win the lottery
+    from some guy on reddit
+
+-   <https://github.com/apenwarr/sshuttle>
+
+    Transparent proxy server that works as a poor man's
+    VPN. Forwards over ssh. Doesn't require admin. Works with
+    Linux and MacOS. Supports DNS tunneling.
+
+-   <https://rtyley.github.io/bfg-repo-cleaner/>
+
+    in case you ever need to obliterate anything from git history.
+    hat tip: <https://forums.somethingawful.com/showthread.php?noseen=0&threadid=3834198&perpage=40&pagenumber=3#post476586416>
+
+-   <https://www.youtube.com/watch?v=RfiQYRn7fBg>
+
+    another hacking scene
+
+-   <http://www.scs.stanford.edu/~dm/home/papers/remove.pdf>
+
+    the "get me off your fucking mailing list" paper
+
+-   <https://github.com/emacs-lsp/lsp-mode>
+
+    language servers are the future of programming language support in editors and IDEs.
+
+-   <https://twitter.com/MelTajon/status/904058526061830144?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fforums.somethingawful.com%2Fshowthread.php%3Fthreadid%3D3824975%26userid%3D0%26perpage%3D40%26pagenumber%3D79>
+
+    samsung facial recognition fail
+
+-   <https://www.comparably.com/>
+
+    <https://www.glassdoor.com/index.htm>
+
+    job ratings
+
+-   <https://github.com/alebcay/awesome-shell>
+
+    shell config, utils, etc.
+
+-   <https://github.com/zsh-users/antigen>
+
+    a plugin manager for zsh
+
+-   <https://news.ycombinator.com/item?id=13641377>
+
+    <https://renesd.blogspot.it/2017/02/is-postgresql-good-enough.html>
+
+    <http://www.brightball.com/articles/why-should-you-learn-postgresql>
+
+    just some stuff about why postgresql is good
+
+-   <http://www.zdnet.com/article/synology-vs-drobo-battle-of-the-desktop-nas-devices/>
+
+    synology way better than drobo
+
+-   <https://www.destroyallsoftware.com/screencasts/catalog/shell-from-scratch>
+
+    <https://brennan.io/2015/01/16/write-a-shell-in-c/>
+
+-   <https://medium.com/front-end-hacking/how-it-feels-to-learn-javascript-in-2017-a934b801fbe>
+
+    javascript in 2017
+
+-   <https://lineageos.org/>
+
+    The continuation of CyanogenMod
+
+-   <https://wiki.lineageos.org/gapps.html>
+
+-   <http://i.imgur.com/1IAqUGm.jpg>
+
+    "One Wipe Wonder" a story about ass hair and raspberry raz-ma-tazz nair
+    from an issue of Big Brother
+
+-   <http://georgik.rocks/how-to-fix-incorrect-cygwin-permission-inwindows-7/>
+
+    <https://lkrms.org/mounting-local-filesystems-in-cygwin/>
+
+    <https://cygwin.com/cygwin-ug-net/ntsec.html>
+
+    cygwin noacl thing
+
+-   <http://thewirecutter.com/reviews/best-headphones-under-40/>
+
+    Best headphones under $40
+
+-   <http://www.cc.com/video-clips/zpuyqq/upright-citizens-brigade-ass-pennies>
+
+    ass pennies!
+
+-   <http://imgur.com/2akNeC7>
+
+    The american black man did not job and
+    american people tax money to Iran and
+    late at American. i vote for trump because.
+    he job done
+
+-   <http://www.proclipusa.com/>
+
+    these are car phone mounts that are good
+
+-   <https://www.youtube.com/watch?v=Yvatzr7pA70>
+
+    <https://thenextweb.com/insider/2017/06/17/shady-online-diamond-dealer-proves-conflict-free-is-no-guarantee/#.tnw_Tl00ixNK>
+
+    Brilliant Earth?  Scam.  Diamonds are not from Canada.
+
+-   <https://www.youtube.com/watch?v=N5kWu1ifBGU>
+
+    engagement rings were invented in 1938 by the de Beers
+    corporation.
+    but see also <https://forums.somethingawful.com/showthread.php?threadid=3819120&userid=0&perpage=40&pagenumber=141#post475476885>
+    also see <https://forums.somethingawful.com/showthread.php?threadid=3819120&userid=0&perpage=40&pagenumber=142#post475483030>
+
+-   <https://www.youtube.com/watch?v=98KYMpBx9og>
+
+    The world's largest musical instrument is the Wanamaker Organ,
+    located in what is now a Philadelphia Macy's department store.
+    It contains 28,677 pipes spanning multiple floors!
+
+-   <http://h14s.p5r.org/2012/09/0x5f3759df.html>
+
+    the fast inverse square root function that appeared in quake
+    is some next level black magick voodoo
+
+-   <http://www.reference-audio-analyzer.pro/en/>
+
+    a goddamn objective comparison of headphones and such
+    en.goldenears.net
+
+-   <https://www.youtube.com/watch?v=zoNtXVMOutE&feature=youtu.be>
+
+    Software!
+
+-   <https://www.canlii.org/en/ab/abqb/doc/2012/2012abqb571/2012abqb571.html>
+
+    A thorough takedown of the "sovereign citizen" movement and
+    its arguments against paying taxes by a Canadian judge.  Much
+    applies to the States as well.
+
+-   <https://www.splcenter.org/sites/default/files/whoseheritage_splc.pdf>
+
+    an SPLC report on confederate symbols
+
+-   <http://evans-legal.com/dan/tpfaq.html>
+
+    Tax Protester FAQ
+
+-   <http://tpgurus.wikidot.com/>
+
+    Tax Protester Dossiers
+
+-   <http://www.slate.com/articles/business/moneybox/2003/07/americas_oddest_tax_dodge.html>
+
+    <https://en.m.wikipedia.org/wiki/Tax_protester_861_argument>
+
+    America's Oddest Tax Dodge
+
+-   blocking robocalls
+
+    <https://www.truecaller.com/download>
+
+    <http://www.robokiller.com/>
+
+    <http://mrnumber.com/>
+
+    <http://www.nomorobo.com/>
+
+    <https://hiya.com/>
+
+-   <https://www.youtube.com/watch?v=8yis7GzlXNM>
+
+    epic rap battles of history
+    weird al as isaac newton vs. bill nye vs. neil degrasse tyson
+
+-   <http://lib.store.yahoo.net/lib/mercenary-audio/work-well.html>
+
+    <http://www.denisboyles.com/workwell.html>
+
+    "Work Well With Others" by Denis Boyles
+    it's about housefly-powered matchstick airplanes :-)
+
+-   <https://www.youtube.com/watch?v=xvZqHgFz51I>
+
+    that song that sounds like percocet
+    it's "mask off" by future
+
+-   <https://github.com/getify/You-Dont-Know-JS>
+
+    you don't know js
+
+-   <https://github.com/airbnb/javascript>
+
+    js style guide
+
+-   <https://www.goodrx.com/blog/how-does-drug-pricing-work/>
+
+    <https://www.blinkhealth.com/>
+
+            oh just a couple things about prescription medication pricing
+    via: <http://www.metafilter.com/168696/somewhere-down-the-road-somebody-is-earning-more-money>
+
+-   <https://github.com/denysdovhan/wtfjs>
+
+    wtf javascript
+
+-   <http://0.30000000000000004.com/>
+
+-   <https://www.youtube.com/watch?v=y1Qk6QPzuIc>
+
+    EZ Divorce Law
+    DivorceDeli.com
+
+-   <https://www.youtube.com/watch?v=lF7FhuhyA8c>
+
+    Lowell "The Hammer" Stanley
+
+-   <https://www.youtube.com/watch?v=n7t2Aic_-Fw>
+
+    <https://www.youtube.com/watch?v=JZqALtGuXtY>
+
+    Glen Lerner chases ambulances!
+
+-   <https://www.youtube.com/watch?v=zJCH1gk3D8s>
+
+    <https://www.youtube.com/watch?v=GmZiqwRnwtM>
+
+    <https://www.youtube.com/watch?v=Lj7uW1c42YY>
+
+    <https://www.youtube.com/watch?v=HL3MxAH-kDI>
+
+    Bryan Wilson, the Texas Law Hawk!
+
+-   <https://www.youtube.com/watch?v=Q5hn8bhEpMY>
+
+    I'm Jim "The Hammer" Shapiro!
+    I cannot rip out the hearts of those who've hurt you!
+    I cannot hand you their severed hands!
+    But, I can hunt them down and settle the score!
+
+-   <http://i.imgur.com/75FbmEw.jpg>
+
+    Watch him socket to her!
+
+-   <https://techcrunch.com/2017/07/17/reelgood-helps-cord-cutters-find-track-and-watch-content-from-across-streaming-services/>
+
+    An article about ReelGood, an online TV aggregator
+
+-   <https://en.wikipedia.org/wiki/Comparison_of_video_streaming_aggregators>
+
+    Here's a comparison of video streaming aggregators.
+    ReelGood is by far the most comprehensive one.
+    Includes:
+            FanTV (fan.tv)
+            GoWatchIt (gowatchit.com)
+            JustWatch (justwatch.com)
+            Reelgood (reelgood.com)
+            Yidio (yidio.com)
+    There are also:
+            CanIStreamIt (canistream.it)
+            InstantWatcher (instantwatcher.com)
+            Findable (findable.tv)
+
+-   <https://github.com/CoolOppo/GDIPP>
+
+    gdipp, a replacement for gdi++
+
+-   <https://github.com/CoolOppo/ezgdi>
+
+    ezgdi, a replacement for gdi++/gdipp
+
+-   <https://www.inf.ethz.ch/personal/wirth/CompilerConstruction/index.html>
+
+    revised edition of "Compiler Construction" by Nicklaus Wirth
+
+-   <http://www.atariarchives.org/2bml/>
+
+    The Second Book of Machine Language (1984)
+
+-   <https://send.firefox.com/>
+
+    send a gigabyte file to someone
+
+-   <http://www.horg.com/horg/>
+
+    a site about bread clip taxonomy
+
+-   <https://www.sudosatirical.com/articles/new-owner-of-secondhand-thinkpad-blissfully-unaware-just-how-much-it-was-used-to-watch-porn/>
+
+    New Owner of Secondhand ThinkPad Blissfully Unaware Just How Much It Was Used to Watch Porn
+
+-   <https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf>
+
+    Shipping Out: On the (nearly lethal) comforts of a luxury cruise
+    by David Foster Wallace, from the January 1996 issue of Harper's Magazine
+
+-   <http://aattp.org/what-trolls-did-to-the-obama-lynching-facebook-page-will-make-your-week/>
+
+    article about takeover of the Facebook group "America the next
+    Generation"
+
+-   <https://theomg.github.io/omnichroma/>
+
+    Neato image generator
+
+-   <https://redom.js.org/>
+
+    RE:DOM, a tiny JavaScript library :-)
+
+-   <http://www.latimes.com/local/abcarian/la-me-ra-goats-take-over-facebook-page-20140624-column.html>
+
+    article about takeover of the Facebook group "Sgt. Bowe
+    Bergdahl is NOT a hero"
+
+-   <http://dbeaver.jkiss.org/>
+
+    <http://www.sql-workbench.net/>
+
+    FOSS universal database clients
+
+-   <https://www.youtube.com/watch?v=rJ6VRJUVBdQ>
+
+    dehumanize yourself and face to bloodshed
+
+-   <https://vimeo.com/88799881>
+
+    Fist of Jesus
+
+-   <https://www.youtube.com/watch?v=4sZuN0xXWLc>
+
+    Fuck you, Baltimore!
+    Big Bill Hell's, home of Challenge Pissing!
+
+-   <https://www.youtube.com/watch?v=FFEz2ZqiJEM>
+
+    oh just a numetal mashup :-)
+
+-   everything to know about soldering
+
+    <https://www.youtube.com/playlist?list=PL926EC0F1F93C1837>
+
+    <https://www.youtube.com/watch?v=vIT4ra6Mo0s> solder & flux
+
+    <https://www.youtube.com/watch?v=Mrhg5A1a1mU> pcb turret terminals
+
+    <https://www.youtube.com/watch?v=_GLeCt_u3U8> cup terminals
+
+    <https://www.youtube.com/watch?v=hvTiql-ED4A> bifurcated terminals
+
+    <https://www.youtube.com/watch?v=sN3V8hMiUb4> hook and pierced terminals
+
+    <https://www.youtube.com/watch?v=AY5M-lGxvzo> component soldering
+
+    <https://www.youtube.com/watch?v=VgcPxdnjwt4> IC's: the DIP type package
+
+    <https://www.youtube.com/watch?v=sTv3gK9tAKA> IC's: TO-5 packages
+
+    <https://www.youtube.com/watch?v=Nq5ngauITsw> IC's: flat packs or planar mounted components
+
+    <https://www.youtube.com/playlist?list=PL958FF32927823D12 rework and repair lessons>
+
+    thanks to <https://www.paceworldwide.com/>
+
+-   <http://www.calormen.com/jslogo/>
+
+    a logo interpreter!
+
+-   <http://tatiyants.com/postgres-query-plan-visualization/>
+
+    <https://explain.depesz.com/>
+
+    explain analyze postgres
+
+-   <https://www.youtube.com/watch?v=tKnG06-oYcg>
+
+    "Can't wait!"
+
+-   <http://comicneue.com/>
+
+    Comic Neue, a slightly more refined Comic Sans
+
+-   <https://www.mcsweeneys.net/articles/im-comic-sans-asshole>
+
+    I'm Comic Sans, Asshole!
+
+-   <https://www.reddit.com/r/typography/comments/3upqty/comic_jokersans_an_unholy_mix_of_the_two_most/>
+
+    Comic Jokersans
+
+-   <https://twitter.com/ncasenmare/status/544264347308937216>
+
+    <https://laughingsquid.com/comic-papyrus/>
+
+    <https://laughingsquid.com/comic-papyrus-a-typeface-combo-of-the-two-loathed-fonts-papyrus-and-comic-sans/>
+
+    Comic Papyrus
+
+-   <https://www.creativereview.co.uk/degree-shows-08-royal-college-of-art-show-2/#image4178>
+
+    Serious Sans, a more authoritative Comic Sans
+    by Valerio Di Lucente, Hugo Timm, Filip Tydén, and Erwan Lhussier
+    a collective at the Royal College of Art,
+    as opposed to the other Serious Sans
+
+-   <https://fontlibrary.org/en/font/fantasque-sans-mono>
+
+    <http://www.dafont.com/pointfree.font>
+
+    And a couple monospace fonts for those who like Comic Sans.  :-)
+
+-   <https://ukupat.github.io/tabs-or-spaces/>
+
+        indentation survey #statistics
+        javascript
+                60% use 2 spaces
+                1/4 use 4 spaces
+                the rest use tabs
+        perl
+                58% use 4 spaces
+                23% use tabs
+                16% use 2 spaces
+        html
+                56% use 2 spaces
+                23% use tabs
+                18% use 4 spaces
+        php
+                65% use 4 spaces
+                29% use tabs
+                the rest use 2 spaces
+        css
+                72% use 2 spaces
+                20% use tabs
+                the rest use 4 spaces
+        java
+                65% use 4 spaces
+                23% use 2 spaces
+                the rest use tabs
+        ruby
+                everyone uses 2 spaces
+        shell
+                48% use 2 spaces
+                29% use 4 spaces
+                22% use tabs
+        sql
+                47% use 2 spaces
+                39% use tabs
+                the rest use 4 spaces
+        typescript
+                46% use 4 spaces
+                37% use 2 spaces
+                17% use tabs
+        xml
+                52% use 2 spaces
+                26% use 4 spaces
+                21% use tabs
+
+-   <https://www.youtube.com/watch?v=0f8xnaDIAow>
+
+            pebble the bird has an attitude
+
+-   <https://twitter.com/Tom_On_Line/status/892850355389833216>
+
+    another goating but without goats instead with man dick
+    group was called "NO SHARIA LAW WORLDWIDE!"
+
+-   <https://github.com/airbnb/javascript/tree/es5-deprecated/es5>
+
+            Oh, just a JavaScript style guide for ES5.
+
+    alternatives to vlc
+            <https://mpv.io/>
+                    multiplatform
+            <https://potplayer.daum.net/>
+                    windows
+
+-   <https://www.youtube.com/watch?v=w52Hww7R_Po>
+
+    A song about Microsoft Office from 1993
+
+-   <http://starfox.about.com.msnbc.org.edu.taft.whitehouse.gov.melon.grapefruit.heliohost.org/>
+
+-   <https://www.youtube.com/watch?v=QgwTm1P37l4>
+
+    <https://www.youtube.com/watch?v=bLHL75H_VEM>
+
+    "You're dereferencing a null pointer!"
+
+-   <https://www.youtube.com/watch?v=EfdIGG36GgU>
+
+    from this video
+
+-   <http://conferencecall.biz/>
+
+    a conference call from hell simulator
+
+-   <https://github.com/kamranahmedse/developer-roadmap>
+
+    a developer roadmap
+
+-   <https://www.youtube.com/watch?v=hvoagWSOw_Y>
+
+    Corn is the best crop & wheat is worst
+    Fuck you wheat!
+
+-   <https://css-tricks.com/now-ever-might-not-need-jquery/>
+
+    (Now More Than Ever) You Might Not Need jQuery
+
+-   <http://celeryman.alexmeub.com/>
+
+    Celery Man
+
+-   <https://forums.somethingawful.com/showthread.php?noseen=0&threadid=3792285&perpage=40&pagenumber=72#post474047410>
+
+    holy fucking shit some racist actually mixed vaccines and
+    pasteurization into his conspiracy rant.
+
+-   <http://i.imgur.com/1DJdbmV.jpg>
+
+    Capybaras rule.
+
+-   <https://www.reddit.com/r/legaladvice/comments/6l3i1d/florida_i_found_out_that_my_younger_sister_was/>
+
+    dad lies to son about a medical condition to get $20,000 to
+    send daughter to a "conversion therapy" camp
+
+-   <https://sites.google.com/site/forgottenemployee/>
+
+    The Forgotten Employee - goon story
+
+-   <https://www.youtube.com/watch?v=DHQRZXM-4xI>
+
+    <https://youtu.be/vmL72sgVdAQ>
+
+    just some funny aussie shit mate
+
+-   <https://www.youtube.com/watch?v=tBZPR6yNEPE>
+
+    8-bit cover of the entire Guns N' Roses Appetite For Destruction album
+
+-   <http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf>
+
+    An Incremental Approach to Compiler Construction
+
+-   <https://github.com/namin/inc/raw/master/docs/tutorial.pdf>
+
+    Compilers: Backend to Frontend and Back to Front Again
+
+-   <http://www.bradcypert.com/5-programming-languages-you-could-learn-from/>
+
+    5 programming languages you could learn from
+
+-   <https://www.youtube.com/watch?v=Ac7G7xOG2Ag>
+
+    The Turbo Encabulator.  (original)
+
+-   <http://compilers.iecc.com/crenshaw/>
+
+    Let's Build A Compiler, by Jack Crenshaw
+
+-   <http://use-the-index-luke.com/>
+
+    Use The Index, Luke
+    A guide to database performance for developers
+
+-   <http://modern-sql.com/>
+
+    Modern SQL features
+
+-   <https://www.depesz.com/2013/04/16/explaining-the-unexplainable/>
+
+    postgresql
+
+-   <http://i.imgur.com/hLnGmXL.gif>
+
+    <http://i.imgur.com/YZMRAlE.gif>
+
+    just a couple gifs of owls
+
+-   <https://vimeo.com/64941331>
+
+    "but i'm a nice guy"
+
+-   <https://vimeo.com/93052696>
+
+    There's a man in the woods.
+
+-   <https://vimeo.com/127605643>
+
+    Farewell ETAOIN SHRDLU.
+    Sunday, July 2, 1978 - Last edition of the New York Times
+    published using hot metal linotypes
+
+LOOK FOR "CONTINUE HERE" SANS QUOTES IN THE OTHER FILE
 
