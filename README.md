@@ -1432,3 +1432,180 @@ Name one thing in this photo.
 -   <https://www.instagram.com/p/Bu2IkGylneb/>
     op claims it's a neural network generated image
 
+## 2018
+
+2018-12-31
+
+-   <https://www.youtube.com/playlist?list=PLByTa5duIolYRtq45Cz_GmtzfWJyA4bik>
+    The Secret Life of Machines:
+    The Complete Series
+
+-   <https://www.youtube.com/watch?v=UIKGV2cTgqA>
+    Tom Lehrer:
+    New Math, so simple that only a child can do it.
+
+2018-12-19
+
+-   <https://www.youtube.com/watch?v=HhD5i3M2E18>
+    four horrible computer dad jokes
+
+-   <https://www.youtube.com/watch?v=j5y3NQi_RAY>
+    lol tlo roll call
+
+2018-12-11
+
+-   <https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2>
+    Paper Airplane Designs
+
+-   <https://www.fieggen.com/shoelace/index.htm>
+    Ian's Shoelace Site
+
+-   <https://www.youtube.com/watch?v=tPKFT_t2rL0>
+    A bird singing machine from 1890
+
+-   <https://www.youtube.com/watch?v=x1T6QFpd0J4>
+    "Get Outside!" by Jason Farnham, another royalty free music earworm.
+
+-   <https://www.youtube.com/watch?v=UjSJbDj1suM>
+    Silent Partner with another earworm, titled "Pink Lemonade".
+
+-   <https://www.youtube.com/watch?v=KxCUEgwFLkg>
+    THAT OTHER COPYRIGHT FREE EARWORM SONG USED BY THIS IS PAWSOME
+    "Someone Your Own Size" by RW Smith
+
+-   <https://www.youtube.com/watch?v=rDdmG0drbJk>
+    "Morning Mood" by Edvard Grieg (royalty free performance)
+    that other one classical piece where you would imagine birds are singing.
+
+-   <https://www.youtube.com/watch?v=fHvnMi9_9mM>
+    Love Scene from Romeo and Juliet, by Tchaikovsky,
+    is that overused classical piece they used on Wayne's World.
+
+2018-10-13
+
+<https://tonic.vice.com/en_us/article/kzxe83/this-breathing-exercise-can-calm-you-down-in-a-few-minutes?utm_campaign=sharebutton>
+
+Resonant breathing, also known by the trademarked term Coherent
+Breathing.
+
+Take regular breaths in and out of the nose, at a pace of five breaths
+per minute.  Six seconds in, six seconds out.
+
+Sesssions should be 15 to 20 minutes, perhaps even longer.
+
+2018-08-01
+
+<https://www.youtube.com/watch?v=uldt6Y-CE3s>
+
+Redd Foxx sez Wash your ass.
+Stop wearing white shorts.
+
+2018-07-07
+
+<http://buildyourownlisp.com/>
+
+Learn how to program in C.
+Then learn about the concepts involved in designing programming language.
+Then build your own implementation of LISP.
+
+2018-07-04
+
+<https://www.ranker.com/list/the-untold-truth-about-juggalos/eric-vega>
+
+The Untold Truths About Juggalos: What It Really Means To Be “Down
+With The Clown”
+
+    keywords: insane clown posse; icp; juggalos; juggalettes
+
+<http://www.bookofjoe.com/2018/06/behindthemedspeak-how-to-find-a-doctor.html>
+
+How to find a doctor.
+
+<https://www.xrite.com/hue-test>
+<http://www.bookofjoe.com/2018/06/hows-your-color-vision.html>
+
+How color blind are you?  My score is 10.  I don't know what that
+means.
+
+2018-06-20
+
+<https://twitter.com/torahhorse/status/1008896014634242048>
+
+"imagine naming something ogg vorbis"
+
+<https://twitter.com/drewtoothpaste/status/525044698071957505>
+
+"Come to VLC Media Player in next 15 mins if u want an ass kicking"
+
+2018-06-17
+
+<http://www.serenitystreetnews.com>
+<https://www.lingscars.com/>
+
+The most amazing sites
+
+2018-06-15
+
+<http://www.classicshell.net/>
+
+It's some kind of classic start menu thing for Windows 10.
+
+2018-06-14
+
+<https://medium.com/@wilw/my-name-is-wil-wheaton-i-live-with-chronic-depression-and-generalized-anxiety-i-am-not-ashamed-8f693f9c0af1>
+
+My name is Wil Wheaton. I Live With Chronic Depression and Generalized
+Anxiety. I Am Not Ashamed.
+
+2018-06-09
+
+<https://thegracefulpatient.wordpress.com/2017/12/15/a-simple-mental-health-pain-scale/>
+
+An Australian blogger who goes by the nom de plume The Graceful
+Patient created a pain scale for mental health.
+
+If you've ever visited a psychiatrist or therapist, chances are you
+might have filled out something more complicated, like a K10 (Kessler
+Psychological Distress Scale) questionnaire, for example. You can look
+it up but it's one of those 10-question forms where your answers are
+on a scale from 1 to 5 ("none of the time" to "all of the time", that
+sort of thing).
+
+While those have been proven to work and will still remain useful, the
+blogger (who is not a mental health professional) perceived a need for
+a simpler overall scale not unlike That 0–10 Pain Scale With The
+Smiley Faces but for mental illness instead of other forms of physical
+pain.
+
+I'm not certain whether mental health care teams will find this useful
+as a starting point but it seems like a *really* simple way to
+communicate with loved ones, at least in summary form.
+
+2018-06-05
+
+<https://www.facebook.com/Vox/videos/891621461025457/>
+
+A Fairlight CM1 synthesizer
+
+2018-06-03
+
+Tattooed pastor Nadia Bolz-Weber, founder of the Church for All
+Sinners and Saints in Denver, CO.
+
+<https://www.facebook.com/makerswomen/videos/1547123348729317/>
+"Blessed are the agnostics."
+
+<https://www.facebook.com/makerswomen/videos/1546122852162700/>
+The video that exposed me to her.
+It's the one about the apocalypse.
+
+2018-05-31
+
+<https://www.youtube.com/watch?v=5uiroWBkdFY>
+
+soldering
+
+<https://www.youtube.com/watch?v=AqvHogekDI4>
+
+soldering
+
