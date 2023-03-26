@@ -1399,3 +1399,36 @@ the George Gorton Machine Company originated this apparently.
 -   <https://www.youtube.com/watch?v=2AMEtkZh85A>
 
     TNT's wife also reacts to N.I.B.
+    
+## 2019
+
+2019-12-09
+
+-   <https://web.archive.org/web/20030812081713/http://klausler.com/cnotes.txt>
+
+    Some things every C programmer should know about C, by PMK, 10-16-2002
+
+-   <https://www.project-syndicate.org/commentary/trolls-win-control-of-the-public-square-by-j-bradford-delong-2019-12>
+
+    How Trolls Overran the Public Square, by J. Bradford Delong, on Project Syndicate
+
+2019-08-20
+
+-   Suggestion thread for font making software.
+
+    <https://www.reddit.com/r/typography/comments/csty7n/best_font_making_software/>
+
+2019-06-18
+
+Name one thing in this photo.
+
+-   <https://twitter.com/melip0ne/status/1120503955526750208>
+
+-   <https://knowyourmeme.com/memes/name-one-thing-in-this-photo>
+
+-   Someone on twitter claimed it to be a picture designed to simulate the
+    experience of a stroke
+
+-   <https://www.instagram.com/p/Bu2IkGylneb/>
+    op claims it's a neural network generated image
+
