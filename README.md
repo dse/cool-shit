@@ -1301,3 +1301,101 @@ the George Gorton Machine Company originated this apparently.
 -   dumbdown, a dumb alternative to markdown
 
     <https://github.com/treenotation/dumbdown>
+
+## 2020
+
+2020-12-24
+
+-	<http://www.minieco.co.uk/cross-stitch-wrap-printable/>
+
+	printable wrapping paper
+
+2020-06-24
+
+-   <http://archive.vn/bV1cb>
+
+    SomethingAwful.com article about Rich "Lowtax" Kyanka abusing his
+    third wife.
+
+    -   <https://breadnroses.net/>
+
+        Apparent replacement forums.
+
+    -   <https://discord.gg/mJJeTgV>
+
+        the YOSPOS discord
+
+    -   <https://discord.gg/GrvCZx>
+
+        the cspam discord
+
+    -   <https://discord.gg/wcmpDU>
+
+        D&D discord
+
+    -   <https://goondiscordnetwork.com/>
+
+        the Goon Discord network
+
+    -   <https://cspam.xyz/forums/index.php>
+
+        a C-SPAM offsite forum
+
+    -   <http://archive.vn/cYzfA>
+
+        archive of the latest victim's FB page
+
+-   <https://m.youtube.com/watch?v=RkP_OGDCLY0>
+
+    24 is the highest number.  (Mr. Show)
+
+-   <https://nitter.net/about>
+
+    Nitter, a server-side Twitter front-end.
+
+-   <https://syncthing.net/>
+
+    SyncThing, a thingy to sync your files
+
+2020-04-06
+
+-   <http://endlessparentheses.com/manually-choose-a-fallback-font-for-unicode.html>
+    <https://www.reddit.com/r/emacs/comments/75k5e4/how_to_stop_emacs_from_using_a_proportional_font/>
+
+    should I ever encounter the problem where
+    certain symbols are being displayed in variable width
+    even though the face is monospace,
+    this should help.
+
+2020-02-05
+
+-   <https://polypane.app/blog/4-css-layouts-without-using-media-queries/>
+
+    Responsive CSS layouts without @media queries.
+
+2020-01-02
+
+-   <https://www.youtube.com/watch?v=5lRLmlM8o5Q>
+
+    Old Buicks are the best cheap cars.
+
+-   <https://www.youtube.com/watch?v=g53DkNWRgDE>
+
+    Bachman Chevrolet salesman Mark Davenport, also known as Chevy
+    Dude on YouTube, tells you which dealer fees on the invoice are
+    bullshit.
+
+    In other videos he provides other practical lessons on car buying
+    that center primarily around dealing with salespeople.
+
+    Chevy Dude is also a Corvette enthusiast.
+
+-   <https://www.youtube.com/watch?v=z8_kNsHA1Ww>
+
+    TNT, an African-American millennial YouTuber, thinks N.I.B, the
+    song from Black Sabbath's eponymous debut album, is "funky as
+    hell".
+
+-   <https://www.youtube.com/watch?v=2AMEtkZh85A>
+
+    TNT's wife also reacts to N.I.B.
