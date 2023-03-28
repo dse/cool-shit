@@ -4,6 +4,12 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
 
+2023-03-27
+
+-   [You Should Write Bad Code](https://davidamos.dev/write-bad-code/)
+
+    How to embrace absurdity and unlock more creative coding.
+
 2023-02-12
 
 -   [Focus on Typography](https://www.claireheffer.com/blog/focus-on-typography)
