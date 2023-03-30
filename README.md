@@ -6,6 +6,17 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 Wed 2023-03-29
 
+-   [Lemmy](https://join-lemmy.org/), a LINK AGGREGATOR for the
+    fediverse.  As in, federation.  Not as in, The Fed.
+
+-   Folding Mechanical Keyboard
+    
+    ThinkOutside infrared
+    
+    [ThinkOutside folding mechanical keyboard](https://old.reddit.com/r/cyberDeck/comments/124nkg2/nice_little_minideck/)
+    
+    [Stowaway portable kb](https://www.techrepublic.com/article/trek-tech-think-outsides-stowaway-portable-keyboard-pushes-the-envelope/)
+
 -   [This is why everything looks the same.][615]
 
     -   All the art looks the same.
