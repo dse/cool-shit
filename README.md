@@ -4,6 +4,46 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
 
+Wed 2023-03-29
+
+-   [This is why everything looks the same.][615]
+
+    -   All the art looks the same.
+    -   All the AirBnB interiors look the same.
+    -   All the coffee shop interiors look the same.
+    -   All the architecture looks the same.
+    -   All the residential buildings look the same.
+    -   All the crossover vehicles look the same.
+    -   All the car brand logos look the same.
+    -   All the people look the same.
+    -   All the movie posters look the same.  (media)
+    -   All the books have "f*ck" in the title.
+    -   All the brands look the same.
+    -   All the user-generated content (UCG) looks the same.
+    
+    [Via][614]
+    
+    [615]: https://www.alexmurrell.co.uk/articles/the-age-of-average
+    [614]: https://news.ycombinator.com/item?id=35355703
+
+-   [BASIC is not dead.](https://www.theregister.com/2023/03/28/nostalgic_for_basic/)
+
+    Microsoft provides [Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/).
+
+-   [Winged messengers:](https://www.theguardian.com/global-development/2023/mar/28/winged-messengers-how-first-class-pigeons-help-police-keep-indians-safe)
+    how first-class pigeons help police keep Indians safe
+    
+-   [A bicycle simulator.](https://ciechanow.ski/bicycle/)
+
+-   A couple articles on AWK:
+
+    -   [AWK technical notes.](https://maximullaris.com/awk_tech_notes.html)
+
+    -   [Fascination with AWK.](https://maximullaris.com/awk.html)
+
+-   Safari 16.4 adds [a lot of web development features](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
+    to finally make your web apps work better in iOS.
+
 2023-03-27
 
 -   [You Should Write Bad Code](https://davidamos.dev/write-bad-code/)
