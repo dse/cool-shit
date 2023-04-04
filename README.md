@@ -4,6 +4,22 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
 
+Tue 2023-04-04
+
+-   [Parquet](https://csvbase.com/blog/3): more than just "Turbo CSV" 
+
+-   [Do you need a yearly
+    checkup?](https://english.elpais.com/science-tech/2023-04-01/do-you-need-a-yearly-checkup-experts-warn-that-they-carry-risks-and-do-not-reduce-mortality.html)
+    Experts warn that they carry risks and do not reduce mortality
+
+-   [trurl](https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/) Manipulates Urls
+
+Fri 2023-03-31
+
+-   [wat](https://www.destroyallsoftware.com/talks/wat)
+
+    ruby and javascript do weird shit when you give it weird shit
+
 Wed 2023-03-29
 
 -   [Lemmy](https://join-lemmy.org/), a LINK AGGREGATOR for the
