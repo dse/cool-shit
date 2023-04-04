@@ -14,6 +14,8 @@ Tue 2023-04-04
 
 -   [trurl](https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/) Manipulates Urls
 
+-   [RFC 1178](https://www.rfc-editor.org/rfc/rfc1178) - Choosing a Name for Your Computer (August 1990)
+
 Fri 2023-03-31
 
 -   [wat](https://www.destroyallsoftware.com/talks/wat)
