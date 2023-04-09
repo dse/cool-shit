@@ -4,7 +4,45 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
 
+Thu 2023-04-06
+
+-   [via](https://medium.com/@gitship/15-git-hacks-to-save-your-life-as-a-developer-aa8808846dbb#:~:text=To%20exit%20git%20log%2C%20type,q%E2%80%9D%20or%20%E2%80%9Cz%E2%80%9D.)
+
+    -   `git autocorrect`
+    -   `git add -A` or `git add .` adds all your changed files
+    -   see where all your branches are tracking from `git branch -vv`
+    -   `git bisect` helps you find the commit where something broke
+    -   `git revert HEAD` reverts the last commit
+    -   `git revert -m 1 <sha>` reverts an earlier commit's work
+    -   delete a branch locally and remotely
+        -   `git branch --delete <branch>`
+        -   `git branch --delete --force <branch>`
+        -   `git push origin --delete <branch>`
+    -   `git config --global rebase.autoStash true`
+    -   `git reflog` shows list of things you done in project so far
+
+-   https://github.com/tj/git-extras/tree/master
+
+-   https://github.com/jwiegley/git-scripts
+
+-   git fire https://github.com/jwiegley/git-scripts/tree/master/git-fire-subtree
+
+-   https://vra.github.io/imgs/git_tutorial.pdf
+
+-   https://github.com/qw3rtman/git-fire/blob/master/git-fire
+
 Tue 2023-04-04
+
+-   https://github.com/p3r7/emacs.d is someone's .emacs.d.
+
+-   https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places emacs in odd places
+
+-   https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/gnusee0/
+
+    "I kid you not, in the '90s a piece of Germany's air traffic
+    control software ran on Emacs."
+    
+-   https://blink.sh/ - a shell for iOS and iPadOS.
 
 -   [Parquet](https://csvbase.com/blog/3): more than just "Turbo CSV" 
 
