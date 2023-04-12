@@ -4,6 +4,36 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
 
+Tue 2023-04-11
+
+-   youtube-dl forks:
+    -   [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+    -   [yt-dlc](https://github.com/blackjack4494/yt-dlc)
+
+Mon 2023-04-10
+
+-   [The 796th floor of a space station](https://floor796.com/#t4r0,512,512)
+
+    COOL AS FUCK
+
+Sat 2023-04-08
+
+-   [tldr](https://tldr.sh/) is a set of simplified man pages with
+    practical examples.  It's more like cheat sheets, really.
+
+-   [shell-maker](https://xenodium.com/a-shell-maker/) helps you make
+    Emacs shells.
+
+-   [FracturedJsonJs](https://www.npmjs.com/package/fracturedjsonjs)
+    is another attempt at a pretty but reasonably compact JSON
+    stringifier.
+
+-   [Knit](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
+    is an attempt at a better `make`.
+
+-   [mdoc(7)](https://linux.die.net/man/7/mdoc) includes an example of
+    a manpage with an example.
+
 Thu 2023-04-06
 
 -   [via](https://medium.com/@gitship/15-git-hacks-to-save-your-life-as-a-developer-aa8808846dbb#:~:text=To%20exit%20git%20log%2C%20type,q%E2%80%9D%20or%20%E2%80%9Cz%E2%80%9D.)
