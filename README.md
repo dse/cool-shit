@@ -4,6 +4,22 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
 
+Fri 2023-04-21
+
+-   [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
+
+    When Mark Zuckerberg announced in October 2021 that Facebook would
+    now be known as “Meta,” many people fell for several astonishingly
+    obvious lies.
+
+Sat 2023-04-15
+
+-   [xenodium dotfiles](https://github.com/xenodium/dotsies)
+
+Wed 2023-04-12
+
+-   [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
+
 Tue 2023-04-11
 
 -   youtube-dl forks:
