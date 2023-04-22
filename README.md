@@ -4,6 +4,11 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
 
+Sat 2023-04-22
+
+-   The [Office of the President of Mongolia](https://president.mn/mng/)'s
+    website is sideways!
+
 Fri 2023-04-21
 
 -   [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
