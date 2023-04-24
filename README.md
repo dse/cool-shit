@@ -4,6 +4,10 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
 
+Mon 2023-04-24
+
+-   [Computer Ads from the Past](https://computeradsfromthepast.substack.com/)
+
 Sat 2023-04-22
 
 -   The [Office of the President of Mongolia](https://president.mn/mng/)'s
