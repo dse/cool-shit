@@ -23,44 +23,39 @@ Sat 2023-08-12
 
 Wed 2023-07-12
 
--   https://betterprogramming.pub/how-to-build-a-simple-static-site-generator-using-node-js-6425b71272e0
+-   [How to Build a Simple Static Site Generator Using Node.js](https://betterprogramming.pub/how-to-build-a-simple-static-site-generator-using-node-js-6425b71272e0)
+
+    Build an awesome static site generator and Markdown-powered blog
 
     -   https://github.com/kartiknair/kartikn.me
 
-    -   https://github.com/kartiknair/kartikn.me/blob/master/content/writing/node-ssg.md
+    -   Contents are also [available without a login wall](https://github.com/kartiknair/kartikn.me/blob/master/content/writing/node-ssg.md).
 
 Sun 2023-06-18
 
--   https://www.google.com/books/edition/Standard_Alphabets_for_Highway_Signs/zDsVm2p1tvgC?hl=en&gbpv=1&pg=PP1&printsec=frontcover
+-   The [original FHWA Standard Alphabets document](https://www.google.com/books/edition/Standard_Alphabets_for_Highway_Signs/zDsVm2p1tvgC?hl=en&gbpv=1&pg=PP1&printsec=frontcover) from 1945,
+    including some annotations, variations, and notes someone made.
 
-    The original 1945 FHWA Standard Alphabets reference.  Has some
-    annotations and notes someone made.
+-   [Self-study the basics of computer science.](https://github.com/Lesabotsy/bootcamp)
 
--   https://github.com/Lesabotsy/bootcamp
+-   [A Complete Guide to Getting What You Want](https://www.raptitude.com/2018/06/getting-what-you-want/)
 
-    Self-study the basics of computer science.
+-   [London TFL Underground Dot Matrix Typefaces](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
 
--   https://www.raptitude.com/2018/06/getting-what-you-want/
+-   **BUY**: [Recommended Headphones from DIY-Audio-Heaven, low budget](https://diyaudioheaven.wordpress.com/headphones/recommended-ones/)
 
-    A Complete Guide to Getting What You Want
-
--   https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface
-
-    London TFL Underground Dot Matrix Typefaces
-
--   https://diyaudioheaven.wordpress.com/headphones/recommended-ones/
-
-    Recommended Headphones from DIY-Audio-Heaven, low budget
+    
 
 Sat 2023-06-17
 
--   https://collection.sciencemuseumgroup.org.uk/search/collection/monotype-corporation-collection?q=typewriter
+-   [Monotype Typewriter collection of fonts](https://collection.sciencemuseumgroup.org.uk/search/collection/monotype-corporation-collection?q=typewriter)
 
-    Monotype Typewriter collection of fonts
-
--   https://ionathan.ch/2023/06/06/angzarr.html
-
-    ANGZARR PART 2
+-   Jonathan investigated the provenance of [U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://www.fileformat.info/info/unicode/char/237c/index.htm),
+    known as ANGZARR.  Results and notes are in parts
+    [one](https://ionathan.ch/2022/04/09/angzarr.html)
+    and
+    [two](https://ionathan.ch/2023/06/06/angzarr.html).
+    
 
 Mon 2023-04-24
 
@@ -146,9 +141,9 @@ Thu 2023-04-06
 
 Tue 2023-04-04
 
--   https://github.com/p3r7/emacs.d is someone's .emacs.d.
+-   Jordan's [`~/.emacs.d/`](https://github.com/p3r7/emacs.d)
 
--   https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places emacs in odd places
+-   [emacs in odd places](https://www.eigenbahn.com/2020/09/02/emacs-in-odd-places)
 
 -   https://old.reddit.com/r/emacs/comments/lly7po/do_you_use_emacs_lisp_as_a_general_purpose/gnusee0/
 
@@ -170,11 +165,12 @@ Fri 2023-03-31
 
 -   [wat](https://www.destroyallsoftware.com/talks/wat)
 
-    ruby and javascript do weird shit when you give it weird shit
+    ruby and javascript do weird shit when you give it weird shit, but
+    it's still goddamn hilarious.
 
 Wed 2023-03-29
 
--   [Lemmy](https://join-lemmy.org/), a LINK AGGREGATOR for the
+-   [Lemmy](https://join-lemmy.org/), a **link aggregator** for the
     fediverse.  As in, federation.  Not as in, The Fed.
 
 -   Folding Mechanical Keyboard
@@ -250,12 +246,14 @@ Wed 2023-03-29
 
 -   [1934 ATF Book of American Types](https://archive.org/details/ATFBookOfAmericanTypes1934/page/n195/mode/1up)
     including Bulletin Typewriter and other imitation typewriter faces.
-    Also includes Reproducing Typewriter.
+    Also includes **Reproducing Typewriter**.
 
 -   [This USGS type book](https://pubs.usgs.gov/unnumbered/70194715/report.pdf)
-    includes a face called Slope Gothic that is very similar to if not exactly
+    includes a face called **Slope Gothic** that is very similar to if not exactly
     the type used for street names on USGS topographic maps from the 1950s or so to the 1980s.
     It also includes a Reproducing Typewriter face.
+    
+    -   2023-08-12: Someone [sold 24-point metal type on Etsy](https://www.etsy.com/listing/1265826074/title-slope-gothic-aka-gothic-inclined).
 
 -   [ATF Typeface ID Numbers](https://handsetpress.org/atf/ATFnumeric.pdf)
 
@@ -274,7 +272,7 @@ Wed 2023-03-29
 
 -   [ATF Catalog Information](https://handsetpress.org/atf/index.html)
 
-    Reproducing Typewriter appeared as early as 1906 and as late as 1953.
+    **Reproducing Typewriter** appeared as early as 1906 and as late as 1953.
 
 -   [High-resolution scans](https://ia801901.us.archive.org/31/items/1923AmericanTypeFoundersSpecimenBookCatalogue-Hi-resolution/1923ATFSpecimenBook_pt2.pdf)
     from the 1923 catalog including pp. 521–532, Typewriter Faces.
@@ -296,7 +294,9 @@ Wed 2023-03-29
 -   ISO 3098
     -   ISO 3098-0:1997 Technical product documentation -- Lettering -- Part 0: General requirements
     -   ISO 3098-2:2000 Technical product documentation -- Lettering -- Part 2: Latin alphabet, numerals and marks
+
 -   Engineering Drawing Practice for Schools and Colleges: SP46(Bureau of Indian Standards)
+
 -   https://www.typotheque.com/articles/from_lettering_guides_to_cnc_plotters
     -   standardgraph
     -   wrico
@@ -305,11 +305,17 @@ Wed 2023-03-29
     -   varigraph
     -   koh-i-noor
     -   letterguide, auburn, Nebr.
+
 -   http://potrzebie.blogspot.com/2011/09/wroten-on-wind.html
+
 -   https://fontsinuse.com/uses/25222/leroy-lettering-sets-catalog-1939
+
 -   https://www.mccoys-kecatalogs.com/KELeroy/LeRoy_Production/ke_leroy_production.htm
+
 -   https://www.reddit.com/r/MechanicalKeyboards/comments/13nk1h/til_the_name_of_the_signature_plastic_monoline/
+
 -   https://news.ycombinator.com/item?id=19622039
+
 -   https://github.com/drdnar/GortonDigital
 
 the George Gorton Machine Company originated this apparently.
@@ -328,36 +334,23 @@ the George Gorton Machine Company originated this apparently.
 
     the best linux manpages site
 
--   <https://ciechanow.ski/mechanical-watch/>
+-   Bartosz's site about [how mechanical watches work](https://ciechanow.ski/mechanical-watch/>).
 
-    great site about how mechanical watches work
-    
--   <https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/>
-
-    you don't need a UI framework.
+-   [You don't need a UI framework.](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
 
 2022-04-09
 
--   <https://j-brooke.github.io/FracturedJson/>
+-   [FracturedJson](https://j-brooke.github.io/FracturedJson/) is a compact but still
+    pretty JSON formatter.
 
-    -   A compact but still pretty JSON formatter
-
--   <https://www.npmjs.com/package/json-stringify-pretty-compact>
-
-    -   Another one
-
--   <https://github.com/inadarei/json-compact-formatter/blob/master/package.json>
-
-    -   Another one but it's an extension for vscode.  It uses
-        `json-stringify-pretty-compact`, listed above.
+-   [json-stringify-pretty-compact](https://www.npmjs.com/package/json-stringify-pretty-compact)
+    is another one.
 
 -   <https://github.com/termstandard/colors>
 
     terminal colors; apps supporting truecolor (24-bit RGB)
 
--   <https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/>
-
-    obscure HTML tag attributes
+-   [Obscure HTML tag attributes](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
 
 2022-03-29
 
