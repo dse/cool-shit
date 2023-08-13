@@ -4,6 +4,59 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
 
+Sat 2023-08-12
+
+-   ASCII DIAGRAMS!!!
+
+    -   [Typograms](https://google.github.io/typograms/)
+
+    -   [ASCIIFlow](https://asciiflow.com/)
+    
+    -   [from hackaday](https://hackaday.com/2021/04/29/ascii-schematic-diagrams/)
+    
+    -   [svgbob](https://ivanceras.github.io/svgbob-editor/)
+
+Wed 2023-07-12
+
+-   https://betterprogramming.pub/how-to-build-a-simple-static-site-generator-using-node-js-6425b71272e0
+
+    -   https://github.com/kartiknair/kartikn.me
+
+    -   https://github.com/kartiknair/kartikn.me/blob/master/content/writing/node-ssg.md
+
+Sun 2023-06-18
+
+-   https://www.google.com/books/edition/Standard_Alphabets_for_Highway_Signs/zDsVm2p1tvgC?hl=en&gbpv=1&pg=PP1&printsec=frontcover
+
+    The original 1945 FHWA Standard Alphabets reference.  Has some
+    annotations and notes someone made.
+
+-   https://github.com/Lesabotsy/bootcamp
+
+    Self-study the basics of computer science.
+
+-   https://www.raptitude.com/2018/06/getting-what-you-want/
+
+    A Complete Guide to Getting What You Want
+
+-   https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface
+
+    London TFL Underground Dot Matrix Typefaces
+
+-   https://diyaudioheaven.wordpress.com/headphones/recommended-ones/
+
+    Recommended Headphones from DIY-Audio-Heaven, low budget
+
+Sat 2023-06-17
+
+-   https://collection.sciencemuseumgroup.org.uk/search/collection/monotype-corporation-collection?q=typewriter
+
+    Monotype Typewriter collection of fonts
+
+-   https://ionathan.ch/2023/06/06/angzarr.html
+
+    ANGZARR PART 2
+
 Mon 2023-04-24
 
 -   [Computer Ads from the Past](https://computeradsfromthepast.substack.com/)
