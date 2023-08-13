@@ -409,9 +409,7 @@ the George Gorton Machine Company originated this apparently.
 
 2021-09-25
 
--   <https://mathiasbynens.be/demo/url-regex>
-
-    In search of the perfect URL validation regex
+-   In search of [the perfect URL validation regex](https://mathiasbynens.be/demo/url-regex)
 
 -   <https://onlinelibrary.wiley.com/doi/10.1002/soej.12532>
 
@@ -420,10 +418,7 @@ the George Gorton Machine Company originated this apparently.
 
 2021-09-21
 
--   <https://parentinfluence.com/what-cruise-ships-are-really-like-is-m/40/>
-
-    What Cruise Ships Are Really Like From the Passengers’ Point of View
-
+-   [What Cruise Ships Are Really Like From the Passengers’ Point of View](https://parentinfluence.com/what-cruise-ships-are-really-like-is-m/40/)
     by Adriana Matthews
     
 2021-09-18
@@ -432,11 +427,9 @@ the George Gorton Machine Company originated this apparently.
 
     <https://www.youtube.com/watch?v=4QhzDmoDz0w>
 
--   <https://boingboing.net/2021/09/17/how-i-treat-my-seasonal-affective-disorder.html>
-
-    **How I Treat My Seasonal Affective Disorder**
+-   [**How I Treat My Seasonal Affective Disorder**](https://boingboing.net/2021/09/17/how-i-treat-my-seasonal-affective-disorder.html)
     
-    MAUREEN HERMAN
+    Maureen Herman
     
     2:36 PM FRI, SEP 17, 2021
     
@@ -498,10 +491,8 @@ the George Gorton Machine Company originated this apparently.
 
 2021-09-10
 
--   <https://www.jvt.me/posts/2021/09/09/public-salary-history/>
-
-    Providing a Public Salary History Page
-    -   techniques to work around those who prevent salary transparency
+-   [Providing a Public Salary History Page](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/).
+    Techniques to work around those who prevent salary transparency
 
 2021-08-20
 
@@ -509,9 +500,7 @@ the George Gorton Machine Company originated this apparently.
 
 2021-07-23
 
--   <https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice>
-
-    10 Papers Every Developer Should Read At Least Once
+-   [10 Papers Every Developer Should Read At Least Once](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
 
     -   "On the criteria to be used in decomposing systems into modules"
     
@@ -556,21 +545,18 @@ the George Gorton Machine Company originated this apparently.
 
 2021-07-16
 
--   <https://lobste.rs/s/yfgwjr/what_interesting_command_line_tools_do>
+-   [What interesting CLI tools do](https://lobste.rs/s/yfgwjr/what_interesting_command_line_tools_do)
 
 2021-06-23
 
--   <https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/>
+-   [Four useful fzf tricks for your terminal](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
 
-    four useful fzf tricks for your terminal
-    
     fzf is a neat terminal shell that fuzzy searches your shit.
 
 2021-06-17
 
--   <http://joeyh.name/blog/entry/typed_pipes_in_every_shell/>
-
-    typed pipes in every shell - like powershell and whatever nushell is
+-   [Typed pipes in every shell](http://joeyh.name/blog/entry/typed_pipes_in_every_shell/),
+    à la PowerShell and NuShell (whatever that is).
 
 2021-03-21
 
@@ -705,9 +691,9 @@ the George Gorton Machine Company originated this apparently.
 
 2020-12-24
 
--	<http://www.minieco.co.uk/cross-stitch-wrap-printable/>
+-	[printable wrapping paper](http://www.minieco.co.uk/cross-stitch-wrap-printable/)
+    that I sometimes like to use.
 
-	printable wrapping paper
 
 2020-06-24
 
