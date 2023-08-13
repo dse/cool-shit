@@ -17,6 +17,9 @@ Sat 2023-08-12
     -   [from hackaday](https://hackaday.com/2021/04/29/ascii-schematic-diagrams/)
     
     -   [svgbob](https://ivanceras.github.io/svgbob-editor/)
+    
+-   This [engine simulator](https://www.engine-sim.parts/) was
+    designed to produce engine sounds and response characteristics.
 
 Wed 2023-07-12
 
