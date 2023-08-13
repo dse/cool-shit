@@ -1,5 +1,7 @@
 # Shit I Thought Was Cool
 
+https://github.com/dse/cool-shit/
+
 NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
