@@ -6,6 +6,41 @@ NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE.
 
 ## 2023
 
+<!-- bookofjoe 2023-05-23 -->
+
+Mon 2023-08-14
+
+-   [skimfeed](https://skimfeed.com/) is the aggregator from hell.
+
+-   [stable doodle](https://clipdrop.co/stable-doodle) turns your doodles into AI generated images
+
+-   [cafe/restaurant background noise simulator](https://mynoise.net/NoiseMachines/cafeRestaurantNoiseGenerator.php)
+
+-   [Taylor Swift](https://www.youtube.com/watch?v=FvVnP8G6ITs) did an NPR Music Tiny Desk Concert in 2019.
+
+-   Oh, nothing much, just another [Committee on Oversight and Accountability](https://www.youtube.com/watch?v=FvVnP8G6ITs?t=1079)
+    hearing, nothing more.  This one's about... let's see... UAPs.  26-JUL-2023.
+    
+-   Pocket knives that are [5 for $13.50](https://www.leevalley.com/en-us/shop/tools/hand-tools/knives/70307-the-losable-knife?item=09A0307).
+
+-   [NewsBlur](https://www.newsblur.com/) 
+
+-   [10 words](https://www.bookofjoe.com/2023/07/my-entry-13.html)
+    to cut from your writing - Shanna Mallon
+
+-   Do you want to be the [first person ever](https://forgotify.com/)
+    to listen to a song on Spotify?
+
+-   [Terrible Real Estate Agent Photos](https://terriblerealestateagentphotos.com/)
+
+-   The peacock spider [mating dance](reddit.com/r/interestingasfuck/comments/13t7zjr/peacock_spider_and_its_dance_of_attraction/).
+
+-   The NYT's 2017 [article about UAPs](https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html)
+
+-   [Original Pronunciation of Shakespeare](https://www.youtube.com/watch?v=gPlpphT7n9s)
+
+-   [Have a break. Have a KitKat. ads in AI.](https://www.bookofjoe.com/2023/05/my-entry-3.html)
+
 Sat 2023-08-12
 
 -   ASCII DIAGRAMS!!!
@@ -55,6 +90,8 @@ Sat 2023-06-17
     [one](https://ionathan.ch/2022/04/09/angzarr.html)
     and
     [two](https://ionathan.ch/2023/06/06/angzarr.html).
+
+    #angzarr #unicode
     
 
 Mon 2023-04-24
@@ -81,6 +118,8 @@ Sat 2023-04-15
 Wed 2023-04-12
 
 -   [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
+
+    #webdesign #css
 
 Tue 2023-04-11
 
@@ -325,6 +364,8 @@ the George Gorton Machine Company originated this apparently.
     You do not have to follow these rules every time. If you have a
     good reason to break any of them, do. But they are safe to follow
     every time.
+    
+    #webdesign #css
 
 ## 2022
 
