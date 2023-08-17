@@ -3044,5 +3044,6 @@ more command-line shell awesomeness
     Sunday, July 2, 1978 - Last edition of the New York Times
     published using hot metal linotypes
 
-LOOK FOR "CONTINUE HERE" SANS QUOTES IN THE OTHER FILE
+<!-- LOOK FOR "CONTINUE HERE" SANS QUOTES IN THE OTHER FILE -->
 
+<!-- REMEMBER: NO PRIVATE STUFF -->
