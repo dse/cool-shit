@@ -85,8 +85,6 @@ Sun 2023-06-18
 
 -   **BUY**: [Recommended Headphones from DIY-Audio-Heaven, low budget](https://diyaudioheaven.wordpress.com/headphones/recommended-ones/)
 
-    
-
 Sat 2023-06-17
 
 -   [Monotype Typewriter collection of fonts](https://collection.sciencemuseumgroup.org.uk/search/collection/monotype-corporation-collection?q=typewriter)
@@ -98,7 +96,6 @@ Sat 2023-06-17
     [two](https://ionathan.ch/2023/06/06/angzarr.html).
 
     #angzarr #unicode
-    
 
 Mon 2023-04-24
 
@@ -740,7 +737,6 @@ the George Gorton Machine Company originated this apparently.
 
 -	[printable wrapping paper](http://www.minieco.co.uk/cross-stitch-wrap-printable/)
     that I sometimes like to use.
-
 
 2020-06-24
 
