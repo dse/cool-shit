@@ -6,7 +6,13 @@ https://github.com/dse/cool-shit/
 
 ## 2023
 
-<!-- bookofjoe 2023-05-23 -->
+<!-- bookofjoe 2023-05-23 https://www.bookofjoe.com/2023/05/23/index.html -->
+
+SUN 20-AUG-2023
+
+-   Your assumptions about time are [falsehoods](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time).
+
+-   Orbit Culture, Wolfheart, Insomnium, Melechesh, and Disarmonia Mundi are melodeath bands.
 
 Mon 2023-08-14
 
