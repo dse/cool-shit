@@ -22,8 +22,6 @@ SUN 20-AUG-2023 [18220]
 
     -   [falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time>)
 
-    -   [falsehoods programmers believe about time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
-
     -   [falsehoods programmers believe about time](https://www.wired.com/2012/06/falsehoods-programmers-believe-about-time/)
 
     -   [falsehoods programmers believe about dates and time zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html)
