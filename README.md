@@ -148,7 +148,7 @@ Tue 2023-04-11
 
 -   youtube-dl forks:
     -   [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-    -   [yt-dlc](https://github.com/blackjack4494/yt-dlc)
+    -   [yt-dlc](https://github.com/blackjack4494/yt-dlc) [now inactive]
 
 Mon 2023-04-10
 
