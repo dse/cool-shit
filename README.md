@@ -8,9 +8,29 @@ https://github.com/dse/cool-shit/
 
 <!-- bookofjoe 2023-05-23 https://www.bookofjoe.com/2023/05/23/index.html -->
 
-SUN 20-AUG-2023
+SUN 20-AUG-2023 [18220]
+
+-   [Bergen Mono](https://elements.envato.com/bergen-mono-942DQ4#:~:text=Bergen%20Mono%20is%20the%20latest,Bergen%20Sans%20and%20Bergen%20Text.)
+
+    #monospace #typewriter #fonts
+
+-   [Intel One Mono](https://github.com/intel/intel-one-mono)
+
+    #monospace #typewriter #fonts
 
 -   Your assumptions about time are [falsehoods](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time).
+
+    -   [falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time>)
+
+    -   [falsehoods programmers believe about time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
+
+    -   [falsehoods programmers believe about time](https://www.wired.com/2012/06/falsehoods-programmers-believe-about-time/)
+
+    -   [falsehoods programmers believe about dates and time zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html)
+
+    -   [falsehoods about dates and times](https://github.com/kdeldycke/awesome-falsehood#dates-and-time)
+
+    -   [Comprehensive list of falsehood articles](https://github.com/kdeldycke/awesome-falsehood)
 
 -   Orbit Culture, Wolfheart, Insomnium, Melechesh, and Disarmonia Mundi are melodeath bands.
 
