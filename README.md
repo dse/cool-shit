@@ -351,6 +351,8 @@ Wed 2023-03-29
     It also includes a Reproducing Typewriter face.
     
     -   2023-08-12: Someone [sold 24-point metal type on Etsy](https://www.etsy.com/listing/1265826074/title-slope-gothic-aka-gothic-inclined).
+    
+        [image](https://i.etsystatic.com/32055036/r/il/d19273/4104280897/il_1140xN.4104280897_e782.jpg)
 
 -   [ATF Typeface ID Numbers](https://handsetpress.org/atf/ATFnumeric.pdf)
 
