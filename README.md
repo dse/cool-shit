@@ -6,9 +6,44 @@ https://github.com/dse/cool-shit/
 
 ## 2023
 
-<!-- bookofjoe 2023-05-23 https://www.bookofjoe.com/2023/05/23/index.html -->
+<!-- bookofjoe https://www.bookofjoe.com/2023/05/08/index.html -->
+
+WED 23-AUG-2023 [18223]
+
+Projects to help you with your Node.js project configuration files.
+
+-   [Cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) helps
+    Node projects load configuration files and semi-standardizes their
+    locations so you don't have to worry about config file formats or
+    anything.
+    
+    -   `loaders` addresses, somewhat, the problem of merging custom
+        settings into a default configuration.
+
+-   [Cosmic](https://anandchowdhary.github.io/cosmic/) ([github](https://github.com/AnandChowdhary/cosmic))
+    --- is somehow different from cosmiconfig
+    
+-   [rc](https://github.com/dominictarr/rc)
+
+    -   also addresses configuration merging.
 
 SUN 20-AUG-2023 [18220]
+
+-   LATER: [8 things you can do while talking on the phone that will fool the person you're talking to into believing they have your undivided attention
+](https://www.youtube.com/watch?v=Po_a4jdiC98)
+
+    -   stretch
+    -   make lists
+    -   slice cheese
+    -   walk barefoot
+    -   make your bed
+    -   look out the window
+    -   scratch your cat's belly or back
+    -   breathe on your CO2 monitor and watch the numbers go up
+
+-   [butterfly eggs on a leaf](https://www.bookofjoe.com/2023/05/butterfly-eggs-on-a-leaf.html)
+
+-   LATER: [Daft Punk's Final Song](https://www.bookofjoe.com/2023/05/-new-music-from-daft-punk-perhaps-their-last-ever.html)
 
 -   [Bergen Mono](https://elements.envato.com/bergen-mono-942DQ4#:~:text=Bergen%20Mono%20is%20the%20latest,Bergen%20Sans%20and%20Bergen%20Text.)
 
