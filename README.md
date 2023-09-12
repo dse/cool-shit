@@ -6,7 +6,15 @@ https://github.com/dse/cool-shit/
 
 ## 2023
 
+SUN 03-SEP-2023 [18234]
+
+-   [Bill Gates wrote most of the code for the Tandy/RadioShack 100.](https://www.quora.com/What-was-the-last-Microsoft-product-Bill-Gates-helped-code)
+
 <!-- bookofjoe https://www.bookofjoe.com/2023/05/08/index.html -->
+
+THU 24-AUG-2023 [18224]
+
+-   [Don't use placeholders!](https://www.nngroup.com/articles/form-design-placeholders/)
 
 WED 23-AUG-2023 [18223]
 
