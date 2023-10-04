@@ -6,6 +6,46 @@ https://github.com/dse/cool-shit/
 
 ## 2023
 
+WED 04-OCT-2023 [18265]
+
+Some saves from Pocket before I deleted a really old account that I
+couldn't convert to a Firefox account.
+
+*   [The Universe of Discourse : The Irish logarithm](https://blog.plover.com/math/irish-logarithm.html)
+*   [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
+*   [How to avoid KPI psychosis in your organization? | by Ágoston Török | Aug,](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b)
+*   [https://www.cracked.com/blog/5-awful-but-revealing-examples-conservative-comedy](https://www.cracked.com/blog/5-awful-but-revealing-examples-conservative-comedy)
+*   [https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d](https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d)
+*   [Bringing Dead Text to Life :: Terminal Click — Bringing Dead Text to Life](https://terminal.click/posts/2023/07/bringing-dead-text-to-life/)
+*   [Advanced macOS Commands - saurabhs.org](https://saurabhs.org/advanced-macos-commands)
+*   [Some Were Meant for C](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
+*   [The Social Phenomenon of Romana Didulo\_Sarteschi.pdf - Google Drive](https://drive.google.com/file/d/1RzjbGaxzCnqQsQGgvSrfIkAlHLD0d6qs/view?pli=1)
+*   [Standards for Lettering in: Quaerendo Volume 53 Issue 1 (2023)](https://brill.com/view/journals/qua/53/1/article-p23_3.xml)
+*   [FHWA Series A](https://www.aaroads.com/forum/index.php?topic=4098.0)
+*   [Series A lowercase](https://www.aaroads.com/forum/index.php?topic=10318.0)
+*   [(42) The First Video Game - YouTube](https://www.youtube.com/watch?v=uHQ4WCU1WQc)
+*   [https://en.wikipedia.org/wiki/Saturn's\_hexagon](https://en.wikipedia.org/wiki/Saturn's_hexagon)
+*   [How To Entertain With Your Pocket Calculator : Oleg D. JefMenko : Free Down](https://archive.org/details/htewypc/page/50/mode/2up)
+*   [Performance Excuses Debunked - by Casey Muratori](https://www.computerenhance.com/p/performance-excuses-debunked)
+*   [Why is OAuth still hard in 2023? | Nango Blog](https://www.nango.dev/blog/why-is-oauth-still-hard)
+*   [I Was Laid Off In Retaliation for Anti-Discrimination Whistleblowing – Hast](https://evhaste.com/blog/silenced-no-more)
+*   [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+*   [The web's most important decision - The History of the Web](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
+*   [What Is a URL | Azeem Bande-Ali | Engineering Manager](https://azeemba.com/posts/what-is-a-url.html)
+*   [The Twelve-Factor App](https://12factor.net/)
+*   [dylanaraps/pure-sh-bible: ? A collection of pure POSIX sh alternatives to e](https://github.com/dylanaraps/pure-sh-bible)
+*   [Comprehensive Guide to JavaScript Design Patterns | Toptal®](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
+*   [How To Find My Public IP Address From Linux CLI - nixCraft](https://www.cyberciti.biz/faq/how-to-find-my-public-ip-address-from-command-line-on-a-linux/)
+*   [Wikipedia:Lamest edit wars - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
+*   [susam/devil: Emacs minor mode that intercepts and translates keystrokes to](https://github.com/susam/devil)
+
+MON 02-OCT-2023 [18263]
+
+-   [Choose Boring Technology](https://boringtechnology.club/)
+
+    Generally, you should keep as few things as possible in your
+    projects, and make those things as old/mature as possible.
+
 SUN 03-SEP-2023 [18234]
 
 -   [Bill Gates wrote most of the code for the Tandy/RadioShack 100.](https://www.quora.com/What-was-the-last-Microsoft-product-Bill-Gates-helped-code)
@@ -14,7 +54,7 @@ SUN 03-SEP-2023 [18234]
 
 THU 24-AUG-2023 [18224]
 
--   [Don't use placeholders!](https://www.nngroup.com/articles/form-design-placeholders/)
+-   [Don't use placeholders](https://www.nngroup.com/articles/form-design-placeholders/) in HTML.
 
 WED 23-AUG-2023 [18223]
 
@@ -37,8 +77,9 @@ Projects to help you with your Node.js project configuration files.
 
 SUN 20-AUG-2023 [18220]
 
--   LATER: [8 things you can do while talking on the phone that will fool the person you're talking to into believing they have your undivided attention
-](https://www.youtube.com/watch?v=Po_a4jdiC98)
+-   LATER: [8 things you can do while talking on the phone that will
+    fool the person you're talking to into believing they have your
+    undivided attention ](https://www.youtube.com/watch?v=Po_a4jdiC98)
 
     -   stretch
     -   make lists
