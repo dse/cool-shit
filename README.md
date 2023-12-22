@@ -1734,12 +1734,12 @@ Older
 
     read a book! read a book! read a mothafuckin' book!
     r-e-a-d a b-o-o-k!
-    not a sports page, not a magazine, but a book nigga! a fuckin book nigga!
+    not a sports page, not a magazine, but a book nxgga! a fuckin book nxgga!
     raise yo kids! raise yo kids! raise yo goddamn kids!
     yo body needs water, so drink dat shit!
     buy some land! buy some land! fuck spinnin' rims!
     brush yo teeth! brush yo teeth! brush yo goddamn teeth!
-    wear deodorant nigga!
+    wear deodorant nxgga!
     it's called speed stick, it's not expensive!
     -- by Bomani Amrah (notarapper.com)
 
@@ -2273,7 +2273,7 @@ Older
 
 -   <https://www.youtube.com/watch?v=7zxeJX-7tyg>
 
-    "Good morning, nigga!"
+    "Good morning, nxgga!"
     (Tokyo breakfast)
 
 -   <https://www.youtube.com/watch?v=XQ4pldh_pOA>
