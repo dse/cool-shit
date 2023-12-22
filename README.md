@@ -1,10 +1,22 @@
-# Shit I Thought Was Cool
+# Shit I Thought Was Cool (Or Something)
 
 https://github.com/dse/cool-shit/
 
 <!-- NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE. -->
 
 ## 2023
+
+SUN 05-NOV-2023 [18297]
+
+[Have you hugged your kid today?](https://www.youtube.com/watch?v=wbGqpUACT3M?t=918) (skip to 9 min 18 sec)
+
+[Soviet Military Maps](https://www.sovietmaps.com/) of the United States and elsewhere.
+
+THU 02-NOV-2023 [18294]
+
+[CSS the Classy Way](https://thedailywtf.com/articles/comments/Styling_With_Classy_CSS/3)
+
+[tachyons](https://github.com/tachyons-css/tachyons/issues/12)
 
 WED 04-OCT-2023 [18265]
 
@@ -641,7 +653,7 @@ the George Gorton Machine Company originated this apparently.
 
 2021-09-10
 
--   [Providing a Public Salary History Page](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/).
+-   [Providing a Public Salary History Page](https://www.jvt.me/posts/2021/09/09/public-salary-history) -
     Techniques to work around those who prevent salary transparency
 
 2021-08-20
