@@ -1165,7 +1165,7 @@ Name one thing in this photo.
 
 -   <http://www.bookofjoe.com/2018/05/life-and-work-liana-finck.html>
 
-    Live and Work - Liana Finck
+    Life and Work - Liana Finck
 
     NEAT
 
