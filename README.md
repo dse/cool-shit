@@ -3164,6 +3164,176 @@ more command-line shell awesomeness
     Sunday, July 2, 1978 - Last edition of the New York Times
     published using hot metal linotypes
 
+2018-07-08
+
+-   <https://www.facebook.com/cathie.post.1>
+
+    Just another conservaturd teabagger potatriot.
+    
+## Really Old Stuff
+
+-   <https://www.facebook.com/PearlsComic/photos/a.10152137834673764.1073741825.132583843763/10156171362763764/?type=3&theater>
+
+    This one's about exercise goals.
+
+-   <https://www.youtube.com/watch?v=Oqp5zI4Ng_s>
+
+    Why Wear a Suit?  (You get better treatment.  You show a
+    willingness to go through discomfort and present well for clients.
+
+-   <https://www.facebook.com/dsevil/videos/10212280687596583/>
+
+    It's just dog balls
+
+-   <http://www.latimes.com/books/jacketcopy/la-et-jc-hugos-puppies-20160427-snap-htmlstory.html>
+
+    How did ‘Space Raptor Butt Invasion’ by Chuck Tingle become a Hugo finalist?
+
+-   <https://en.wikipedia.org/wiki/Military_Grid_Reference_System>
+
+    <https://what3words.com/>
+
+-   <https://www.youtube.com/watch?v=j210gCAUdXQ>
+
+    Internet Comment Etiquette: Christmas! (lol at 7:13)
+
+-   <https://www.youtube.com/watch?v=NJO7hcinS-U>
+
+    Jeopardy!
+
+    "What's a ho?"
+    
+    "No."
+
+-   <https://www.youtube.com/watch?v=xF0cGt5-69k>
+
+    <https://www.youtube.com/watch?v=l59cg62wqpY>
+
+    "Fuck This Gay Earth" title
+
+-   <https://vtt.tumblr.com/tumblr_ort14e71ED1rusd51.mp4>
+
+    <https://www.youtube.com/watch?v=9czpYfVowvg>
+
+    <https://www.youtube.com/watch?v=2_UA3s-jTdc>
+    
+    <https://www.youtube.com/watch?v=DJZzGJ9SYzA>
+    
+    THE PIZZA AND PASTA SONG!
+
+    cvmmn cnfgn chg vg va n obk<br>
+    qryvire vg gb zl ubhfr naq chg vg ba zl pbpx<br>
+    zl pbpx zl pbpx zl pbpx zl pbpx zl pbpx zl pbpx<br>
+    purrfrl ba zl crral naq fbzr fnhpr-n ba zl onyyf
+
+-   [Some dumb video.](https://va.media.tumblr.com/tumblr_osf8tgPdyJ1vkecuv_480.mp4)
+
+-   ["Mercury Mistress" parody ad.](https://www.dailymotion.com/video/x359dd)
+
+-   [round bubble asses](https://www.youtube.com/watch?v=KM54Hczsz4U) lol
+
+-   [Noice.](https://www.youtube.com/watch?v=a8c5wmeOL9o) (short clip)
+
+-   <https://www.youtube.com/watch?v=RvuNXblcK14>
+
+    She's a wolf in mouse clothing.<br>
+    Ghost wolf.
+
+-   <https://media3.giphy.com/media/NBN2nFCVQDCDe/giphy.gif>
+
+    Some middle finger gif.
+
+-   <https://media.tenor.co/images/31a56072aaeebd15c27e9cb8a35f9538/tenor.gif>
+
+    Some cat gif.  "Oh hell no."
+
+-   A couple funny Amazon reviews:
+
+    -   <https://www.amazon.com/gp/customer-reviews/R2QP56S5P2DEGA/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=B000KKNQBK#R2QP56S5P2DEGA>
+
+    -   <https://www.amazon.com/gp/aw/review/B000KKNQBK/R3KBG0X1DUB2JP/ref=cm_cr_dp_aw_rvw_2?ie=UTF8&cursor=2>
+
+-   <https://www.youtube.com/watch?v=knlXTU1R_rE>
+
+    Sky Hunters, The World of the Dragonfly - Go Wild.  A plant blossoming at 25:54.
+
+-   [date-fns](https://date-fns.org/), a JS date utility library
+
+-   [js-joda](https://js-joda.github.io/js-joda/), another JS date and time library
+
+-   <https://qz.com/1010259/the-100-billion-per-year-back-pain-industry-is-mostly-a-hoax/>
+
+    The $100 billion per year back pain industry is mostly a hoax
+
+-   <http://www.acsh.org/news/2016/06/06/two-drops-of-death-dimethylmercury>
+
+    Various forms of mercury and how poisonous they are.
+
+-   [Uranium hexafluoride](https://en.wikipedia.org/wiki/Uranium_hexafluoride) is some scary shit.
+
+-   <https://www.youtube.com/watch?v=XEzjA5RoLv0>
+
+    How to refer to Canada's indigenous peoples
+
+-   A series of Vince McMahon gifs:
+    -   <http://i.imgur.com/QQeZcZL.gif>
+    -   <http://i.imgur.com/3ZPFFuh.gif>
+    -   <http://i.imgur.com/4WeMI66.gif>
+    -   <http://i.imgur.com/6zdseqS.gif>
+    -   <http://i.imgur.com/hd7rC6V.gif>
+    -   <http://i.imgur.com/b6fyd3w.gif>
+
+-   <https://www.youtube.com/watch?v=B6V-nzNjo-g>
+
+    folding chair waterfall at a combat zone wrestling match
+
+-   [computer -> trash can](https://www.youtube.com/watch?v=o_XaJdDqQA0) "Linda?"
+
+-   <https://www.facebook.com/MrCookingPanda/videos/1627924850565534/?hc_ref=NEWSFEED>
+
+    Oh, just a Facebook video recipe for a pizza braid.
+
+-   <https://www.youtube.com/watch?v=xTfS0nAgfuE>
+
+    If "Real People" Commercials Were Real Life - CHEVY Malibu Ad
+
+-   [McMansion Hell](http://www.mcmansionhell.com/), a tumble about ugly as fuck mansions.
+
+-   <https://www.youtube.com/watch?v=3m5qxZm_JqM>
+
+    Clarke and Dawe
+    "The Front Fell Off"
+
+-   <http://underscore.io/books/> - Free, open source books on Scala and functional programming.
+
+-   [hmmmm.gif](https://i.imgur.com/AlvAnjP.gif)
+
+-   <https://www.youtube.com/watch?v=D-kVjGWq4L4>
+
+    windows 3.1 sound ta-da oh crap
+
+-   <https://www.youtube.com/watch?v=acT_PSAZ7BQ>
+
+    guillotine
+    a song by the coup
+
+-   <https://www.facebook.com/imgur/videos/10154340702472471/?hc_ref=NEWSFEED>
+
+    A video of somebody waking up a cat with an airhorn.
+
+-   <https://www.youtube.com/watch?v=Sb7GmolHTd4>
+
+    "Cum."
+    (Nirvana performing "Come As You Are", shortened to "Come")
+
+-   <https://www.youtube.com/watch?v=-h1F93EJIds>
+
+    seven-note vaudeville fanfare
+
+-   <https://www.youtube.com/watch?v=QEzhxP-pdos>
+
+    do i look like i know what a jpG GLHAUH:AIH:AIJ:A
+
 <!-- LOOK FOR "CONTINUE HERE" SANS QUOTES IN THE OTHER FILE -->
 
 <!-- REMEMBER: NO PRIVATE STUFF -->
