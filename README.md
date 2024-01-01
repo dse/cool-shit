@@ -8,6 +8,8 @@ https://github.com/dse/cool-shit/
 
 ### MON 01-JAN-2024 [18354]
 
+-   [Bits'N'Picas](https://github.com/kreativekorp/bitsnpicas), tools to create bitmap fonts.
+
 -   Retro Terminal Emulators
 
     -   [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
@@ -17,7 +19,7 @@ https://github.com/dse/cool-shit/
     -   [Cathode](https://www.jwz.org/blog/2011/01/cathode-vintage-terminal-emulator/) (no longer available)
         ([a YouTube video](https://www.youtube.com/watch?v=YLHk-Dvu82g))
         
-    -   [TwoTerm](https://github.com/ksherlock/TwoTerm)
+    -   [TwoTerm](https://github.com/ksherlock/TwoTerm), the one that uses the Apple II font.
     
     -   [one in JavaScript](https://codepen.io/jcubic/pen/BwBYOZ)
     
