@@ -4,6 +4,35 @@ https://github.com/dse/cool-shit/
 
 <!-- NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE. -->
 
+## 2024
+
+### MON 01-JAN-2024 [18355]
+
+-   Retro Terminal Emulators
+
+    -   [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+    
+        -   [cool-old-term](https://github.com/yurikhan/cool-old-term), as which cool-retro-term was previously known
+    
+    -   [Cathode](https://www.jwz.org/blog/2011/01/cathode-vintage-terminal-emulator/) (no longer available)
+        ([a YouTube video](https://www.youtube.com/watch?v=YLHk-Dvu82g))
+        
+    -   [TwoTerm](https://github.com/ksherlock/TwoTerm)
+    
+    -   [one in JavaScript](https://codepen.io/jcubic/pen/BwBYOZ)
+    
+    -   [Continuum93](https://community.monogame.net/t/continuum-93-a-fully-assembly-programable-retro-console-emulator/18501)
+    
+    -   [LlamaTerminal](https://github.com/BleuLlama/LlamaTerminal)
+    
+    -   A couple CodePens:
+        [vintage terminal effects](https://codepen.io/collection/AeGGxz)
+        and [terminal things](https://codepen.io/collection/Mgrkmw)
+    
+    -   [awesome-terminals](https://github.com/cdleon/awesome-terminals)
+        
+    -   [terminal-emulators](https://github.com/topics/terminal-emulators) GitHub topic
+
 ## 2023
 
 SUN 05-NOV-2023 [18297]
