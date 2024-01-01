@@ -6,7 +6,7 @@ https://github.com/dse/cool-shit/
 
 ## 2024
 
-### MON 01-JAN-2024 [18355]
+### MON 01-JAN-2024 [18354]
 
 -   Retro Terminal Emulators
 
