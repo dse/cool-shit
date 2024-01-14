@@ -64,19 +64,19 @@ https://github.com/dse/cool-shit/
 
 ## 2023
 
-SUN 05-NOV-2023 [18297]
+### SUN 05-NOV-2023 [18297]
 
 [Have you hugged your kid today?](https://www.youtube.com/watch?v=wbGqpUACT3M?t=918) (skip to 9 min 18 sec)
 
 [Soviet Military Maps](https://www.sovietmaps.com/) of the United States and elsewhere.
 
-THU 02-NOV-2023 [18294]
+### THU 02-NOV-2023 [18294]
 
 [CSS the Classy Way](https://thedailywtf.com/articles/comments/Styling_With_Classy_CSS/3)
 
 [tachyons](https://github.com/tachyons-css/tachyons/issues/12)
 
-WED 04-OCT-2023 [18265]
+### WED 04-OCT-2023 [18265]
 
 Some saves from Pocket before I deleted a really old account that I
 couldn't convert to a Firefox account.
@@ -109,24 +109,24 @@ couldn't convert to a Firefox account.
 *   [Wikipedia:Lamest edit wars - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
 *   [susam/devil: Emacs minor mode that intercepts and translates keystrokes to](https://github.com/susam/devil)
 
-MON 02-OCT-2023 [18263]
+### MON 02-OCT-2023 [18263]
 
 -   [Choose Boring Technology](https://boringtechnology.club/)
 
     Generally, you should keep as few things as possible in your
     projects, and make those things as old/mature as possible.
 
-SUN 03-SEP-2023 [18234]
+### SUN 03-SEP-2023 [18234]
 
 -   [Bill Gates wrote most of the code for the Tandy/RadioShack 100.](https://www.quora.com/What-was-the-last-Microsoft-product-Bill-Gates-helped-code)
 
 <!-- bookofjoe https://www.bookofjoe.com/2023/05/08/index.html -->
 
-THU 24-AUG-2023 [18224]
+### THU 24-AUG-2023 [18224]
 
 -   [Don't use placeholders](https://www.nngroup.com/articles/form-design-placeholders/) in HTML.
 
-WED 23-AUG-2023 [18223]
+### WED 23-AUG-2023 [18223]
 
 Projects to help you with your Node.js project configuration files.
 
@@ -145,7 +145,7 @@ Projects to help you with your Node.js project configuration files.
 
     -   also addresses configuration merging.
 
-SUN 20-AUG-2023 [18220]
+### SUN 20-AUG-2023 [18220]
 
 -   LATER: [8 things you can do while talking on the phone that will
     fool the person you're talking to into believing they have your
@@ -186,7 +186,7 @@ SUN 20-AUG-2023 [18220]
 
 -   Orbit Culture, Wolfheart, Insomnium, Melechesh, and Disarmonia Mundi are melodeath bands.
 
-Mon 2023-08-14
+### Mon 2023-08-14
 
 -   [skimfeed](https://skimfeed.com/) is the aggregator from hell.
 
@@ -219,7 +219,7 @@ Mon 2023-08-14
 
 -   [Have a break. Have a KitKat. ads in AI.](https://www.bookofjoe.com/2023/05/my-entry-3.html)
 
-Sat 2023-08-12
+### Sat 2023-08-12
 
 -   ASCII DIAGRAMS!!!
 
@@ -234,7 +234,7 @@ Sat 2023-08-12
 -   This [engine simulator](https://www.engine-sim.parts/) was
     designed to produce engine sounds and response characteristics.
 
-Wed 2023-07-12
+### Wed 2023-07-12
 
 -   [How to Build a Simple Static Site Generator Using Node.js](https://betterprogramming.pub/how-to-build-a-simple-static-site-generator-using-node-js-6425b71272e0)
 
@@ -244,7 +244,7 @@ Wed 2023-07-12
 
     -   Contents are also [available without a login wall](https://github.com/kartiknair/kartikn.me/blob/master/content/writing/node-ssg.md).
 
-Sun 2023-06-18
+### Sun 2023-06-18
 
 -   The [original FHWA Standard Alphabets document](https://www.google.com/books/edition/Standard_Alphabets_for_Highway_Signs/zDsVm2p1tvgC?hl=en&gbpv=1&pg=PP1&printsec=frontcover) from 1945,
     including some annotations, variations, and notes someone made.
@@ -259,7 +259,7 @@ Sun 2023-06-18
 
     #audiophile #cheap #inexpensive #headphones #low #budget
 
-Sat 2023-06-17
+### Sat 2023-06-17
 
 -   [Monotype Typewriter collection of fonts](https://collection.sciencemuseumgroup.org.uk/search/collection/monotype-corporation-collection?q=typewriter)
 
@@ -271,16 +271,16 @@ Sat 2023-06-17
 
     #angzarr #unicode
 
-Mon 2023-04-24
+### Mon 2023-04-24
 
 -   [Computer Ads from the Past](https://computeradsfromthepast.substack.com/)
 
-Sat 2023-04-22
+### Sat 2023-04-22
 
 -   The [Office of the President of Mongolia](https://president.mn/mng/)'s
     website is sideways!
 
-Fri 2023-04-21
+### Fri 2023-04-21
 
 -   [Fire Mark Zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
 
@@ -288,29 +288,29 @@ Fri 2023-04-21
     now be known as “Meta,” many people fell for several astonishingly
     obvious lies.
 
-Sat 2023-04-15
+### Sat 2023-04-15
 
 -   [xenodium dotfiles](https://github.com/xenodium/dotsies)
 
-Wed 2023-04-12
+### Wed 2023-04-12
 
 -   [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 
     #webdesign #css
 
-Tue 2023-04-11
+### Tue 2023-04-11
 
 -   youtube-dl forks:
     -   [yt-dlp](https://github.com/yt-dlp/yt-dlp)
     -   [yt-dlc](https://github.com/blackjack4494/yt-dlc) [now inactive]
 
-Mon 2023-04-10
+### Mon 2023-04-10
 
 -   [The 796th floor of a space station](https://floor796.com/#t4r0,512,512)
 
     COOL AS FUCK
 
-Sat 2023-04-08
+### Sat 2023-04-08
 
 -   [tldr](https://tldr.sh/) is a set of simplified man pages with
     practical examples.  It's more like cheat sheets, really.
@@ -328,7 +328,7 @@ Sat 2023-04-08
 -   [mdoc(7)](https://linux.die.net/man/7/mdoc) includes an example of
     a manpage with an example.
 
-Thu 2023-04-06
+### Thu 2023-04-06
 
 -   [via](https://medium.com/@gitship/15-git-hacks-to-save-your-life-as-a-developer-aa8808846dbb#:~:text=To%20exit%20git%20log%2C%20type,q%E2%80%9D%20or%20%E2%80%9Cz%E2%80%9D.)
 
@@ -355,7 +355,7 @@ Thu 2023-04-06
 
 -   https://github.com/qw3rtman/git-fire/blob/master/git-fire
 
-Tue 2023-04-04
+### Tue 2023-04-04
 
 -   Jordan's [`~/.emacs.d/`](https://github.com/p3r7/emacs.d)
 
@@ -377,14 +377,14 @@ Tue 2023-04-04
 
 -   [RFC 1178](https://www.rfc-editor.org/rfc/rfc1178) - Choosing a Name for Your Computer (August 1990)
 
-Fri 2023-03-31
+### Fri 2023-03-31
 
 -   [wat](https://www.destroyallsoftware.com/talks/wat)
 
     ruby and javascript do weird shit when you give it weird shit, but
     it's still goddamn hilarious.
 
-Wed 2023-03-29
+### Wed 2023-03-29
 
 -   [Lemmy](https://join-lemmy.org/), a **link aggregator** for the
     fediverse.  As in, federation.  Not as in, The Fed.
@@ -435,13 +435,13 @@ Wed 2023-03-29
 -   Safari 16.4 adds [a lot of web development features](https://webkit.org/blog/13966/webkit-features-in-safari-16-4/)
     to finally make your web apps work better in iOS.
 
-2023-03-27
+### 2023-03-27
 
 -   [You Should Write Bad Code](https://davidamos.dev/write-bad-code/)
 
     How to embrace absurdity and unlock more creative coding.
 
-2023-02-12
+### 2023-02-12
 
 -   [Focus on Typography](https://www.claireheffer.com/blog/focus-on-typography)
 
@@ -507,7 +507,7 @@ Wed 2023-03-29
 -   Page 106 of [this Swamp Press specimen catalog](https://swamppress.com/pdf/SwampTypeCat%2022.pdf)
     has Typewriter Reproducing.
 
-2023-02-06
+### 2023-02-06
 
 -   ISO 3098
     -   ISO 3098-0:1997 Technical product documentation -- Lettering -- Part 0: General requirements
@@ -548,7 +548,7 @@ the George Gorton Machine Company originated this apparently.
 
 ## 2022
 
-2022-05-07
+### 2022-05-07
 
 -   <https://dashdash.io/>
 
@@ -558,7 +558,7 @@ the George Gorton Machine Company originated this apparently.
 
 -   [You don't need a UI framework.](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
 
-2022-04-09
+### 2022-04-09
 
 -   [FracturedJson](https://j-brooke.github.io/FracturedJson/) is a compact but still
     pretty JSON formatter.
@@ -572,7 +572,7 @@ the George Gorton Machine Company originated this apparently.
 
 -   [Obscure HTML tag attributes](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
 
-2022-03-29
+### 2022-03-29
 
 -   <https://css-tricks.com/simplified-fluid-typography/>
     
@@ -581,7 +581,7 @@ the George Gorton Machine Company originated this apparently.
     fluid typography.  it's literally font-sizes in `vw` units with
     responsive breakpoints to clamp the font-size to a certain range.
 
-2022-02-25
+### 2022-02-25
 
 -   https://unix.stackexchange.com/questions/249723/how-to-trick-a-command-into-thinking-its-output-is-going-to-a-terminal
 
@@ -591,7 +591,7 @@ the George Gorton Machine Company originated this apparently.
 
 ## 2021
 
-2021-12-07
+### 2021-12-07
 
 -   Magsafe
 
@@ -604,30 +604,30 @@ the George Gorton Machine Company originated this apparently.
         ● Phone In Mag Electronics Co., Ltd. (<http://www.phonein.com.tw>)
         ● Quadrant Solutions, Inc. (<https://www.quadrant.us>)
 
-2021-12-06
+### 2021-12-06
 
 -   You can view classic USGS topographic maps
     [at high resolution](https://livingatlas.arcgis.com/topoexplorer/index.html).
 
-2021-12-05
+### 2021-12-05
 
     Everyone gets [the process of extracting the TLD from a hostname](https://www.publicsuffix.org/) wrong.
     
     Do not always just take the last two components.
 
-2021-11-30
+### 2021-11-30
 
 -   [Practical parsing with Flex and Bison](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
 
 -   [My custom CSS reset](https://www.joshwcomeau.com/css/custom-css-reset/#digit-root-stacking-context)
 
-2021-10-21
+### 2021-10-21
 
 -   [136 facts every web developer should know](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/)
 
     My [archive](every-web-dev-should-know.md) of it.
 
-2021-09-25
+### 2021-09-25
 
 -   In search of [the perfect URL validation regex](https://mathiasbynens.be/demo/url-regex)
 
@@ -636,12 +636,12 @@ the George Gorton Machine Company originated this apparently.
     Quashing demand or changing clients? Evidence of criminalization
     of sex work in the United Kingdom
 
-2021-09-21
+### 2021-09-21
 
 -   [What Cruise Ships Are Really Like From the Passengers’ Point of View](https://parentinfluence.com/what-cruise-ships-are-really-like-is-m/40/)
     by Adriana Matthews
     
-2021-09-18
+### 2021-09-18
 
 -   Carcass's new album, _Torn Arteries_, is out now.
 
@@ -709,16 +709,16 @@ the George Gorton Machine Company originated this apparently.
     Deluxe model w/wireless phone charger, USB port & alarm clock: Theralite Aura Qi Light Therapy Sun Lamp
     <https://amzn.to/3ly0BbX>
 
-2021-09-10
+### 2021-09-10
 
 -   [Providing a Public Salary History Page](https://www.jvt.me/posts/2021/09/09/public-salary-history) -
     Techniques to work around those who prevent salary transparency
 
-2021-08-20
+### 2021-08-20
 
 -   <https://github.com/public-apis/public-apis>
 
-2021-07-23
+### 2021-07-23
 
 -   [10 Papers Every Developer Should Read At Least Once](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
 
@@ -763,22 +763,22 @@ the George Gorton Machine Company originated this apparently.
     
         David Ungar, Randall B. Smith
 
-2021-07-16
+### 2021-07-16
 
 -   [What interesting CLI tools do](https://lobste.rs/s/yfgwjr/what_interesting_command_line_tools_do)
 
-2021-06-23
+### 2021-06-23
 
 -   [Four useful fzf tricks for your terminal](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
 
     fzf is a neat terminal shell that fuzzy searches your shit.
 
-2021-06-17
+### 2021-06-17
 
 -   [Typed pipes in every shell](http://joeyh.name/blog/entry/typed_pipes_in_every_shell/),
     à la PowerShell and NuShell (whatever that is).
 
-2021-03-21
+### 2021-03-21
 
 -   <https://en.wheelsage.org/ikarus/200-series/76839/15499/pictures/mas6jc>
 
@@ -791,7 +791,7 @@ the George Gorton Machine Company originated this apparently.
 
     Champaign-Urbana Mass Transit District #401, formerly TARC #401.
 
-2021-02-21
+### 2021-02-21
 
 -   The phenomenon of chills or goosebumps that come from a piece of
     music (or from any other aesthetic experience) is called frisson,
@@ -845,7 +845,7 @@ the George Gorton Machine Company originated this apparently.
 
 -   <https://en.wikipedia.org/wiki/Appoggiatura>
 
-2021-02-18
+### 2021-02-18
 
 -   <https://free-for.dev/>
 
@@ -889,7 +889,7 @@ the George Gorton Machine Company originated this apparently.
     of git, that might make your time dealing with version control so
     much more enjoyable.
 
-2021-01-21
+### 2021-01-21
 
 -   xterm does graphics (sort of)
 
@@ -909,12 +909,12 @@ the George Gorton Machine Company originated this apparently.
 
 ## 2020
 
-2020-12-24
+### 2020-12-24
 
 -	[printable wrapping paper](http://www.minieco.co.uk/cross-stitch-wrap-printable/)
     that I sometimes like to use.
 
-2020-06-24
+### 2020-06-24
 
 -   <http://archive.vn/bV1cb>
 
@@ -961,7 +961,7 @@ the George Gorton Machine Company originated this apparently.
 
     SyncThing, a thingy to sync your files
 
-2020-04-06
+### 2020-04-06
 
 -   <http://endlessparentheses.com/manually-choose-a-fallback-font-for-unicode.html>
     <https://www.reddit.com/r/emacs/comments/75k5e4/how_to_stop_emacs_from_using_a_proportional_font/>
@@ -971,13 +971,13 @@ the George Gorton Machine Company originated this apparently.
     even though the face is monospace,
     this should help.
 
-2020-02-05
+### 2020-02-05
 
 -   <https://polypane.app/blog/4-css-layouts-without-using-media-queries/>
 
     Responsive CSS layouts without @media queries.
 
-2020-01-02
+### 2020-01-02
 
 -   <https://www.youtube.com/watch?v=5lRLmlM8o5Q>
 
@@ -1006,7 +1006,7 @@ the George Gorton Machine Company originated this apparently.
     
 ## 2019
 
-2019-12-09
+### 2019-12-09
 
 -   <https://web.archive.org/web/20030812081713/http://klausler.com/cnotes.txt>
 
@@ -1016,13 +1016,13 @@ the George Gorton Machine Company originated this apparently.
 
     How Trolls Overran the Public Square, by J. Bradford Delong, on Project Syndicate
 
-2019-08-20
+### 2019-08-20
 
 -   Suggestion thread for font making software.
 
     <https://www.reddit.com/r/typography/comments/csty7n/best_font_making_software/>
 
-2019-06-18
+### 2019-06-18
 
 Name one thing in this photo.
 
@@ -1038,7 +1038,7 @@ Name one thing in this photo.
 
 ## 2018
 
-2018-12-31
+### 2018-12-31
 
 -   <https://www.youtube.com/playlist?list=PLByTa5duIolYRtq45Cz_GmtzfWJyA4bik>
     The Secret Life of Machines:
@@ -1048,7 +1048,7 @@ Name one thing in this photo.
     Tom Lehrer:
     New Math, so simple that only a child can do it.
 
-2018-12-19
+### 2018-12-19
 
 -   <https://www.youtube.com/watch?v=HhD5i3M2E18>
     four horrible computer dad jokes
@@ -1056,7 +1056,7 @@ Name one thing in this photo.
 -   <https://www.youtube.com/watch?v=j5y3NQi_RAY>
     lol tlo roll call
 
-2018-12-11
+### 2018-12-11
 
 -   <https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2>
     Paper Airplane Designs
@@ -1085,7 +1085,7 @@ Name one thing in this photo.
     Love Scene from Romeo and Juliet, by Tchaikovsky,
     is that overused classical piece they used on Wayne's World.
 
-2018-10-13
+### 2018-10-13
 
 -   <https://tonic.vice.com/en_us/article/kzxe83/this-breathing-exercise-can-calm-you-down-in-a-few-minutes?utm_campaign=sharebutton>
 
@@ -1097,14 +1097,14 @@ Name one thing in this photo.
 
     Sesssions should be 15 to 20 minutes, perhaps even longer.
 
-2018-08-01
+### 2018-08-01
 
 -   <https://www.youtube.com/watch?v=uldt6Y-CE3s>
 
     Redd Foxx sez Wash your ass.
     Stop wearing white shorts.
 
-2018-07-07
+### 2018-07-07
 
 -   <http://buildyourownlisp.com/>
 
@@ -1114,7 +1114,7 @@ Name one thing in this photo.
 
     Then build your own implementation of LISP.
 
-2018-07-04
+### 2018-07-04
 
 -   <https://www.ranker.com/list/the-untold-truth-about-juggalos/eric-vega>
 
@@ -1134,7 +1134,7 @@ Name one thing in this photo.
     How color blind are you?  My score is 10.  I don't know what that
     means.
 
-2018-06-20
+### 2018-06-20
 
 -   <https://twitter.com/torahhorse/status/1008896014634242048>
 
@@ -1144,7 +1144,7 @@ Name one thing in this photo.
 
     "Come to VLC Media Player in next 15 mins if u want an ass kicking"
 
-2018-06-17
+### 2018-06-17
 
 -   <http://www.serenitystreetnews.com>
 
@@ -1152,20 +1152,20 @@ Name one thing in this photo.
 
     The most amazing sites
 
-2018-06-15
+### 2018-06-15
 
 -   <http://www.classicshell.net/>
 
     It's some kind of classic start menu thing for Windows 10.
 
-2018-06-14
+### 2018-06-14
 
 -   <https://medium.com/@wilw/my-name-is-wil-wheaton-i-live-with-chronic-depression-and-generalized-anxiety-i-am-not-ashamed-8f693f9c0af1>
 
     My name is Wil Wheaton. I Live With Chronic Depression and Generalized
     Anxiety. I Am Not Ashamed.
 
-2018-06-09
+### 2018-06-09
 
 -   <https://thegracefulpatient.wordpress.com/2017/12/15/a-simple-mental-health-pain-scale/>
 
@@ -1189,13 +1189,13 @@ Name one thing in this photo.
     as a starting point but it seems like a *really* simple way to
     communicate with loved ones, at least in summary form.
 
-2018-06-05
+### 2018-06-05
 
 -   <https://www.facebook.com/Vox/videos/891621461025457/>
 
     A Fairlight CM1 synthesizer
 
-2018-06-03
+### 2018-06-03
 
 -   Tattooed pastor Nadia Bolz-Weber, founder of the Church for All
     Sinners and Saints in Denver, CO.
@@ -1209,7 +1209,7 @@ Name one thing in this photo.
     The video that exposed me to her.
     It's the one about the apocalypse.
 
-2018-05-31
+### 2018-05-31
 
 -   <https://www.youtube.com/watch?v=5uiroWBkdFY>
 
@@ -1219,7 +1219,7 @@ Name one thing in this photo.
 
     soldering
 
-2018-05-30
+### 2018-05-30
 
 -   <http://www.bookofjoe.com/2018/05/life-and-work-liana-finck.html>
 
@@ -1227,7 +1227,7 @@ Name one thing in this photo.
 
     NEAT
 
-2018-05-29
+### 2018-05-29
 
 -   <https://imgur.com/a/4A5lGVi>
 
@@ -3222,7 +3222,7 @@ more command-line shell awesomeness
     Sunday, July 2, 1978 - Last edition of the New York Times
     published using hot metal linotypes
 
-2018-07-08
+### 2018-07-08
 
 -   <https://www.facebook.com/cathie.post.1>
 
