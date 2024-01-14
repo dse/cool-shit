@@ -6,6 +6,33 @@ https://github.com/dse/cool-shit/
 
 ## 2024
 
+### SUN 14-JAN-2024 [18367]
+
+-   [11 Curse Words & Insults from the ’50s We Need to Bring Back](https://www.bustle.com/life/11-curse-words-from-the-50s-we-need-to-bring-back-16765036)
+
+    -   "get bent"
+    -   "oh, fudge"
+    -   "scram"
+    -   "make like a tree and leave"
+    -   "I'll give you a knuckle sandwich"
+    -   "stuff it"
+    -   "that's so Mickey Mouse" (so easy that no effort is required or it's dumb, childish or silly)
+    -   "put a lid on it"
+    -   "riffraff"
+    -   "Heavens to Betsy"
+    -   "party pooper"
+    
+    Bonus:
+    
+    -   "put a cork in it"
+    -   "can it"
+
+### TUE 02-JAN-2024 [18355]
+
+-   [The Display Field Guide](https://tpirepguide.com/qwizx/gameshows/dfg/dfg.html)
+    has everything you ever wanted to know about displays
+    used on game shows.
+
 ### MON 01-JAN-2024 [18354]
 
 -   [Bits'N'Picas](https://github.com/kreativekorp/bitsnpicas), tools to create bitmap fonts.
