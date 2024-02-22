@@ -27,19 +27,39 @@ https://github.com/dse/cool-shit/
 
 -   [10 very promising Open Source Projects you haven't heard of](https://www.youtube.com/watch?v=qXUl3VsbA6o) (21-MAR-2022)
 
-    -   The Fuck - helps correct your typos in bash
-    -   Partytown - runs third party scripts in a web worker
-    -   SuperTokens - a FOSS authentication solution
-    -   Hi, mom! - blazingly fast JS code that says "Hi, mom!"
+    -   [The Fuck](https://github.com/nvbn/thefuck) - helps correct
+        your typos in bash
+
+    -   [Partytown](https://partytown.builder.io/) - runs third party
+        scripts in a web worker
+
+    -   [SuperTokens](https://github.com/supertokens) - a FOSS
+        authentication solution
+
+    -   [Hi, mom!](https://github.com/tsivinsky/hi-mom) - blazingly
+        fast JS code that says "Hi, mom!"
+
     -   search enginges
-        -   Meilisearch
-        -   Zinc
-    -   tRPC - end-to-end typesafe APIs, it's basically just REST with functions instead of objects you manipulate
-    -   NocoDB - Airtable alternative (Database table editor)
-    -   Hoppscotch - Postman alternative (HTTP client)
-    -   Danfo.js - Multi-dimensional array functions (a la Pandas in Python)
-    -   Mantine.dev - UI components
-    -   Amplication - automatically generates frontend and backend code for applications
+        -   [Meilisearch](https://www.meilisearch.com/)
+        -   [Zinc](https://github.com/zincsearch/zincsearch)
+
+    -   [tRPC](https://trpc.io/) - end-to-end typesafe APIs, it's
+        basically just REST with functions instead of objects you
+        manipulate
+
+    -   [NocoDB](https://nocodb.com/) - Airtable alternative (Database
+        table editor)
+
+    -   [Hoppscotch](https://hoppscotch.io/) - Postman alternative
+        (HTTP client)
+
+    -   [Danfo.js](https://danfo.jsdata.org/) - Multi-dimensional
+        array functions (a la Pandas in Python)
+
+    -   [Mantine.dev](https://mantine.dev/) - UI components
+
+    -   [Amplication](https://amplication.com/) - automatically
+        generates frontend and backend code for applications
 
 ### MON 22-JAN-2024 [18375]
 
