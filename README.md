@@ -42,6 +42,19 @@ https://github.com/dse/cool-shit/
     -   search enginges
         -   [Meilisearch](https://www.meilisearch.com/)
         -   [Zinc](https://github.com/zincsearch/zincsearch)
+        
+        Others are:
+        -   Solr
+        -   Apache Lucene
+        -   SearX
+        -   SearXNG
+        -   YaCy
+        -   Vespa
+        -   Typesense
+        -   The Lemur Project
+        
+        More:
+        -   https://gist.github.com/manigandham/58320ddb24fed654b57b4ba22aceae25
 
     -   [tRPC](https://trpc.io/) - end-to-end typesafe APIs, it's
         basically just REST with functions instead of objects you
