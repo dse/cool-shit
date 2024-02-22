@@ -2,13 +2,77 @@
 
 https://github.com/dse/cool-shit/
 
-<!-- NOTE TO SELF: DO NOT PUT PRIVATE SHIT HERE. -->
+<!-- ▐▀▚ ▞▀▖    ▙ ▌▗▀▚ ▀▛▘    ▛▀▖▐ ▐ ▀▛▘    ▛▀▖▐▀▚ ▝▛ ▐ ▐ ▗▚ ▝▜▀ ▛▀▘ -->
+<!-- ▐ ▐ ▌ ▌    ▌▚▌▐ ▐  ▌     ▛▀ ▐ ▐  ▌     ▛▀ ▐▀▌  ▌ ▝▖▞ ▙▄▌ ▐  ▛▀  -->
+<!-- ▝▀▘ ▝▀     ▘ ▘ ▀▘  ▘     ▘   ▀▘  ▘     ▘  ▝ ▝ ▝▀  ▝  ▘ ▘ ▝  ▀▀▘ -->
+<!--  ▜▘ ▙ ▌▐▀▀ ▞▀▖▐▀▚ ▙▗▌ ▞▖ ▀▛▘ ▜▘ ▞▀▖▐▖▐    ▐ ▐ ▛▀▘▐▀▚ ▛▀▘ -->
+<!--  ▐  ▌▚▌▐▀▘ ▌ ▌▐▀▌ ▌▌▌▐▄▟  ▌  ▐  ▌ ▌▐▝▟    ▐▀▜ ▛▀ ▐▀▌ ▛▀  -->
+<!--  ▀▘ ▘ ▘▝   ▝▀ ▝ ▝ ▘ ▘▝ ▝  ▘  ▀▘ ▝▀ ▝ ▝    ▝ ▝ ▀▀▘▝ ▝ ▀▀▘ -->
 
 ## 2024
 
+### WED 21-FEB-2014 [18405]
+
+-   awesome bash
+
+    -   https://github.com/akinomyoga/ble.sh
+    
+    -   https://atuin.sh/ works with ble.sh.
+
+### MON 12-FEB-2024 [18396]
+
+-   _Taking Down Trump_ by Tristan(sp?) Snell(sp?) [via](https://www.youtube.com/watch?v=dekz21rEi_E&t=878s)
+    Tristan was one of the attorneys that took down "Trump University".
+    (_The Roads Not Taken_ E25, by The Roads with Beau)
+
+-   [10 very promising Open Source Projects you haven't heard of](https://www.youtube.com/watch?v=qXUl3VsbA6o) (21-MAR-2022)
+
+    -   The Fuck - helps correct your typos in bash
+    -   Partytown - runs third party scripts in a web worker
+    -   SuperTokens - a FOSS authentication solution
+    -   Hi, mom! - blazingly fast JS code that says "Hi, mom!"
+    -   search enginges
+        -   Meilisearch
+        -   Zinc
+    -   tRPC - end-to-end typesafe APIs, it's basically just REST with functions instead of objects you manipulate
+    -   NocoDB - Airtable alternative (Database table editor)
+    -   Hoppscotch - Postman alternative (HTTP client)
+    -   Danfo.js - Multi-dimensional array functions (a la Pandas in Python)
+    -   Mantine.dev - UI components
+    -   Amplication - automatically generates frontend and backend code for applications
+
+### MON 22-JAN-2024 [18375]
+
+-   JuliaMono's FAQ provides [CSS instructions](https://juliamono.netlify.app/faq/#css)
+    on how to enable and disable OpenType font features.
+    
+        selector {
+            font-variant-ligatures: no-contextual;
+            font-feature-settings: "zero", "ss02";
+        }
+
+-   [FontFreeze](https://mutsuntsai.github.io/fontfreeze/) is a
+    program that creates customized fonts with OpenType features
+    permanently switched on/off.
+    
+    [pyftsubset](https://juliamono.netlify.app/#using_pyftsubset)
+    also does this.
+
+### TUE 16-JAN-2024 [18369]
+
+-   https://incogni.com/fridaycheckout (affiliate link) (I'm sure there's others.)
+
+    via https://www.youtube.com/watch?v=D_oICIfY0cs
+    
+    Incogni is a service that checks all the infobrokers for you and
+    automatically issues takedown requests.  The affiliate link
+    reflects where I first head of this.
+
 ### SUN 14-JAN-2024 [18367]
 
--   [11 Curse Words & Insults from the ’50s We Need to Bring Back](https://www.bustle.com/life/11-curse-words-from-the-50s-we-need-to-bring-back-16765036)
+-   [11 Curse Words & Insults from the ’50s We Need to Bring Back][bustlecursewords]
+
+    [bustlecursewords]: https://www.bustle.com/life/11-curse-words-from-the-50s-we-need-to-bring-back-16765036
 
     -   "get bent"
     -   "oh, fudge"
@@ -26,6 +90,8 @@ https://github.com/dse/cool-shit/
     
     -   "put a cork in it"
     -   "can it"
+
+-   Out of Bakersfield, Calif., [Vaginal Blood Farts](https://www.reverbnation.com/vaginalbloodfarts)
 
 ### TUE 02-JAN-2024 [18355]
 
