@@ -1,0 +1,93 @@
+# Good Software Programs
+
+-   media
+    -   media editing
+        -   vector
+            -   Inkscape (vector editor)
+        -   raster
+            -   Gimp
+            -   Darktable (photo workflow)
+            -   FotoSketcher (turn photos into "artwork")
+            -   Krita (sketching and painting for artists)
+        -   video
+            -   DaVinci Resolve (video editing)
+            -   kdenlive (video editing)
+            -   Olive (nonlinear video editor)
+            -   OpenShot (video editor)
+            -   Shotcut (video editor)
+        -   audio
+            -   Audacity
+            -   LMMS (digital audio workstation for music creation)
+            -   Mixxx (audio mixing program for DJs)
+    -   media players and streaming
+        -   VLC
+        -   Kodi (media player, media server, all kinds of addons)
+        -   MPC-BE (Media Player Classic Black Edition, Windows only)
+        -   Plex (streaming video to devices)
+        -   PotPlayer (multimedia player)
+        -   SMPlayer (video player)
+    -   image viewers
+        -   ImageGlass (image viewing)
+        -   nomacs (image viewer, with resize, crop, and other simple editing options)
+        -   XnView MP (image viewer)
+    -   video converters
+        -   Handbrake
+-   documents
+    -   office suites
+        -   LibreOffice
+        -   OnlyOffice (office suite)
+    -   desktop publishing
+        -   Scribus (desktop publishing)
+    -   PDF, document viewers
+        -   Sumatra PDF (document viewer)
+        -   Foxit PDF Reader
+
+-   web browsers
+    -   Firefox
+    -   Vivaldi Browser (privacy, productivity, adblocking, chrome extensions)
+    -   Waterfox (web browser, supports Firefox add-ons)
+-   email clients
+    -   Thunderbird (email client)
+-   virtual machines
+    -   VirtualBox (virtual machines)
+-   code editors and IDEs
+    -   Sublime Text (code editor)
+    -   Visual Studio Code (IDE)
+-   screen capturing and recording
+    -   Greenshot (screen capture)
+    -   OBS Studio (screen recorder)
+    -   ShareX (screen capture with scrolling)
+    -   screenshots: Flameshot (all platforms)
+-   antivirus
+    -   BitDefender (Windows and macOS)
+-   passwords
+    -   BitWarden password manager
+-   cleaners
+    -   BleachBit (disk space cleaner)
+    -   Glary Utilities (Windows cleaner and performance booster)
+    -   Revo Uninstaller (uninstaller and cleaner, with system restore points)
+-   3-D modeling
+    -   Blender
+-   system searchers
+    -   Everything
+-   system utilities
+    -   CPU-Z (system profiling and monitoring for Windows)
+    -   DNS Benchmark (which DNS servers work best)
+    -   HWiNFO (Windows, monitoring, diagnostics, hardware info)
+-   exploration
+    -   Google Earth
+    -   Stellarium (planetarium)
+-   privacy
+    -   ProtonVPN (VPN with a free tier)
+    -   Tor Browser (privacy, tracker blocking, dark web)
+    -   VeraCrypt (encryption for disks, partitions)
+    -   uBlock Origin
+-   other
+    -   qBittorrent
+    -   Rufus (converts ISOs to bootable USB drives)
+    -   7-Zip (file archiver)
+-   Linux distributions
+    -   Ubuntu
+    -   Zorin
+    -   Elementary
+    -   Linux Mint
