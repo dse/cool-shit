@@ -11,6 +11,57 @@ https://github.com/dse/cool-shit/
 
 ## 2024
 
+### FRI 22-MAR-2024 [18435]
+
+-   [a website in pure css](https://pure-css-site.netlify.app) - as
+    in, the HTML consists of a `<link>` and a `<div>`, and there's no
+    JavaScript.  Heh
+
+-   [magick.css](https://css.winterveil.net) - minimalist framework
+
+-   [7 Ways to Make a Conversation With Anyone](https://www.youtube.com/watch?v=F4Zu5ZZAG7I)
+
+### WED 13-MAR-2024 [18426]
+
+-   [Hewlett-Packard](https://homepage.divms.uiowa.edu/~jones/cards/collection/i-program.html#HPbasic)
+    [Educational Basic](https://americanhistory.si.edu/collections/nmah_690500)
+    was a really cool punch card based implementation of BASIC.
+    
+    Students would fill in blanks (like ovals on a Scan-Tron), on a
+    specially marked punch card.  These cards were then fed to an
+    optical scanner, which likely punched the program onto the cards
+    for later batch processing.
+    
+    IBM had [a similar system](https://homepage.divms.uiowa.edu/~jones/cards/collection/i-program.html#IBMopticalFortran)
+    for writing FORTRAN programs on specially marked punch cards.
+
+### THU 29-FEB-2024 [18413]
+
+-   Brett In Tech recommends software.
+
+    -   Stuff [you shouldn't use](https://www.youtube.com/watch?v=uMV2SZsxeDI)
+        and what you can use as an alternative:
+
+        -   Lastpass
+            -   BitWarden
+            -   Keepass
+        -   Hola VPN
+            -   Proton VPN
+        -   Adblock Plus, lol.
+            -   uBlock Origin
+        -   Adobe Acrobat Reader
+            -   Foxit PDF Reader
+        -   Windows earlier than 10
+        -   Internet Explorer
+            -   Edge
+        -   RealPlayer, lol.
+            -   VLC
+            -   SMPlayer
+        -   Any extensions for antivirus and malware
+
+    -   [55 Useful Free Software Programs](https://www.youtube.com/watch?v=ocqvRdcM_pk)
+        -   see software.md.
+
 ### WED 21-FEB-2014 [18405]
 
 -   awesome bash
