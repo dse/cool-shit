@@ -11,6 +11,11 @@ https://github.com/dse/cool-shit/
 
 ## 2024
 
+### WED 03-APR-2024 [18447]
+
+-   [jsmediatags](https://github.com/aadsm/jsmediatags) apparently
+    allows you to extract song titles from audio streams.
+
 ### FRI 22-MAR-2024 [18435]
 
 -   [a website in pure css](https://pure-css-site.netlify.app) - as
