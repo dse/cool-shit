@@ -11,10 +11,18 @@ https://github.com/dse/cool-shit/
 
 ## 2024
 
+### MON 08-APR-2024 [18452]
+
+-   [_Legibility of Text on Instrument Panels: a Literature Review_](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/790/78865.0001.001.pdf?sequence=2),
+    University of Michigan Transportation Research Institute, November 1988
+
 ### WED 03-APR-2024 [18447]
 
 -   [jsmediatags](https://github.com/aadsm/jsmediatags) apparently
     allows you to extract song titles from audio streams.
+
+-   A (sort of) Routed Gothic was available from Letraset as
+    "Engineering Standard", crediting Keuffel & Esser as the designer.
 
 ### FRI 22-MAR-2024 [18435]
 
