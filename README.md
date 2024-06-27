@@ -11,10 +11,51 @@ https://github.com/dse/cool-shit/
 
 ## 2024
 
+### THU 26-JUN-2024 [18532]
+
+-   I still muck around with gulp-based static website workflows
+    because I am stuck in the past.
+
+    https://github.com/simongoricar/webpack-static-site-template
+    
+    https://github.com/alferov/awesome-gulp
+
+### THU 10-MAY-2024 [18483]
+
+-   [UTC, TAI, and UNIX time](https://cr.yp.to/proto/utctai.html)
+
+-   [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
+
+-   [Someone wrote an implementation of TLS 1.2 in Bash.](https://github.com/gh2o/bash_tls/)
+
+-   [Self-hosted dashboard](https://github.com/glanceapp/glance?tab=readme-ov-file)
+
+-   [Adobe Photoshop 1.0.1 Source Code](https://computerhistory.org/blog/adobe-photoshop-source-code/)
+
+-   [About Promises That Never Resolve](https://frontside.com/blog/2023-12-11-await-event-horizon/)
+
+-   [gittuf, Additional Integrity for Git Projects](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
+
+### FRI 26-APR-2024 [18470]
+
+-   It's called Gorton Normal Copy Type
+
+    http://www.gorton-machine.org/forms/index.html - See Form 2553.
+
+    https://news.ycombinator.com/item?id=19621544
+    
+    https://newsletter.shifthappens.site/archive/a-tale-of-three-skeuomorphs/
+
+    http://vintagemachinery.org/pubs/2136/26111.pdf
+
 ### MON 08-APR-2024 [18452]
 
 -   [_Legibility of Text on Instrument Panels: a Literature Review_](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/790/78865.0001.001.pdf?sequence=2),
     University of Michigan Transportation Research Institute, November 1988
+
+-   [_National Park Service Sign Manual_](https://www.nps.gov/parkhistory/online_books/npsg/sign_manual_1988.pdf),
+    United States Department of the Interior, 1988, where
+    the Gorton font is referred to as "Engineering Standard".
 
 ### WED 03-APR-2024 [18447]
 
