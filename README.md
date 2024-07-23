@@ -11,7 +11,17 @@ https://github.com/dse/cool-shit/
 
 ## 2024
 
-### THU 26-JUN-2024 [18532]
+### MON 22-JUL-2024 [18557]
+
+-   2004-09-03 [Hipster PDA](https://www.43folders.com/2004/09/03/introducing-the-hipster-pda) post
+
+### SUN 21-JUL-2024 [18556]
+
+-   [Mechanical Lettering](http://www.tpub.com/engbas/3-35.htm) (tpub.com)
+
+-   [Standard Lettering](https://en.wikisource.org/wiki/Standard_Lettering)
+
+### THU 26-JUN-2024 [18531]
 
 -   I still muck around with gulp-based static website workflows
     because I am stuck in the past.
@@ -20,7 +30,7 @@ https://github.com/dse/cool-shit/
     
     https://github.com/alferov/awesome-gulp
 
-### THU 10-MAY-2024 [18483]
+### THU 10-MAY-2024 [18484]
 
 -   [UTC, TAI, and UNIX time](https://cr.yp.to/proto/utctai.html)
 
@@ -98,8 +108,7 @@ https://github.com/dse/cool-shit/
 
         -   Lastpass
             -   BitWarden
-            -   Keepass
-        -   Hola VPN
+            -   Keepas        -   Hola VPN
             -   Proton VPN
         -   Adblock Plus, lol.
             -   uBlock Origin
