@@ -33,7 +33,7 @@ https://github.com/dse/cool-shit/
 
 ### MON 22-JUL-2024 [18557]
 
--   2004-09-03 [Hipster PDA](https://www.43folders.com/2004/09/03/introducing-the-hipster-pda) post
+-   03-SEP-2004 [Hipster PDA](https://www.43folders.com/2004/09/03/introducing-the-hipster-pda) post
 
 ### SUN 21-JUL-2024 [18556]
 
@@ -47,7 +47,7 @@ https://github.com/dse/cool-shit/
     because I am stuck in the past.
 
     https://github.com/simongoricar/webpack-static-site-template
-    
+
     https://github.com/alferov/awesome-gulp
 
 ### THU 10-MAY-2024 [18484]
@@ -73,7 +73,7 @@ https://github.com/dse/cool-shit/
     http://www.gorton-machine.org/forms/index.html - See Form 2553.
 
     https://news.ycombinator.com/item?id=19621544
-    
+
     https://newsletter.shifthappens.site/archive/a-tale-of-three-skeuomorphs/
 
     http://vintagemachinery.org/pubs/2136/26111.pdf
@@ -110,12 +110,12 @@ https://github.com/dse/cool-shit/
 -   [Hewlett-Packard](https://homepage.divms.uiowa.edu/~jones/cards/collection/i-program.html#HPbasic)
     [Educational Basic](https://americanhistory.si.edu/collections/nmah_690500)
     was a really cool punch card based implementation of BASIC.
-    
+
     Students would fill in blanks (like ovals on a Scan-Tron), on a
     specially marked punch card.  These cards were then fed to an
     optical scanner, which likely punched the program onto the cards
     for later batch processing.
-    
+
     IBM had [a similar system](https://homepage.divms.uiowa.edu/~jones/cards/collection/i-program.html#IBMopticalFortran)
     for writing FORTRAN programs on specially marked punch cards.
 
@@ -150,7 +150,7 @@ https://github.com/dse/cool-shit/
 -   awesome bash
 
     -   https://github.com/akinomyoga/ble.sh
-    
+
     -   https://atuin.sh/ works with ble.sh.
 
 ### MON 12-FEB-2024 [18396]
@@ -176,7 +176,7 @@ https://github.com/dse/cool-shit/
     -   search enginges
         -   [Meilisearch](https://www.meilisearch.com/)
         -   [Zinc](https://github.com/zincsearch/zincsearch)
-        
+
         Others are:
         -   Solr
         -   Apache Lucene
@@ -186,7 +186,7 @@ https://github.com/dse/cool-shit/
         -   Vespa
         -   Typesense
         -   The Lemur Project
-        
+
         More:
         -   https://gist.github.com/manigandham/58320ddb24fed654b57b4ba22aceae25
 
@@ -212,7 +212,7 @@ https://github.com/dse/cool-shit/
 
 -   JuliaMono's FAQ provides [CSS instructions](https://juliamono.netlify.app/faq/#css)
     on how to enable and disable OpenType font features.
-    
+
         selector {
             font-variant-ligatures: no-contextual;
             font-feature-settings: "zero", "ss02";
@@ -221,7 +221,7 @@ https://github.com/dse/cool-shit/
 -   [FontFreeze](https://mutsuntsai.github.io/fontfreeze/) is a
     program that creates customized fonts with OpenType features
     permanently switched on/off.
-    
+
     [pyftsubset](https://juliamono.netlify.app/#using_pyftsubset)
     also does this.
 
@@ -230,7 +230,7 @@ https://github.com/dse/cool-shit/
 -   https://incogni.com/fridaycheckout (affiliate link) (I'm sure there's others.)
 
     via https://www.youtube.com/watch?v=D_oICIfY0cs
-    
+
     Incogni is a service that checks all the infobrokers for you and
     automatically issues takedown requests.  The affiliate link
     reflects where I first head of this.
@@ -252,9 +252,9 @@ https://github.com/dse/cool-shit/
     -   "riffraff"
     -   "Heavens to Betsy"
     -   "party pooper"
-    
+
     Bonus:
-    
+
     -   "put a cork in it"
     -   "can it"
 
@@ -273,26 +273,26 @@ https://github.com/dse/cool-shit/
 -   Retro Terminal Emulators
 
     -   [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
-    
+
         -   [cool-old-term](https://github.com/yurikhan/cool-old-term), as which cool-retro-term was previously known
-    
+
     -   [Cathode](https://www.jwz.org/blog/2011/01/cathode-vintage-terminal-emulator/) (no longer available)
         ([a YouTube video](https://www.youtube.com/watch?v=YLHk-Dvu82g))
-        
+
     -   [TwoTerm](https://github.com/ksherlock/TwoTerm), the one that uses the Apple II font.
-    
+
     -   [one in JavaScript](https://codepen.io/jcubic/pen/BwBYOZ)
-    
+
     -   [Continuum93](https://community.monogame.net/t/continuum-93-a-fully-assembly-programable-retro-console-emulator/18501)
-    
+
     -   [LlamaTerminal](https://github.com/BleuLlama/LlamaTerminal)
-    
+
     -   A couple CodePens:
         [vintage terminal effects](https://codepen.io/collection/AeGGxz)
         and [terminal things](https://codepen.io/collection/Mgrkmw)
-    
+
     -   [awesome-terminals](https://github.com/cdleon/awesome-terminals)
-        
+
     -   [terminal-emulators](https://github.com/topics/terminal-emulators) GitHub topic
 
 ## 2023
@@ -367,13 +367,13 @@ Projects to help you with your Node.js project configuration files.
     Node projects load configuration files and semi-standardizes their
     locations so you don't have to worry about config file formats or
     anything.
-    
+
     -   `loaders` addresses, somewhat, the problem of merging custom
         settings into a default configuration.
 
 -   [Cosmic](https://anandchowdhary.github.io/cosmic/) ([github](https://github.com/AnandChowdhary/cosmic))
     --- is somehow different from cosmiconfig
-    
+
 -   [rc](https://github.com/dominictarr/rc)
 
     -   also addresses configuration merging.
@@ -431,10 +431,10 @@ Projects to help you with your Node.js project configuration files.
 
 -   Oh, nothing much, just another [Committee on Oversight and Accountability](https://www.youtube.com/watch?v=FvVnP8G6ITs?t=1079)
     hearing, nothing more.  This one's about... let's see... UAPs.  26-JUL-2023.
-    
+
 -   Pocket knives that are [5 for $13.50](https://www.leevalley.com/en-us/shop/tools/hand-tools/knives/70307-the-losable-knife?item=09A0307).
 
--   [NewsBlur](https://www.newsblur.com/) 
+-   [NewsBlur](https://www.newsblur.com/)
 
 -   [10 words](https://www.bookofjoe.com/2023/07/my-entry-13.html)
     to cut from your writing - Shanna Mallon
@@ -459,11 +459,11 @@ Projects to help you with your Node.js project configuration files.
     -   [Typograms](https://google.github.io/typograms/)
 
     -   [ASCIIFlow](https://asciiflow.com/)
-    
+
     -   [from hackaday](https://hackaday.com/2021/04/29/ascii-schematic-diagrams/)
-    
+
     -   [svgbob](https://ivanceras.github.io/svgbob-editor/)
-    
+
 -   This [engine simulator](https://www.engine-sim.parts/) was
     designed to produce engine sounds and response characteristics.
 
@@ -598,10 +598,10 @@ Projects to help you with your Node.js project configuration files.
 
     "I kid you not, in the '90s a piece of Germany's air traffic
     control software ran on Emacs."
-    
+
 -   https://blink.sh/ - a shell for iOS and iPadOS.
 
--   [Parquet](https://csvbase.com/blog/3): more than just "Turbo CSV" 
+-   [Parquet](https://csvbase.com/blog/3): more than just "Turbo CSV"
 
 -   [Do you need a yearly checkup?](https://english.elpais.com/science-tech/2023-04-01/do-you-need-a-yearly-checkup-experts-warn-that-they-carry-risks-and-do-not-reduce-mortality.html)
     Experts warn that they carry risks and do not reduce mortality
@@ -623,11 +623,11 @@ Projects to help you with your Node.js project configuration files.
     fediverse.  As in, federation.  Not as in, The Fed.
 
 -   Folding Mechanical Keyboard
-    
+
     ThinkOutside infrared
-    
+
     [ThinkOutside folding mechanical keyboard](https://old.reddit.com/r/cyberDeck/comments/124nkg2/nice_little_minideck/)
-    
+
     [Stowaway portable kb](https://www.techrepublic.com/article/trek-tech-think-outsides-stowaway-portable-keyboard-pushes-the-envelope/)
 
 -   [This is why everything looks the same.][615]
@@ -644,9 +644,9 @@ Projects to help you with your Node.js project configuration files.
     -   All the books have "f*ck" in the title.
     -   All the brands look the same.
     -   All the user-generated content (UCG) looks the same.
-    
+
     [Via][614]
-    
+
     [615]: https://www.alexmurrell.co.uk/articles/the-age-of-average
     [614]: https://news.ycombinator.com/item?id=35355703
 
@@ -656,7 +656,7 @@ Projects to help you with your Node.js project configuration files.
 
 -   [Winged messengers:](https://www.theguardian.com/global-development/2023/mar/28/winged-messengers-how-first-class-pigeons-help-police-keep-indians-safe)
     how first-class pigeons help police keep Indians safe
-    
+
 -   [A bicycle simulator.](https://ciechanow.ski/bicycle/)
 
 -   A couple articles on AWK:
@@ -679,16 +679,16 @@ Projects to help you with your Node.js project configuration files.
 -   [Focus on Typography](https://www.claireheffer.com/blog/focus-on-typography)
 
     A few actually good modern typefaces.
-    
+
 -   [Gorton Master Copy Type](http://gorton-machine.org/forms/form_1309d/index.html)&nbsp;&ndash;
     A 1947 catalog of typefaces for Gorton's engraving machines.
-    
+
     [Gorton's 1903 catalog](http://gorton-machine.org/corporate/g3birth/index.html)
     includes what appears to be a proto-"Routed Gothic" typeface.
-    
+
     [This 1925 catalog](http://gorton-machine.org/forms/form_933/index.html)
     evidences that the typeface existed at least as far back as then.
-    
+
     [K&E's Leroy lettering kits](https://www.mccoys-kecatalogs.com/KELeroy/LeRoy_Production/LeRoy_Soper.pdf)
     were introduced _c._ 1935, introducing a form of the typeface with
     larger aperture openings for use in engineering drawings.
@@ -701,9 +701,9 @@ Projects to help you with your Node.js project configuration files.
     includes a face called **Slope Gothic** that is very similar to if not exactly
     the type used for street names on USGS topographic maps from the 1950s or so to the 1980s.
     It also includes a Reproducing Typewriter face.
-    
+
     -   2023-08-12: Someone [sold 24-point metal type on Etsy](https://www.etsy.com/listing/1265826074/title-slope-gothic-aka-gothic-inclined).
-    
+
         [image](https://i.etsystatic.com/32055036/r/il/d19273/4104280897/il_1140xN.4104280897_e782.jpg)
 
 -   [ATF Typeface ID Numbers](https://handsetpress.org/atf/ATFnumeric.pdf)
@@ -772,11 +772,11 @@ Projects to help you with your Node.js project configuration files.
 the George Gorton Machine Company originated this apparently.
 
 -   [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
-    
+
     You do not have to follow these rules every time. If you have a
     good reason to break any of them, do. But they are safe to follow
     every time.
-    
+
     #webdesign #css
 
 ## 2022
@@ -808,7 +808,7 @@ the George Gorton Machine Company originated this apparently.
 ### 2022-03-29
 
 -   <https://css-tricks.com/simplified-fluid-typography/>
-    
+
     <https://css-tricks.com/snippets/css/fluid-typography/>
 
     fluid typography.  it's literally font-sizes in `vw` units with
@@ -829,9 +829,9 @@ the George Gorton Machine Company originated this apparently.
 -   Magsafe
 
     -   <https://developer.apple.com/accessories/Accessory-Design-Guidelines.pdf>
-    
+
     -   MagSafe Accessory Magnet Array
-    
+
         Apple recommends the following magnet array vendors:
         ● Ningbo Sanhuan Magsound Industry&Trade Co., Ltd. (<http://www.magsound.com>)
         ● Phone In Mag Electronics Co., Ltd. (<http://www.phonein.com.tw>)
@@ -845,7 +845,7 @@ the George Gorton Machine Company originated this apparently.
 ### 2021-12-05
 
     Everyone gets [the process of extracting the TLD from a hostname](https://www.publicsuffix.org/) wrong.
-    
+
     Do not always just take the last two components.
 
 ### 2021-11-30
@@ -873,7 +873,7 @@ the George Gorton Machine Company originated this apparently.
 
 -   [What Cruise Ships Are Really Like From the Passengers’ Point of View](https://parentinfluence.com/what-cruise-ships-are-really-like-is-m/40/)
     by Adriana Matthews
-    
+
 ### 2021-09-18
 
 -   Carcass's new album, _Torn Arteries_, is out now.
@@ -881,11 +881,11 @@ the George Gorton Machine Company originated this apparently.
     <https://www.youtube.com/watch?v=4QhzDmoDz0w>
 
 -   [**How I Treat My Seasonal Affective Disorder**](https://boingboing.net/2021/09/17/how-i-treat-my-seasonal-affective-disorder.html)
-    
+
     Maureen Herman
-    
+
     2:36 PM FRI, SEP 17, 2021
-    
+
     It's getting darker earlier. There's Christmas stuff out at
     Costco. You know what that means? The flat, tired, disinterested
     feeling you may be starting to feel is seasonal depression — which
@@ -956,44 +956,44 @@ the George Gorton Machine Company originated this apparently.
 -   [10 Papers Every Developer Should Read At Least Once](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
 
     -   "On the criteria to be used in decomposing systems into modules"
-    
+
         David Parnas
 
     -   "A Note On Distributed Computing"
-        
+
         Jim Waldo, Geoff Wyant, Ann Wollrath, Sam Kendall
 
     -   "The Next 700 Programming Languages"
-    
+
         P. J. Landin
 
     -   "Can Programming Be Liberated from the von Neumann Style?"
-    
+
         John Backus
 
     -   "Reflections on Trusting Trust"
-    
+
         Ken Thompson
 
     -   "Lisp: Good News, Bad News, How to Win Big"
-    
+
         Richard Gabriel
 
     -   "An experimental evaluation of the assumption of independence in
         multiversion programming"
-    
+
         John Knight and Nancy Leveson
 
     -   "Arguments and Results"
-    
+
         James Noble
 
     -   "A Laboratory For Teaching Object-Oriented Thinking"
-    
+
         Kent Beck, Ward Cunningham
 
     -   "Programming as an Experience: the inspiration for Self"
-    
+
         David Ungar, Randall B. Smith
 
 ### 2021-07-16
@@ -1030,14 +1030,14 @@ the George Gorton Machine Company originated this apparently.
     music (or from any other aesthetic experience) is called frisson,
     and it's been one of the big mysteries of human nature since it
     was first described.
-    
+
     FRISSON /free-sawn/
-    
+
     aka "aesthetic chills" or "musical chills"
-    
+
 -   If the music so good it is sublime you might be experiencing
     "numinous".
-    
+
     This word is for when something is so good that you can't help but
     detect a hint of divinity or spirituality in it. This is also good
     for when you have deep seated connection to your fellow humans,
@@ -1050,7 +1050,7 @@ the George Gorton Machine Company originated this apparently.
         <https://interlude.hk/moved-tears/>
 
     -   <https://ell.stackexchange.com/questions/140087/is-there-a-word-for-the-unutterable-feeling-when-listening-to-a-beautiful-song>
-    
+
     -   <https://www.independent.co.uk/life-style/music-give-chills-spine-brain-special-research-university-southern-california-a8043416.html>
 
         -   <https://www.youtube.com/watch?v=oUfW0Tex1G0>
@@ -1065,15 +1065,15 @@ the George Gorton Machine Company originated this apparently.
             "9".
 
     -   <https://en.wikipedia.org/wiki/Frisson>
-    
+
     -   <https://www.discovery.com/science/Getting-Chills-from-Music>
-    
+
     -   <https://www.nbcnews.com/better/health/why-do-certain-songs-make-us-cry-ncna784801>
-    
+
     -   <https://digest.bps.org.uk/2017/05/02/psychologists-have-studied-whats-happening-when-music-gives-us-chills-or-makes-us-cry/>
 
     Songs that for some reason induce feelings in me
-    
+
     -   "Brahms' Lullaby" in C sharp on a music box.
 
 -   <https://en.wikipedia.org/wiki/Appoggiatura>
@@ -1085,10 +1085,10 @@ the George Gorton Machine Company originated this apparently.
     Developers and Open Source authors now have a massive amount of
     services offering free tiers, but it can be hard to find them all
     to make informed decisions.
-    
+
     This is a list of software (SaaS, PaaS, IaaS, etc.) and other
     offerings that have free tiers for developers.
-    
+
     The scope of this particular list is limited to things that
     infrastructure developers (System Administrator, DevOps
     Practitioners, etc.) are likely to find useful. We love all the
@@ -1096,12 +1096,12 @@ the George Gorton Machine Company originated this apparently.
     topic. It's a bit of a grey line at times so this is a bit
     opinionated; do not be offended if I do not accept your
     contribution.
-    
+
     This list is the result of Pull Requests, reviews, ideas and work
     done by 500+ people. You too can help by sending Pull Requests to
     add more services or by remove ones whose offerings have changed
     or been retired.
-    
+
     NOTE: This list is only for as-a-Service offerings, not for
     self-hosted software. For a service to be eligible it has to offer
     a free tier and not just a free trial. If the free tier is
@@ -1112,7 +1112,7 @@ the George Gorton Machine Company originated this apparently.
 -   <https://martinheinz.dev/blog/43>
 
     Advanced Git Features You Didn’t Know You Needed
-    
+
     git is very powerful tool which almost every developer needs to
     use on daily basis, but for most us it's usage is reduced to just
     a few commands such as pull, commit and push. To be efficient,
@@ -1236,7 +1236,7 @@ the George Gorton Machine Company originated this apparently.
 -   <https://www.youtube.com/watch?v=2AMEtkZh85A>
 
     TNT's wife also reacts to N.I.B.
-    
+
 ## 2019
 
 ### 2019-12-09
@@ -3460,7 +3460,7 @@ more command-line shell awesomeness
 -   <https://www.facebook.com/cathie.post.1>
 
     Just another conservaturd teabagger potatriot.
-    
+
 ## Really Old Stuff
 
 -   <https://www.facebook.com/PearlsComic/photos/a.10152137834673764.1073741825.132583843763/10156171362763764/?type=3&theater>
@@ -3493,7 +3493,7 @@ more command-line shell awesomeness
     Jeopardy!
 
     "What's a ho?"
-    
+
     "No."
 
 -   <https://www.youtube.com/watch?v=xF0cGt5-69k>
@@ -3507,9 +3507,9 @@ more command-line shell awesomeness
     <https://www.youtube.com/watch?v=9czpYfVowvg>
 
     <https://www.youtube.com/watch?v=2_UA3s-jTdc>
-    
+
     <https://www.youtube.com/watch?v=DJZzGJ9SYzA>
-    
+
     THE PIZZA AND PASTA SONG!
 
     cvmmn cnfgn chg vg va n obk<br>
