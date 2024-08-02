@@ -2,21 +2,34 @@
 
 https://github.com/dse/cool-shit/
 
-<!-- ▐▀▚ ▞▀▖    ▙ ▌▗▀▚ ▀▛▘    ▛▀▖▐ ▐ ▀▛▘    ▛▀▖▐▀▚ ▝▛ ▐ ▐ ▗▚ ▝▜▀ ▛▀▘ -->
-<!-- ▐ ▐ ▌ ▌    ▌▚▌▐ ▐  ▌     ▛▀ ▐ ▐  ▌     ▛▀ ▐▀▌  ▌ ▝▖▞ ▙▄▌ ▐  ▛▀  -->
-<!-- ▝▀▘ ▝▀     ▘ ▘ ▀▘  ▘     ▘   ▀▘  ▘     ▘  ▝ ▝ ▝▀  ▝  ▘ ▘ ▝  ▀▀▘ -->
-<!--  ▜▘ ▙ ▌▐▀▀ ▞▀▖▐▀▚ ▙▗▌ ▞▖ ▀▛▘ ▜▘ ▞▀▖▐▖▐    ▐ ▐ ▛▀▘▐▀▚ ▛▀▘ -->
-<!--  ▐  ▌▚▌▐▀▘ ▌ ▌▐▀▌ ▌▌▌▐▄▟  ▌  ▐  ▌ ▌▐▝▟    ▐▀▜ ▛▀ ▐▀▌ ▛▀  -->
-<!--  ▀▘ ▘ ▘▝   ▝▀ ▝ ▝ ▘ ▘▝ ▝  ▘  ▀▘ ▝▀ ▝ ▝    ▝ ▝ ▀▀▘▝ ▝ ▀▀▘ -->
+<!--
+#   #  ###    ####  ####  ### #   #  ###  ##### #####   ### #   # #####  ###   #
+##  # #   #   #   # #   #  #  #   # #   #   #   #        #  ##  # #     #   #  #
+# # # #   #   ####  ####   #  #   # #####   #   ####     #  # # # ####  #   #  #
+#  ## #   #   #     # #    #   # #  #   #   #   #        #  #  ## #     #   #
+#   #  ###    #     #  ## ###   #   #   #   #   #####   ### #   # #      ###   #
+-->
 
 ## 2024
 
 ### FRI 01-AUG-2024 [18568]
 
--   [Theo](https://t3.gg/) is a badass motherfucker on [YouTube](https://www.youtube.com/results?search_query=t3.gg)
-    and [***Twitter***](https://twitter.com/t3dotgg)
-
 -   [Color scheme designer for terminals](https://ciembor.github.io/4bit/)
+
+-   Dev YouTubers:
+
+    -   [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
+    -   [t3.gg](https://www.youtube.com/@t3dotgg)
+    -   [ShortCircuit](https://www.youtube.com/@ShortCircuit)
+    -   [Dave's Garage](https://www.youtube.com/@DavesGarage)
+    -   [Fran Blanche](https://www.youtube.com/@FranLab)
+    -   [element14](https://www.youtube.com/@element14presents)
+    -   [Troy Hunt](https://www.youtube.com/@troyhuntdotcom)
+    -   [Learn with Jason](https://www.youtube.com/@learnwithjason)
+    -   [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+    -   [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
+    -   [This Week in IT](https://www.youtube.com/@ThisWeekinIT)
+    -   [Phoebe Yu](https://www.youtube.com/@phoebeyutbt)
 
 ### MON 22-JUL-2024 [18557]
 
