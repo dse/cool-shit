@@ -11,6 +11,13 @@ https://github.com/dse/cool-shit/
 
 ## 2024
 
+### FRI 01-AUG-2024 [18568]
+
+-   [Theo](https://t3.gg/) is a badass motherfucker on [YouTube](https://www.youtube.com/results?search_query=t3.gg)
+    and [***Twitter***](https://twitter.com/t3dotgg)
+
+-   [Color scheme designer for terminals](https://ciembor.github.io/4bit/)
+
 ### MON 22-JUL-2024 [18557]
 
 -   2004-09-03 [Hipster PDA](https://www.43folders.com/2004/09/03/introducing-the-hipster-pda) post
