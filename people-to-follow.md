@@ -11,7 +11,9 @@
     -   [youtube](https://www.youtube.com/@ChromeDevs)
     
 ## IT
-    
+
+-   The Computerphile
+    -   [youtube](https://www.youtube.com/@Computerphile)
 -   ShortCircuit
     -   [youtube](https://www.youtube.com/@ShortCircuit)
 -   element14
