@@ -15,14 +15,34 @@ https://github.com/dse/cool-shit/
 ### THU 03-OCT-2024 [18630]
 
 -   https://github.com/jesseduffield/lazygit
+
 -   terminal colors:
+
     -   https://jvns.ca/blog/2024/10/01/terminal-colours/
     -   https://github.com/chriskempson/base16-shell
+
 -   yet another terminal emulator:
     -   https://github.com/Eugeny/tabby
+
 -   https://arne.me/blog/we-need-more-zero-config-tools
 
-### FRI 01-AUG-2024 [18568]
+### THU 08-AUG-2024 [18574]
+
+-   The [PageKeeper Bookmark](https://shop.bookmarkstore.us/products/pagekeeper)
+    stays put and automatically advances as you turn the page.
+    
+-   The [Contactor Pen](https://www.knifecenter.com/item/FPCSP/fisher-contractor-space-pen-tool)
+    includes level and plumb bubbles, drywall and angle guages, a ruler, a
+    magnetic strip, and a Fisher space pen.
+
+-   [Banana slip-ons](https://kobilevidesign.blogspot.com/2010/04/banana-2010-leather.html)
+
+-   The [Tombow AirPress Ballpoint Pen](https://www.jetpens.com/Tombow-AirPress-Ballpoint-Pen-0.7-mm-Full-Black-Body/pd/6298)
+    pressurizes in one click.
+
+-   [Want.](https://tokyoflash.com/collections/watches/products/rotar-revolving-watch?utm_source=clivethompson&utm_medium=email&utm_campaign=linkfest-21-wooden-satellites-post-binary-fonts
+
+### FRI 02-AUG-2024 [18568]
 
 -   [Color scheme designer for terminals](https://ciembor.github.io/4bit/)
 
