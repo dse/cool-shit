@@ -12,6 +12,16 @@ https://github.com/dse/cool-shit/
 
 ## 2024
 
+### THU 03-OCT-2024 [18630]
+
+-   https://github.com/jesseduffield/lazygit
+-   terminal colors:
+    -   https://jvns.ca/blog/2024/10/01/terminal-colours/
+    -   https://github.com/chriskempson/base16-shell
+-   yet another terminal emulator:
+    -   https://github.com/Eugeny/tabby
+-   https://arne.me/blog/we-need-more-zero-config-tools
+
 ### FRI 01-AUG-2024 [18568]
 
 -   [Color scheme designer for terminals](https://ciembor.github.io/4bit/)
