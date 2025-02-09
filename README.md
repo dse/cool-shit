@@ -10,7 +10,75 @@ https://github.com/dse/cool-shit/
 #   #  ###    #     #  ## ###   #   #   #  #   #####   ### #   # #      ###   #
 -->
 
+## 2025
+
+### SAT 08-JAN-2025 [18728]
+
+-   READ LATER
+
+    https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html
+
+-   READ LATER
+
+    https://datagubbe.se/endofciv/
+
+-   https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/
+
+    https://bit.ly/donothingscripts
+
+    Do nothing scripts are scripts that simply provide guidance on
+    slog scripts.
+
+-   https://antirez.com/news/145
+
+    How we are destroying software.
+    
+-   https://fullystacked.net/how-to-gif-2025/
+
+    The most performant image and video options now.
+
+-   https://www.fontspring.com/fonts/fontsite/sunset
+
+    Sunset is a typeface that looks *a lot* like ITC Souvenir but its x-height is lower.
+    
+    https://eieio.games/blog/ uses this font.
+
+-   https://github.com/trycua/lume
+
+    Lume, not the deodorant, is a CLI for running local vm's on Apple Silicon.
+
 ## 2024
+
+### SAT 21-DEC-2024 [18710]
+
+-   [AI Color Palette Generator](https://colorify.rocks/)
+
+### FRI 20-DEC-2024 [18709]
+
+-   [G2i](https://soydev.link/g2i) - a ready pool of engineers if you
+    need to hire one.
+
+### SUN 08-DEC-2024 [18697]
+
+-   [JSON5](https://json5.org/) - one of five million document
+    formats.
+
+### SUN 27-OCT-2024 [18654]
+
+-   https://typeset.lllllllllllllllll.com/ (17 `l`s)
+
+    an HTML pre-processor for web typography
+    
+    See also: https://sile-typesetter.org/
+
+-   https://github.com/soimort/you-get
+
+    successor to `youtube-dl` and friends?
+
+-   https://linuxdevices.org/device-profile-vtech-helio-pda-from-the-linux-perspective/
+
+    There was a PDA that ran something called VT-OS, called the Vtech Helio.
+    It's the only device that ever ran that operating system.
 
 ### THU 03-OCT-2024 [18630]
 
