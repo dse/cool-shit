@@ -12,7 +12,18 @@ https://github.com/dse/cool-shit/
 
 ## 2025
 
-### SAT 08-JAN-2025 [18728]
+### SUN 16-FEB-2025 [18766]
+
+-   The Hardest Working Font in Manhattan
+
+    https://aresluna.org/the-hardest-working-font-in-manhattan/
+    
+    A complete deep-dive into the font used by Gorton's routing
+    machines, K&E's Leroy templates, etc.
+    
+    My Routed Gothic is a digitization of the Leroy branch.
+
+### SAT 08-FEB-2025 [18758]
 
 -   READ LATER
 
