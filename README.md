@@ -12,6 +12,16 @@ https://github.com/dse/cool-shit/
 
 ## 2025
 
+### MON 17-FEB-2025 [18767]
+
+-   [Comic Relief](https://github.com/loudifier/Comic-Relief)
+
+    Comic Relief is a typeface designed to be metrically equivalent to
+    the popular Comic Sans MS. Comic Relief can be used in place of
+    Comic Sans MS without having to move, resize, or reset any part of
+    the copy. Perfect for missing cat posters and all of your WordArt
+    needs!
+
 ### SUN 16-FEB-2025 [18766]
 
 -   The Hardest Working Font in Manhattan
