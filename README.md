@@ -12,6 +12,13 @@ https://github.com/dse/cool-shit/
 
 ## 2025
 
+### WED 09-APR-2025 [18818]
+
+-   [Jobscan](https://www.jobscan.co/) tells you what keywords you
+    should add to your résumé.
+
+    [via](https://www.youtube.com/shorts/2ax2jMzsIzM)
+
 ### SUN 16-FEB-2025 [18766]
 
 -   The Hardest Working Font in Manhattan
