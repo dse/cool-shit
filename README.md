@@ -12,6 +12,20 @@ https://github.com/dse/cool-shit/
 
 ## 2025
 
+### SAT 22-FEB-2025 [18772]
+
+-   [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
+
+    NASA has simple, strict guidelines.
+    
+    Via [The Primeagen](https://www.youtube.com/watch?v=JWKadu0ks20)
+    
+    Concepts covered:
+    
+    -   AVL trees
+    -   Arena allocations
+    -   TigerBeetle
+
 ### MON 17-FEB-2025 [18767]
 
 -   [Comic Relief](https://github.com/loudifier/Comic-Relief)
@@ -32,6 +46,8 @@ https://github.com/dse/cool-shit/
     machines, K&E's Leroy templates, etc.
     
     My Routed Gothic is a digitization of the Leroy branch.
+    
+    Hacker News: https://news.ycombinator.com/item?id=43053419
 
 ### SAT 08-FEB-2025 [18758]
 
