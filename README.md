@@ -12,6 +12,22 @@ https://github.com/dse/cool-shit/
 
 ## 2025
 
+### SUN 03-AUG-2025 [18934]
+
+-   https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related
+
+    How do you back up your non-work-related data?
+
+### SAT 19-JUL-2025 [18919]
+
+-   HN/Lobste.rs alternative type things
+
+    -   https://twostopbits.com/
+    
+    -   https://hackaday.com/
+    
+    via: https://news.ycombinator.com/item?id=42932532
+
 ### WED 09-APR-2025 [18818]
 
 -   [The figlet font format](https://github.com/lukesampson/figlet/blob/master/figfont.txt)
@@ -20,6 +36,30 @@ https://github.com/dse/cool-shit/
     should add to your résumé.
 
     [via](https://www.youtube.com/shorts/2ax2jMzsIzM)
+
+### SAT 22-FEB-2025 [18772]
+
+-   [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
+
+    NASA has simple, strict guidelines.
+    
+    Via [The Primeagen](https://www.youtube.com/watch?v=JWKadu0ks20)
+    
+    Concepts covered:
+    
+    -   AVL trees
+    -   Arena allocations
+    -   TigerBeetle
+
+### MON 17-FEB-2025 [18767]
+
+-   [Comic Relief](https://github.com/loudifier/Comic-Relief)
+
+    Comic Relief is a typeface designed to be metrically equivalent to
+    the popular Comic Sans MS. Comic Relief can be used in place of
+    Comic Sans MS without having to move, resize, or reset any part of
+    the copy. Perfect for missing cat posters and all of your WordArt
+    needs!
 
 ### SUN 16-FEB-2025 [18766]
 
@@ -31,6 +71,8 @@ https://github.com/dse/cool-shit/
     machines, K&E's Leroy templates, etc.
     
     My Routed Gothic is a digitization of the Leroy branch.
+    
+    Hacker News: https://news.ycombinator.com/item?id=43053419
 
 ### SAT 08-FEB-2025 [18758]
 
