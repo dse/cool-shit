@@ -14,6 +14,8 @@ https://github.com/dse/cool-shit/
 
 ### WED 09-APR-2025 [18818]
 
+-   [The figlet font format](https://github.com/lukesampson/figlet/blob/master/figfont.txt)
+
 -   [Jobscan](https://www.jobscan.co/) tells you what keywords you
     should add to your résumé.
 
