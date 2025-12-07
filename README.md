@@ -177,7 +177,7 @@ https://github.com/dse/cool-shit/
 -   The [PageKeeper Bookmark](https://shop.bookmarkstore.us/products/pagekeeper)
     stays put and automatically advances as you turn the page.
     
--   The [Contactor Pen](https://www.knifecenter.com/item/FPCSP/fisher-contractor-space-pen-tool)
+-   The [Contractor Pen](https://www.knifecenter.com/item/FPCSP/fisher-contractor-space-pen-tool)
     includes level and plumb bubbles, drywall and angle guages, a ruler, a
     magnetic strip, and a Fisher space pen.
 
