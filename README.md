@@ -12,6 +12,20 @@ https://github.com/dse/cool-shit/
 
 ## 2025
 
+### SUN 07-DEC-2025 [19060]
+
+-   [copyparty](https://github.com/9001/copyparty/) is a Python script
+    you can run on anything that functions as a fileserver.
+    
+    [This video](https://www.youtube.com/watch?v=15_-hgsX2V0)
+    introduced me to it.
+
+### WED 24-SEP-2025 [18988]
+
+-   PKL is Apple's relatively new and weird [configuration
+    language](https://github.com/apple/pkl) that supports limited
+    computation features.
+
 ### SUN 03-AUG-2025 [18934]
 
 -   https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related
@@ -63,16 +77,19 @@ https://github.com/dse/cool-shit/
 
 ### SUN 16-FEB-2025 [18766]
 
--   The Hardest Working Font in Manhattan
-
-    https://aresluna.org/the-hardest-working-font-in-manhattan/
+-   **The Hardest Working Font in Manhattan** is the one you see on
+    old office signage and other types of old signage all over the
+    place.
     
-    A complete deep-dive into the font used by Gorton's routing
-    machines, K&E's Leroy templates, etc.
+    [This page](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+    takes a through deep-dive into its history.  It's original to
+    Gorton's engraving machines, and found its way onto hand-drafted
+    engineering drawing via Keuffel & Esser's Leroy lettering kits.
     
-    My Routed Gothic is a digitization of the Leroy branch.
+    I created the [Routed Gothic](https://webonastick.com/fonts/routed-gothic/)
+    font based on the Leroy version.
     
-    Hacker News: https://news.ycombinator.com/item?id=43053419
+    [via hn](https://news.ycombinator.com/item?id=43053419)
 
 ### SAT 08-FEB-2025 [18758]
 
