@@ -140,7 +140,7 @@ https://github.com/dse/cool-shit/
 ### SUN 08-DEC-2024 [18697]
 
 -   [JSON5](https://json5.org/) - one of five million document
-    formats.
+    formats champing at the bit to become JSON's successor.
 
 ### SUN 27-OCT-2024 [18654]
 
@@ -164,7 +164,6 @@ https://github.com/dse/cool-shit/
 -   https://github.com/jesseduffield/lazygit
 
 -   terminal colors:
-
     -   https://jvns.ca/blog/2024/10/01/terminal-colours/
     -   https://github.com/chriskempson/base16-shell
 
