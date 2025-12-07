@@ -209,7 +209,7 @@ https://github.com/dse/cool-shit/
 
 ### MON 22-JUL-2024 [18557]
 
--   03-SEP-2004 [Hipster PDA](https://www.43folders.com/2004/09/03/introducing-the-hipster-pda) post
+-   The 03-SEP-2004 [Hipster PDA](https://www.43folders.com/2004/09/03/introducing-the-hipster-pda) post.
 
 ### SUN 21-JUL-2024 [18556]
 
