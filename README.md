@@ -726,7 +726,9 @@ Projects to help you with your Node.js project configuration files.
 
 ### Sat 2023-06-17
 
--   [Monotype Typewriter collection of fonts](https://collection.sciencemuseumgroup.org.uk/search/collection/monotype-corporation-collection?q=typewriter)
+-   [Monotype Typewriter collection of fonts](
+        https://collection.sciencemuseumgroup.org.uk/search/collection/monotype-corporation-collection?q=typewriter
+    )
 
 -   Jonathan investigated the provenance of [U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://www.fileformat.info/info/unicode/char/237c/index.htm),
     known as ANGZARR.  Results and notes are in parts
@@ -1076,9 +1078,9 @@ the George Gorton Machine Company originated this apparently.
 
 ### 2021-12-05
 
-    Everyone gets [the process of extracting the TLD from a hostname](https://www.publicsuffix.org/) wrong.
+Everyone gets [the process of extracting the TLD from a hostname](https://www.publicsuffix.org/) wrong.
 
-    Do not always just take the last two components.
+Do not always just take the last two components.
 
 ### 2021-11-30
 
