@@ -12,6 +12,16 @@ https://github.com/dse/cool-shit/
 
 ## 2025
 
+### SUN 21-SEP-2025 [18983]
+
+-   https://aria.dog/barks/forklift-certified-license/
+
+    The Forklift Certified License, 
+    
+-   https://github.com/ErikMcClure/bad-licenses/?tab=readme-ov-file
+
+    Other Oddball Software Licenses
+
 ### SUN 03-AUG-2025 [18934]
 
 -   https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related
