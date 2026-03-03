@@ -10,6 +10,42 @@ https://github.com/dse/cool-shit/
 #   #  ###    #     #  ## ###   #   #   #  #   #####   ### #   # #      ###   #
 -->
 
+## 2026
+
+### TUE 03-MAR-2026
+
+-   Open a comments section then your console then paste to get all
+    the exact reaction counts.
+
+        [...document.getElementsByTagName("script")]
+        .filter(e => e.innerHTML?.length)
+        .map(e => e.innerHTML)
+        .filter(html => html != null && /\S/.test(html) &&
+                        html.indexOf('"reaction_count"') >= 0)
+        .map(html => JSON.parse(html)?.require?.flat(Infinity) ?? [])
+        .flat().filter(o => o != null)
+        .map(o => o?.__bbox?.require?.flat(Infinity) ?? [])
+        .flat().filter(o => o != null)
+        .map(o => o?.__bbox?.result?.data?.node_v2?.comet_sections?.feedback
+                   ?.story?.story_ufi_container?.story?.feedback_context
+                   ?.feedback_target_with_context
+                   ?.comet_ufi_summary_and_actions_renderer?.feedback)
+        .filter(fb => fb?.reaction_count?.count != null)
+        .map(fb => [`${fb?.reaction_count?.count}`,
+                    fb?.top_reactions?.edges?.flat()?.map(
+                        o => `${o.node.localized_name} ${o.reaction_count}`
+                    )])
+        .map(o => JSON.stringify(o)).join("\n")
+        
+    NOTE: This doesn't work with reels.
+
+### SUN 01-MAR-2026
+
+-   [zoxide](https://crates.io/crates/zoxide) is a `cd` replacement
+    written in Rust.
+    
+-   [death to scroll fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
+
 ## 2025
 
 ### SUN 21-SEP-2025 [18983]
@@ -21,6 +57,20 @@ https://github.com/dse/cool-shit/
 -   https://github.com/ErikMcClure/bad-licenses/?tab=readme-ov-file
 
     Other Oddball Software Licenses
+
+### SUN 07-DEC-2025 [19060]
+
+-   [copyparty](https://github.com/9001/copyparty/) is a Python script
+    you can run on anything that functions as a fileserver.
+    
+    [This video](https://www.youtube.com/watch?v=15_-hgsX2V0)
+    introduced me to it.
+
+### WED 24-SEP-2025 [18988]
+
+-   PKL is Apple's relatively new and weird [configuration
+    language](https://github.com/apple/pkl) that supports limited
+    computation features.
 
 ### SUN 03-AUG-2025 [18934]
 
@@ -37,6 +87,15 @@ https://github.com/dse/cool-shit/
     -   https://hackaday.com/
     
     via: https://news.ycombinator.com/item?id=42932532
+
+### WED 09-APR-2025 [18818]
+
+-   [The figlet font format](https://github.com/lukesampson/figlet/blob/master/figfont.txt)
+
+-   [Jobscan](https://www.jobscan.co/) tells you what keywords you
+    should add to your résumé.
+
+    [via](https://www.youtube.com/shorts/2ax2jMzsIzM)
 
 ### SAT 22-FEB-2025 [18772]
 
@@ -64,16 +123,19 @@ https://github.com/dse/cool-shit/
 
 ### SUN 16-FEB-2025 [18766]
 
--   The Hardest Working Font in Manhattan
-
-    https://aresluna.org/the-hardest-working-font-in-manhattan/
+-   **The Hardest Working Font in Manhattan** is the one you see on
+    old office signage and other types of old signage all over the
+    place.
     
-    A complete deep-dive into the font used by Gorton's routing
-    machines, K&E's Leroy templates, etc.
+    [This page](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+    takes a through deep-dive into its history.  It's original to
+    Gorton's engraving machines, and found its way onto hand-drafted
+    engineering drawing via Keuffel & Esser's Leroy lettering kits.
     
-    My Routed Gothic is a digitization of the Leroy branch.
+    I created the [Routed Gothic](https://webonastick.com/fonts/routed-gothic/)
+    font based on the Leroy version.
     
-    Hacker News: https://news.ycombinator.com/item?id=43053419
+    [via hn](https://news.ycombinator.com/item?id=43053419)
 
 ### SAT 08-FEB-2025 [18758]
 
@@ -124,7 +186,7 @@ https://github.com/dse/cool-shit/
 ### SUN 08-DEC-2024 [18697]
 
 -   [JSON5](https://json5.org/) - one of five million document
-    formats.
+    formats champing at the bit to become JSON's successor.
 
 ### SUN 27-OCT-2024 [18654]
 
@@ -148,7 +210,6 @@ https://github.com/dse/cool-shit/
 -   https://github.com/jesseduffield/lazygit
 
 -   terminal colors:
-
     -   https://jvns.ca/blog/2024/10/01/terminal-colours/
     -   https://github.com/chriskempson/base16-shell
 
@@ -162,7 +223,7 @@ https://github.com/dse/cool-shit/
 -   The [PageKeeper Bookmark](https://shop.bookmarkstore.us/products/pagekeeper)
     stays put and automatically advances as you turn the page.
     
--   The [Contactor Pen](https://www.knifecenter.com/item/FPCSP/fisher-contractor-space-pen-tool)
+-   The [Contractor Pen](https://www.knifecenter.com/item/FPCSP/fisher-contractor-space-pen-tool)
     includes level and plumb bubbles, drywall and angle guages, a ruler, a
     magnetic strip, and a Fisher space pen.
 
@@ -194,7 +255,7 @@ https://github.com/dse/cool-shit/
 
 ### MON 22-JUL-2024 [18557]
 
--   03-SEP-2004 [Hipster PDA](https://www.43folders.com/2004/09/03/introducing-the-hipster-pda) post
+-   The 03-SEP-2004 [Hipster PDA](https://www.43folders.com/2004/09/03/introducing-the-hipster-pda) post.
 
 ### SUN 21-JUL-2024 [18556]
 
@@ -289,7 +350,8 @@ https://github.com/dse/cool-shit/
 
         -   Lastpass
             -   BitWarden
-            -   Keepas        -   Hola VPN
+            -   Keepass
+            -   Hola VPN
             -   Proton VPN
         -   Adblock Plus, lol.
             -   uBlock Origin
