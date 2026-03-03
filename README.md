@@ -581,7 +581,8 @@ couldn't convert to a Firefox account.
 
 ### SUN 03-SEP-2023 [18234]
 
--   [Bill Gates wrote most of the code for the Tandy/RadioShack 100.](https://www.quora.com/What-was-the-last-Microsoft-product-Bill-Gates-helped-code)
+-   [Bill Gates wrote most of the code for the Tandy/RadioShack 100.]\
+    (https://www.quora.com/What-was-the-last-Microsoft-product-Bill-Gates-helped-code)
 
 <!-- bookofjoe https://www.bookofjoe.com/2023/05/08/index.html -->
 
