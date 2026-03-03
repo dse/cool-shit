@@ -10,6 +10,15 @@ https://github.com/dse/cool-shit/
 #   #  ###    #     #  ## ###   #   #   #  #   #####   ### #   # #      ###   #
 -->
 
+## 2026
+
+### SUN 01-MAR-2026
+
+-   [zoxide](https://crates.io/crates/zoxide) is a `cd` replacement
+    written in Rust.
+    
+-   [death to scroll fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
+
 ## 2025
 
 ### SUN 07-DEC-2025 [19060]
