@@ -12,6 +12,33 @@ https://github.com/dse/cool-shit/
 
 ## 2026
 
+### TUE 03-MAR-2026
+
+-   Open a comments section then your console then paste to get all
+    the exact reaction counts.
+
+        [...document.getElementsByTagName("script")]
+        .filter(e => e.innerHTML?.length)
+        .map(e => e.innerHTML)
+        .filter(html => html != null && /\S/.test(html) &&
+                        html.indexOf('"reaction_count"') >= 0)
+        .map(html => JSON.parse(html)?.require?.flat(Infinity) ?? [])
+        .flat().filter(o => o != null)
+        .map(o => o?.__bbox?.require?.flat(Infinity) ?? [])
+        .flat().filter(o => o != null)
+        .map(o => o?.__bbox?.result?.data?.node_v2?.comet_sections?.feedback
+                   ?.story?.story_ufi_container?.story?.feedback_context
+                   ?.feedback_target_with_context
+                   ?.comet_ufi_summary_and_actions_renderer?.feedback)
+        .filter(fb => fb?.reaction_count?.count != null)
+        .map(fb => [`${fb?.reaction_count?.count}`,
+                    fb?.top_reactions?.edges?.flat()?.map(
+                        o => `${o.node.localized_name} ${o.reaction_count}`
+                    )])
+        .map(o => JSON.stringify(o)).join("\n")
+        
+    NOTE: This doesn't work with reels.
+
 ### SUN 01-MAR-2026
 
 -   [zoxide](https://crates.io/crates/zoxide) is a `cd` replacement
