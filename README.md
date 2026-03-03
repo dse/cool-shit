@@ -14,6 +14,13 @@ https://github.com/dse/cool-shit/
 
 ### TUE 03-MAR-2026
 
+-   [npmx.dev](https://npmx.dev) is a better npm search tool.
+
+-   [Peter Steinberg](https://github.com/steipete) has a bunch of
+    projects and they're all good.  Theo mentioned him a few times.
+
+### TUE 03-MAR-2026
+
 -   Open a comments section then your console then paste to get all
     the exact reaction counts.
 
