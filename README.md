@@ -304,7 +304,8 @@ https://github.com/dse/cool-shit/
 
         -   Lastpass
             -   BitWarden
-            -   Keepas        -   Hola VPN
+            -   Keepass
+            -   Hola VPN
             -   Proton VPN
         -   Adblock Plus, lol.
             -   uBlock Origin
