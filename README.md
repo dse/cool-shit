@@ -12,17 +12,37 @@ https://github.com/dse/cool-shit/
 
 ## 2026
 
+### SAT 28-MAR-2026
+
+-   [10 Tracks That Pioneered Metal](https://www.youtube.com/watch?v=C7Vcok3nN8c)
+    in the late 1960s #music #obscure #hardrock #psychedelic #metal
+    
+    | Song Title          | Artist               | Year |
+    |:--------------------|:---------------------|:-----|
+    | FUTILIST’S LAMENT   | HIGH TIDE            | 1969 |
+    | PEACE LOVING MAN    | BLOSSOM TOES         | 1969 |
+    | LISTEN TO THE SKY   | SANDS                | 1967 |
+    | RACE WITH THE GUN   | THE GUN              | 1968 |
+    | MAGIC POTION        | THE OPEN MIND        | 1969 |
+    | LOVE IN THE RAIN    | EDGAR BROUGHTON BAND | 1969 |
+    | BLISTER ON THE MOON | TASTE                | 1968 |
+    | DREAM               | LITTLE FREE ROCK     | 1969 |
+    | RHUBARB!            | SECOND HAND          | 1969 |
+    | TOO OLD             | ANDROMEDA            | 1969 |
+
 ### TUE 03-MAR-2026
 
--   [npmx.dev](https://npmx.dev) is a better npm search tool.
+-   [npmx.dev](https://npmx.dev) is a better npm search tool. #npm
+    #node #javascript
 
 -   [Peter Steinberg](https://github.com/steipete) has a bunch of
     projects and they're all good.  Theo mentioned him a few times.
+    #npm #node #javascript
 
 ### TUE 03-MAR-2026
 
--   Open a comments section then your console then paste to get all
-    the exact reaction counts.
+-   Open a Facebook comments section then your console then paste to
+    get all the exact reaction counts.
 
         [...document.getElementsByTagName("script")]
         .filter(e => e.innerHTML?.length)
