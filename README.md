@@ -12,6 +12,47 @@ https://github.com/dse/cool-shit/
 
 ## 2026
 
+### SUN 29-MAR-2026
+
+-   The New TARC
+
+    https://www.ridetarc.org/wp-content/uploads/2025/09/NTN-Countywide-Dec-5.pdf
+
+    | Route        | Description                       | Freq.            | Branch 1 Replaces | Branch 2 Replaces           |
+    |:-------------|:----------------------------------|------------------|-------------------|:----------------------------|
+    | **1A/1B/1C** | **Broadway-Bashford**             | **15**           |                   |                             |
+    | 1A           | Broadway-Hikes-Dutchmans          | 30               | 23                | 23 Hikes, Dutchmans         |
+    | 1B           | Broadway-Fegenbush-Okolona        | 60               | 23                | 43                          |
+    | 1C           | Broadway-Newburg-Okolona          | 60               | 23                | 23 Newburg/Fegenbush        |
+    |              |                                   |                  |                   |                             |
+    | **3A/3B/3C** | **Market-Preston**                | **15**           |                   |                             |
+    | 3A           | Cane Run-Okolona                  | 60               | 19 Cane Run       | 28 Jeff.Mall                |
+    | 3B           | 38th-Okolona                      | 60               | 19 38th-Bohne     | 28 Jeff.Mall                |
+    | 3C           | Market-UPS                        | 30               | 15                | 28 UPS                      |
+    | 4            | Fourth-New Cut                    | 15 to Central/30 | n/c               | n/c                         |
+    |              |                                   |                  |                   |                             |
+    | **5A/5B   ** | **Portland-Poplar**               | **30**           |                   |                             |
+    | 5A           | Portland-Goldsmith-Bashford       | 60               | 43                | 21                          |
+    | 5B           | Portland-Produce-Bashford         | 60               | 43                |                             |
+    |              |                                   |                  |                   |                             |
+    | **8A/8B   ** | **Taylor-Oxmoor**                 | **30**           |                   |                             |
+    | 8A           | Taylor-Frankfort-Holiday Manor    | 60               | 6                 | 19, 29 Oxmoor, 15 Hol.Manor |
+    | 8B           | Taylor-Frankfort-Fincastle        | 60               | 6                 | 19, 29 Oxmoor, 25 Fincastle |
+    |              |                                   |                  |                   |                             |
+    | **10A/10B ** | **Dixie**                         | **15**           |                   |                             |
+    | 10A          | Dixie-Valley                      | 30               | 10                |                             |
+    | 10B          | Dixie-Rockford                    | 30               | 10/29W            |                             |
+    |              |                                   |                  |                   |                             |
+    | 20           | 34th-Dutchmans-JTown              | 30 to Dutchm./60 | 27/29M/23/40      |                             |
+    | 57           | Bashford-Hurstbourne (Peak Hours) | Peak             | 23 Meijer         |                             |
+    | 71           | New Albany                        | 60               | 71 N'Albany       |                             |
+    | 72           | Clarksville                       | 60               | n/c               |                             |
+    | 76           | Jeffersonville                    | 60               | 71 Jeff'ville     |                             |
+    | 81           | V.A. Hospital                     | 60               | 15 V.A.Hosp.      |                             |
+    | 93           | UofL-UPS                          | night            | n/c               |                             |
+    | 94           | Cardinal Shuttle                  | night            | n/c               |                             |
+    | 99           | West Louisville-UPS               | 15               | n/c               |                             |
+
 ### SAT 28-MAR-2026
 
 -   [10 Tracks That Pioneered Metal](https://www.youtube.com/watch?v=C7Vcok3nN8c)
