@@ -12,6 +12,14 @@ https://github.com/dse/cool-shit/
 
 ## 2026
 
+### SAT 04-APR-2026
+
+-   [Angine de Poitrine](https://www.youtube.com/watch?v=0Ssi-9wS1so)
+    are an experimental math rock band.  One space alien on drums, the
+    other on some dual guitar with 24 frets per octive.  Because you
+    can't play and lead guitar at the same time, there's a sampling
+    loop for the bass.
+
 ### SUN 29-MAR-2026
 
 -   The New TARC
