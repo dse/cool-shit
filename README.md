@@ -18,7 +18,7 @@ https://github.com/dse/cool-shit/
     are an experimental math rock band.  One space alien on drums, the
     other on some dual guitar with 24 frets per octive.  Because you
     can't play and lead guitar at the same time, there's a sampling
-    loop for the bass.
+    loop for the bass. #experimentalRock #music #24frets #mathRock
 
 ### SUN 29-MAR-2026
 
