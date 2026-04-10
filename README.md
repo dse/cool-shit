@@ -12,6 +12,12 @@ https://github.com/dse/cool-shit/
 
 ## 2026
 
+### FRI 10-APR-2026
+
+-   [Just a couple](https://news.northeastern.edu/2026/04/06/angine-de-poitrine/)
+    [pieces on](https://floodmagazine.com/217689/angine-de-poitrine-breaking/)
+    Angine de Poitrine.
+
 ### SAT 04-APR-2026
 
 -   [Angine de Poitrine](https://www.youtube.com/watch?v=0Ssi-9wS1so)
@@ -19,6 +25,8 @@ https://github.com/dse/cool-shit/
     other on some dual guitar with 24 frets per octive.  Because you
     can't play and lead guitar at the same time, there's a sampling
     loop for the bass. #experimentalRock #music #24frets #mathRock
+    
+    /an-ZHEEN duh PWAH-treen/
 
 ### SUN 29-MAR-2026
 
