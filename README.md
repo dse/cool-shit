@@ -3,11 +3,12 @@
 https://github.com/dse/cool-shit/
 
 <!--
-#   #  ###    ####  ####  ### #   #   #  ##### #####   ### #   # #####  ###   #
-##  # #   #   #   # #   #  #  #   #  # #   #   #        #  ##  # #     #   #  #
-# # # #   #   ####  ####   #  #   # #   #  #   ####     #  # # # ####  #   #  #
-#  ## #   #   #     # #    #   # #  #####  #   #        #  #  ## #     #   #
-#   #  ###    #     #  ## ###   #   #   #  #   #####   ### #   # #      ###   #
+
+█▄  █ ▄▀▀▀▄   █▀▀▀▄ █▀▀▀▄ ▀█▀ █   █   █  ▀▀█▀▀ █▀▀▀▀   ▀█▀ █▄  █ █▀▀▀▀ ▄▀▀▀▄  █
+█▀▄ █ █   █   █▄▄▄▀ █▄▄▄▀  █  █   █  █ █   █   █▄▄▄     █  █▀▄ █ █▄▄▄  █   █  █
+█ ▀▄█ █   █   █     █ ▀▄   █   █ █  █▄▄▄█  █   █        █  █ ▀▄█ █     █   █  ▀
+█  ▀█ ▀▄▄▄▀   █     █   █ ▄█▄   █   █   █  █   █▄▄▄▄   ▄█▄ █  ▀█ █     ▀▄▄▄▀  ▄
+
 -->
 
 ## 2026
@@ -25,7 +26,7 @@ https://github.com/dse/cool-shit/
     other on some dual guitar with 24 frets per octive.  Because you
     can't play and lead guitar at the same time, there's a sampling
     loop for the bass. #experimentalRock #music #24frets #mathRock
-    
+
     /an-ZHEEN duh PWAH-treen/
 
 ### SUN 29-MAR-2026
@@ -73,7 +74,7 @@ https://github.com/dse/cool-shit/
 
 -   [10 Tracks That Pioneered Metal](https://www.youtube.com/watch?v=C7Vcok3nN8c)
     in the late 1960s #music #obscure #hardrock #psychedelic #metal
-    
+
     | Song Title          | Artist               | Year |
     |:--------------------|:---------------------|:-----|
     | FUTILIST’S LAMENT   | HIGH TIDE            | 1969 |
@@ -120,14 +121,14 @@ https://github.com/dse/cool-shit/
                         o => `${o.node.localized_name} ${o.reaction_count}`
                     )])
         .map(o => JSON.stringify(o)).join("\n")
-        
+
     NOTE: This doesn't work with reels.
 
 ### SUN 01-MAR-2026
 
 -   [zoxide](https://crates.io/crates/zoxide) is a `cd` replacement
     written in Rust.
-    
+
 -   [death to scroll fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
 
 ## 2025
@@ -136,8 +137,8 @@ https://github.com/dse/cool-shit/
 
 -   https://aria.dog/barks/forklift-certified-license/
 
-    The Forklift Certified License, 
-    
+    The Forklift Certified License,
+
 -   https://github.com/ErikMcClure/bad-licenses/?tab=readme-ov-file
 
     Other Oddball Software Licenses
@@ -146,7 +147,7 @@ https://github.com/dse/cool-shit/
 
 -   [copyparty](https://github.com/9001/copyparty/) is a Python script
     you can run on anything that functions as a fileserver.
-    
+
     [This video](https://www.youtube.com/watch?v=15_-hgsX2V0)
     introduced me to it.
 
@@ -167,9 +168,9 @@ https://github.com/dse/cool-shit/
 -   HN/Lobste.rs alternative type things
 
     -   https://twostopbits.com/
-    
+
     -   https://hackaday.com/
-    
+
     via: https://news.ycombinator.com/item?id=42932532
 
 ### WED 09-APR-2025 [18818]
@@ -186,11 +187,11 @@ https://github.com/dse/cool-shit/
 -   [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
 
     NASA has simple, strict guidelines.
-    
+
     Via [The Primeagen](https://www.youtube.com/watch?v=JWKadu0ks20)
-    
+
     Concepts covered:
-    
+
     -   AVL trees
     -   Arena allocations
     -   TigerBeetle
@@ -210,15 +211,15 @@ https://github.com/dse/cool-shit/
 -   **The Hardest Working Font in Manhattan** is the one you see on
     old office signage and other types of old signage all over the
     place.
-    
+
     [This page](https://aresluna.org/the-hardest-working-font-in-manhattan/)
     takes a through deep-dive into its history.  It's original to
     Gorton's engraving machines, and found its way onto hand-drafted
     engineering drawing via Keuffel & Esser's Leroy lettering kits.
-    
+
     I created the [Routed Gothic](https://webonastick.com/fonts/routed-gothic/)
     font based on the Leroy version.
-    
+
     [via hn](https://news.ycombinator.com/item?id=43053419)
 
 ### SAT 08-FEB-2025 [18758]
@@ -241,7 +242,7 @@ https://github.com/dse/cool-shit/
 -   https://antirez.com/news/145
 
     How we are destroying software.
-    
+
 -   https://fullystacked.net/how-to-gif-2025/
 
     The most performant image and video options now.
@@ -249,7 +250,7 @@ https://github.com/dse/cool-shit/
 -   https://www.fontspring.com/fonts/fontsite/sunset
 
     Sunset is a typeface that looks *a lot* like ITC Souvenir but its x-height is lower.
-    
+
     https://eieio.games/blog/ uses this font.
 
 -   https://github.com/trycua/lume
@@ -277,7 +278,7 @@ https://github.com/dse/cool-shit/
 -   https://typeset.lllllllllllllllll.com/ (17 `l`s)
 
     an HTML pre-processor for web typography
-    
+
     See also: https://sile-typesetter.org/
 
 -   https://github.com/soimort/you-get
@@ -306,7 +307,7 @@ https://github.com/dse/cool-shit/
 
 -   The [PageKeeper Bookmark](https://shop.bookmarkstore.us/products/pagekeeper)
     stays put and automatically advances as you turn the page.
-    
+
 -   The [Contractor Pen](https://www.knifecenter.com/item/FPCSP/fisher-contractor-space-pen-tool)
     includes level and plumb bubbles, drywall and angle guages, a ruler, a
     magnetic strip, and a Fisher space pen.
