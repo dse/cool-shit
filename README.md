@@ -13,11 +13,21 @@ https://github.com/dse/cool-shit/
 
 ## 2026
 
+### TUE 28-APR-2026
+
+-   https://www.puzzlescript.net
+
+-   [Installation Media](https://www.microsoft.com/en-us/software-download/windows10)
+    for Windows 10 in case you need Windows 10.
+
 ### FRI 10-APR-2026
 
 -   [Just a couple](https://news.northeastern.edu/2026/04/06/angine-de-poitrine/)
     [pieces on](https://floodmagazine.com/217689/angine-de-poitrine-breaking/)
     Angine de Poitrine.
+    
+-   “[patch-package](https://www.npmjs.com/package/patch-package) is a
+    package for patching packages.” -Theo
 
 ### SAT 04-APR-2026
 
