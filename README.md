@@ -13,6 +13,11 @@ https://github.com/dse/cool-shit/
 
 ## 2026
 
+### SAT 01-AUG-2026
+
+-   [An archive of source code](https://www.softwareheritage.org/) for the purpose
+    of preservation.
+
 ### TUE 28-APR-2026
 
 -   https://www.puzzlescript.net
